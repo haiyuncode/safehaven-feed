@@ -1,0 +1,25 @@
+﻿{
+  "positivity": {
+    "youtubeChannels": [
+      { "name": "Therapy in a Nutshell", "channelId": "UCpuqYFKLkcEryEieomiAv3Q" }
+    ],
+    "blogs": [
+      { "name": "PositivePsychology", "rss": "https://positivepsychology.com/feed/" }
+    ]
+  },
+  "narcissism": {
+    "youtubeChannels": [
+      { "name": "Dr. Ramani", "channelId": "UC9Z2A1ZqFJ7HhnNfsZHZCew" },
+      { "name": "Surviving Narcissism", "channelId": "UC5-8GzCwNTnZcQk9fQ9L9Qw" }
+    ],
+    "blogs": [
+      { "name": "Shannon Thomas", "rss": "https://shannonthomas.com/feed/" }
+    ]
+  },
+  "fitness": {
+    "youtubeChannels": [
+      { "name": "Nate Bower Fitness", "channelId": "UC0x-by8bZq2IJ6t2f3v9QOQ" }
+    ],
+    "blogs": []
+  }
+}

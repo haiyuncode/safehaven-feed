@@ -1,15 +1,17 @@
-﻿{
+{
   "topic": "narcissism",
   "generatedAt": "",
   "videos": [
     {
-      "id": "yt:A2def",
-      "title": "Gaslighting: clear signs",
-      "videoId": "A2def",
-      "channel": "Dr. Ramani",
+      "id": "yt:dQw4w9WgXcQ",
+      "title": "Sample video for testing",
+      "videoId": "dQw4w9WgXcQ",
+      "channel": "YouTube",
       "publishedAt": "2024-01-01T00:00:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/A2def/hqdefault.jpg",
-      "tags": ["narcissism", "gaslighting"]
+      "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+      "tags": [
+        "test"
+      ]
     }
   ],
   "articles": []

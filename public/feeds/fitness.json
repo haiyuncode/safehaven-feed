@@ -1,6 +1,6 @@
 {
   "topic": "fitness",
-  "generatedAt": "",
+  "generatedAt": "2025-08-13T21:30:02.678Z",
   "videos": [
     {
       "id": "yt:F3ghi",
@@ -9,7 +9,10 @@
       "channel": "Nate Bower Fitness",
       "publishedAt": "2024-01-01T00:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/F3ghi/hqdefault.jpg",
-      "tags": ["fitness", "breathing"]
+      "tags": [
+        "fitness",
+        "breathing"
+      ]
     }
   ],
   "articles": []

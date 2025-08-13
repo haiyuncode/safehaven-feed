@@ -1,19 +1,28 @@
 import { promises as fs } from "fs";
 import path from "path";
+import { unstable_noStore as noStore } from "next/cache";
 import Player from "@/app/components/Player";
 import QuickExit from "@/app/components/QuickExit";
+
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
 type FeedVideo = { videoId?: string };
 type FeedPayload = { videos?: FeedVideo[] };
 
 async function loadFeed(topic: string): Promise<FeedPayload> {
+  noStore();
   const file = path.join(process.cwd(), "public", "feeds", `${topic}.json`);
   const raw = await fs.readFile(file, "utf8");
   const clean = raw.replace(/^\uFEFF/, "").trimStart();
   return JSON.parse(clean) as FeedPayload;
 }
 
-export default async function Page({ params }: { params: Promise<{ topic: string }> }) {
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ topic: string }>;
+}) {
   const { topic } = await params;
   const data = await loadFeed(topic);
   const videoIds: string[] = (data.videos ?? [])
@@ -24,7 +33,7 @@ export default async function Page({ params }: { params: Promise<{ topic: string
       <QuickExit />
       <div className="w-full max-w-2xl">
         <h1 className="text-xl mb-3 capitalize">{topic} feed</h1>
-        <Player videoIds={videoIds} />
+        <Player videoIds={videoIds} topic={topic} />
       </div>
     </main>
   );

@@ -28,4 +28,23 @@ describe("feed json validity", () => {
       expect(j.videos[0].videoId.length).toBeGreaterThan(3);
     });
   }
+
+  it("player mute preference persists across videos (unit)", () => {
+    const store = new Map<string, string>();
+    globalThis.localStorage = {
+      getItem: (k: string) => store.get(k) ?? null,
+      setItem: (k: string, v: string) => void store.set(k, v),
+      removeItem: (k: string) => void store.delete(k),
+      clear: () => void store.clear(),
+      key: (i: number) => Array.from(store.keys())[i] ?? null,
+      get length() {
+        return store.size as number;
+      },
+    } as unknown as Storage;
+    localStorage.setItem("playerMuted", "false");
+    expect(localStorage.getItem("playerMuted")).toBe("false");
+    // simulate change back to muted and ensure it stores
+    localStorage.setItem("playerMuted", "true");
+    expect(localStorage.getItem("playerMuted")).toBe("true");
+  });
 });

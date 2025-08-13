@@ -1,12 +1,28 @@
 ﻿"use client";
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 
-export default function Player({ videoIds }: { videoIds: string[] }) {
+type YTMessage = { event?: string; info?: number; data?: number };
+
+function isYTMessage(value: unknown): value is YTMessage {
+  return typeof value === "object" && value !== null;
+}
+
+export default function Player({
+  videoIds,
+  topic,
+}: {
+  videoIds: string[];
+  topic?: string;
+}) {
   const [index, setIndex] = useState(0);
-  const [isMuted, setIsMuted] = useState(true);
+  const [queueIds, setQueueIds] = useState<string[]>(videoIds);
+  const [isRefreshing, setIsRefreshing] = useState(false);
+  const [atEnd, setAtEnd] = useState(false);
+  const [isMuted, setIsMuted] = useState(false);
   const [isPlaying, setIsPlaying] = useState(true);
   const [liked, setLiked] = useState<Set<string>>(new Set());
   const [hidden, setHidden] = useState<Set<string>>(new Set());
+  const [playerReady, setPlayerReady] = useState(false);
   const frameRef = useRef<HTMLIFrameElement>(null);
 
   // Load persisted prefs
@@ -14,8 +30,10 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
     try {
       const likedRaw = localStorage.getItem("likedVideos");
       const hiddenRaw = localStorage.getItem("hiddenVideos");
+      const mutedRaw = localStorage.getItem("playerMuted");
       if (likedRaw) setLiked(new Set(JSON.parse(likedRaw)));
       if (hiddenRaw) setHidden(new Set(JSON.parse(hiddenRaw)));
+      if (mutedRaw !== null) setIsMuted(mutedRaw === "true");
     } catch {}
   }, []);
 
@@ -30,23 +48,111 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
       localStorage.setItem("hiddenVideos", JSON.stringify(Array.from(hidden)));
     } catch {}
   }, [hidden]);
+  useEffect(() => {
+    try {
+      localStorage.setItem("playerMuted", String(isMuted));
+    } catch {}
+  }, [isMuted]);
 
-  const visibleIds = videoIds.filter((id) => !hidden.has(id));
+  const visibleIds = queueIds.filter((id) => !hidden.has(id));
   const vid = visibleIds[index];
+  const [loadedId, setLoadedId] = useState<string | undefined>(vid);
+
+  // Initialize loadedId on first render or when the first visible id changes from empty
+  useEffect(() => {
+    if (!loadedId && vid) setLoadedId(vid);
+  }, [vid, loadedId]);
 
   function sendCommand(func: string, args: unknown[] = []) {
     const msg = JSON.stringify({ event: "command", func, args });
     frameRef.current?.contentWindow?.postMessage(msg, "*");
   }
 
-  function next() {
-    setIndex((i) => Math.min(i + 1, Math.max(visibleIds.length - 1, 0)));
-  }
-  function prev() {
-    setIndex((i) => Math.max(i - 1, 0));
-  }
+  const refreshFeed = useCallback(
+    async (advanceIfAtEnd: boolean = false): Promise<number> => {
+      if (!topic) return 0;
+      try {
+        setIsRefreshing(true);
+        const res = await fetch(`/feeds/${topic}.json?ts=${Date.now()}`, {
+          cache: "no-store",
+        });
+        const data = await res.json();
+        type VideoItem = { videoId?: string };
+        const videosUnknown = (data as { videos?: unknown }).videos;
+        const videosArr: VideoItem[] = Array.isArray(videosUnknown)
+          ? (videosUnknown as VideoItem[])
+          : [];
+        const newIds: string[] = videosArr
+          .map((v) => v.videoId)
+          .filter(
+            (id): id is string => typeof id === "string" && id.length > 3
+          );
+        if (newIds.length > 0) {
+          const delta = newIds.filter((id) => !queueIds.includes(id));
+          if (delta.length > 0) {
+            setQueueIds((prev) => {
+              const combined = prev.concat(delta);
+              if (advanceIfAtEnd && atEnd) {
+                setIndex((prevIdx) =>
+                  Math.min(prevIdx + 1, combined.length - 1)
+                );
+                setAtEnd(false);
+              }
+              return combined;
+            });
+            return delta.length;
+          }
+        }
+      } catch {
+      } finally {
+        setIsRefreshing(false);
+      }
+      return 0;
+    },
+    [topic, queueIds, atEnd]
+  );
 
-  function togglePlayPause() {
+  const next = useCallback(() => {
+    setIndex((i) => {
+      const lastIdx = Math.max(visibleIds.length - 1, 0);
+      const targetIdx = Math.min(i + 1, lastIdx);
+      if (i >= lastIdx) {
+        setAtEnd(true);
+        void refreshFeed(true);
+        return lastIdx;
+      }
+      const nextId = visibleIds[targetIdx];
+      if (playerReady && nextId) {
+        sendCommand("loadVideoById", [nextId]);
+        // Always unmute on explicit next per requirement
+        sendCommand("unMute");
+        sendCommand("setVolume", [100]);
+        sendCommand("playVideo");
+        setIsMuted(false);
+      } else {
+        setLoadedId(nextId);
+      }
+      return targetIdx;
+    });
+  }, [playerReady, refreshFeed, visibleIds]);
+  const prev = useCallback(() => {
+    setIndex((i) => {
+      const targetIdx = Math.max(i - 1, 0);
+      const prevId = visibleIds[targetIdx];
+      if (playerReady && prevId) {
+        sendCommand("loadVideoById", [prevId]);
+        sendCommand("unMute");
+        sendCommand("setVolume", [100]);
+        sendCommand("playVideo");
+        setIsMuted(false);
+      } else {
+        setLoadedId(prevId);
+      }
+      return targetIdx;
+    });
+  }, [playerReady, visibleIds]);
+
+  const togglePlayPause = useCallback(() => {
     if (isPlaying) {
       sendCommand("pauseVideo");
       setIsPlaying(false);
@@ -54,9 +160,9 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
       sendCommand("playVideo");
       setIsPlaying(true);
     }
-  }
+  }, [isPlaying]);
 
-  function toggleMute() {
+  const toggleMute = useCallback(() => {
     if (isMuted) {
       sendCommand("unMute");
       setIsMuted(false);
@@ -64,7 +170,7 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
       sendCommand("mute");
       setIsMuted(true);
     }
-  }
+  }, [isMuted]);
 
   function toggleLike(id: string) {
     setLiked((prev) => {
@@ -87,24 +193,57 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
       const data = e.data;
       // Handle both stringified and object messages
       if (typeof data === "string") {
+        // Unmute as soon as the player is ready
+        if (data.includes("onReady")) {
+          setPlayerReady(true);
+          sendCommand("unMute");
+          sendCommand("setVolume", [100]);
+          sendCommand("playVideo");
+          setIsMuted(false);
+        }
         if (data.includes("onStateChange") && data.includes('"data":0')) {
           next();
         }
-      } else if (data && typeof data === "object") {
+      } else if (isYTMessage(data)) {
         // Some embeds post objects like {event: 'onStateChange', info: 0}
-        // @ts-expect-error loose shape from third-party
         if (
           data.event === "onStateChange" &&
           (data.info === 0 || data.data === 0)
         ) {
           next();
         }
+        if (data.event === "onReady") {
+          setPlayerReady(true);
+          sendCommand("unMute");
+          sendCommand("setVolume", [100]);
+          sendCommand("playVideo");
+          setIsMuted(false);
+        }
       }
     };
     window.addEventListener("message", onMessage);
     return () => window.removeEventListener("message", onMessage);
     // visibleIds length ensures bounds for next()
-  }, [visibleIds.length]);
+  }, [visibleIds.length, isMuted, next]);
+
+  // When the video changes and user prefers sound on, attempt to unmute after the iframe loads
+  useEffect(() => {
+    if (!vid || isMuted) return;
+    const t = setTimeout(() => {
+      sendCommand("unMute");
+      sendCommand("setVolume", [100]);
+      sendCommand("playVideo");
+    }, 250);
+    return () => clearTimeout(t);
+  }, [vid, isMuted]);
+
+  // Proactively refresh when nearing the end (<= 3 remaining)
+  useEffect(() => {
+    const remaining = Math.max(visibleIds.length - 1 - index, 0);
+    if (remaining <= 3 && !isRefreshing && topic) {
+      void refreshFeed(false);
+    }
+  }, [index, visibleIds.length, isRefreshing, topic, refreshFeed]);
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -126,7 +265,15 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [isPlaying, isMuted, visibleIds.length]);
+  }, [
+    isPlaying,
+    isMuted,
+    visibleIds.length,
+    togglePlayPause,
+    prev,
+    next,
+    toggleMute,
+  ]);
 
   if (!vid) {
     return (
@@ -136,7 +283,10 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
     );
   }
 
-  const src = `https://www.youtube-nocookie.com/embed/${vid}?rel=0&modestbranding=1&playsinline=1&enablejsapi=1&mute=1&autoplay=1`;
+  const currentId = loadedId || vid;
+  const src = `https://www.youtube-nocookie.com/embed/${currentId}?rel=0&modestbranding=1&playsinline=1&enablejsapi=1&mute=${
+    isMuted ? 1 : 0
+  }&autoplay=1`;
 
   const isLiked = liked.has(vid);
 
@@ -148,6 +298,12 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
         src={src}
         title="Video player"
         allow="autoplay; encrypted-media"
+        onLoad={() => {
+          // Re-apply user mute preference and play state when the iframe loads
+          if (isMuted) sendCommand("mute");
+          else sendCommand("unMute");
+          if (isPlaying) sendCommand("playVideo");
+        }}
       />
       <div className="mt-3 flex flex-wrap gap-3 items-center">
         <button aria-label="Previous" onClick={prev}>
@@ -171,10 +327,55 @@ export default function Player({ videoIds }: { videoIds: string[] }) {
         <button aria-label="Hide this video" onClick={() => hideCurrent(vid)}>
           Hide
         </button>
+        {liked.size > 0 && (
+          <a
+            href="/liked"
+            className="px-2 py-1 rounded bg-neutral-800 hover:bg-neutral-700"
+            aria-label="Open liked playlist"
+          >
+            Liked playlist
+          </a>
+        )}
       </div>
       <p className="mt-2 text-xs text-neutral-500">
         Shortcuts: Space=Play/Pause, Up=Prev, Down=Next, M=Mute
       </p>
+      {atEnd && (
+        <div className="mt-3 w-full max-w-md rounded-lg bg-neutral-900 border border-neutral-800 p-4 text-sm">
+          <p className="mb-2">You&#39;ve reached the end of this feed.</p>
+          <div className="flex flex-wrap gap-2">
+            {topic && (
+              <button
+                disabled={isRefreshing}
+                onClick={() => void refreshFeed(true)}
+                className="px-3 py-1 rounded bg-neutral-800 hover:bg-neutral-700 disabled:opacity-50"
+              >
+                {isRefreshing ? "Refreshing..." : "Refresh feed"}
+              </button>
+            )}
+            <button
+              onClick={() => {
+                setIndex(0);
+                setAtEnd(false);
+              }}
+              className="px-3 py-1 rounded bg-neutral-800 hover:bg-neutral-700"
+            >
+              Restart from beginning
+            </button>
+            <button
+              onClick={() => (window.location.href = "/")}
+              className="px-3 py-1 rounded bg-neutral-800 hover:bg-neutral-700"
+            >
+              Switch topic
+            </button>
+          </div>
+          {!isRefreshing && (
+            <p className="mt-2 text-neutral-500">
+              New videos appear as feeds refresh every few hours.
+            </p>
+          )}
+        </div>
+      )}
     </div>
   );
 }

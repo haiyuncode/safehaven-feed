@@ -9,8 +9,8 @@
   },
   "narcissism": {
     "youtubeChannels": [
-      { "name": "Dr. Ramani", "channelId": "UC9Z2A1ZqFJ7HhnNfsZHZCew" },
-      { "name": "Surviving Narcissism", "channelId": "UC5-8GzCwNTnZcQk9fQ9L9Qw" }
+      { "name": "Dr. Ramani", "handle": "DoctorRamani", "url": "https://www.youtube.com/@DoctorRamani" },
+      { "name": "Surviving Narcissism", "handle": "SurvivingNarcissism", "url": "https://www.youtube.com/@SurvivingNarcissism" }
     ],
     "blogs": [
       { "name": "Shannon Thomas", "rss": "https://shannonthomas.com/feed/" }
@@ -18,7 +18,7 @@
   },
   "fitness": {
     "youtubeChannels": [
-      { "name": "Nate Bower Fitness", "channelId": "UC0x-by8bZq2IJ6t2f3v9QOQ" }
+      { "name": "Nate Bower Fitness", "handle": "NateBowerFitness", "url": "https://www.youtube.com/@NateBowerFitness" }
     ],
     "blogs": []
   }

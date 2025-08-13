@@ -284,9 +284,11 @@ export default function Player({
   }
 
   const currentId = loadedId || vid;
-  const src = `https://www.youtube-nocookie.com/embed/${currentId}?rel=0&modestbranding=1&playsinline=1&enablejsapi=1&mute=${
+  const src = `https://www.youtube-nocookie.com/embed/${currentId}?rel=0&modestbranding=1&playsinline=1&enablejsapi=1&cc_load_policy=1&cc_lang_pref=en&mute=${
     isMuted ? 1 : 0
   }&autoplay=1`;
+  const nextId =
+    visibleIds[Math.min(index + 1, Math.max(visibleIds.length - 1, 0))];
 
   const isLiked = liked.has(vid);
 
@@ -305,6 +307,16 @@ export default function Player({
           if (isPlaying) sendCommand("playVideo");
         }}
       />
+      {/* Preload next video in a hidden iframe to reduce transition gap */}
+      {nextId && nextId !== currentId && (
+        <iframe
+          className="w-0 h-0 opacity-0 pointer-events-none absolute"
+          aria-hidden
+          tabIndex={-1}
+          src={`https://www.youtube-nocookie.com/embed/${nextId}?rel=0&modestbranding=1&playsinline=1&enablejsapi=0&autoplay=0&mute=1`}
+          title="preload"
+        />
+      )}
       <div className="mt-3 flex flex-wrap gap-3 items-center">
         <button aria-label="Previous" onClick={prev}>
           Prev

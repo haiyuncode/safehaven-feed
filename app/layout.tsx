@@ -27,6 +27,19 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <a
+          href="https://www.opencounseling.com/suicide-hotlines"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="fixed left-3 bottom-3 z-50 rounded bg-red-600/90 hover:bg-red-600 text-white px-3 py-2 text-sm shadow"
+        >
+          Crisis help
+        </a>
+        <div className="fixed inset-x-0 bottom-0 z-40 flex items-center justify-center pointer-events-none">
+          <div className="pointer-events-auto m-3 max-w-3xl w-full rounded bg-neutral-900/90 border border-neutral-800 text-neutral-300 text-xs p-3">
+            Not therapy or diagnosis. For emergencies, use Crisis help. Content aims to be validating and educational.
+          </div>
+        </div>
         {children}
       </body>
     </html>

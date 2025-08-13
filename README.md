@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Safehaven Feed — Topic Shorts Feed (AI‑free)
 
-## Getting Started
+Privacy‑first video feed with topic‑locked streams and continuous playback. No accounts, no AI, no tracking.
 
-First, run the development server:
+### Features (implemented)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- Topic pages at `feed/[topic]` loading from static JSON in `public/feeds/*.json`.
+- Player with continuous playback and improved end detection.
+- Keyboard shortcuts: Space (Play/Pause), Up (Prev), Down (Next), M (Mute).
+- Like/Hide with `localStorage` persistence.
+- Quick Exit: opens neutral site in a new tab and redirects home; target can be configured.
+
+### Environment
+
+- `NEXT_PUBLIC_QUICK_EXIT_URL` (optional): neutral destination for Quick Exit.
+  - Default: `https://news.ycombinator.com`.
+
+Create `.env.local`:
+
+```
+NEXT_PUBLIC_QUICK_EXIT_URL=https://www.weather.com
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Getting started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```powershell
+npm run dev
+# tests (run automatically before build via prebuild)
+npm run test
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open `http://localhost:3000` and choose a topic.
 
-## Learn More
+### Roadmap
 
-To learn more about Next.js, take a look at the following resources:
+- Phase 3: feed builder (`rss-parser`) + `scripts/build-feeds.ts` + cron workflow.
+- Phase 5: safety/a11y polish (captions default when available, crisis links, color contrast).
+- Phase 6: deploy to Vercel; add minimal monitoring.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+See `../MVP2_DailyFeed.md` for full plan and `ARCHITECTURE.md` for design and maintenance.

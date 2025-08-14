@@ -37,7 +37,8 @@ export default function RootLayout({
         </a>
         <div className="fixed inset-x-0 bottom-0 z-40 flex items-center justify-center pointer-events-none">
           <div className="pointer-events-auto m-3 max-w-3xl w-full rounded bg-neutral-900/90 border border-neutral-800 text-neutral-300 text-xs p-3">
-            Not therapy or diagnosis. For emergencies, use Crisis help. Content aims to be validating and educational.
+            Not therapy or diagnosis. For emergencies, use Crisis help. Content
+            aims to be validating and educational.
           </div>
         </div>
         {children}

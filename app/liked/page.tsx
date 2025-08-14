@@ -1,9 +1,25 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 
+type FSWritable = {
+  write: (data: Blob) => Promise<void>;
+  close: () => Promise<void>;
+};
+type FSFileHandle = {
+  getFile: () => Promise<File>;
+  createWritable: () => Promise<FSWritable>;
+};
+type WindowFS = Window & {
+  showOpenFilePicker?: (opts?: unknown) => Promise<FSFileHandle[]>;
+  showSaveFilePicker?: (opts?: unknown) => Promise<FSFileHandle>;
+};
+type NavigatorWithPersist = Navigator & {
+  storage?: { persist?: () => Promise<boolean> };
+};
+
 export default function LikedPage() {
   const [liked, setLiked] = useState<string[]>([]);
-  const [autoHandle, setAutoHandle] = useState<any>(null);
+  const [autoHandle, setAutoHandle] = useState<FSFileHandle | null>(null);
   const [autoSaving, setAutoSaving] = useState(false);
 
   useEffect(() => {
@@ -15,11 +31,10 @@ export default function LikedPage() {
       setLiked([]);
     }
     // Request persistent storage to reduce eviction risk
-    if (navigator.storage && (navigator.storage as any).persist) {
-      try {
-        (navigator.storage as any).persist();
-      } catch {}
-    }
+    try {
+      const nav = navigator as NavigatorWithPersist;
+      void nav.storage?.persist?.();
+    } catch {}
   }, []);
 
   const unique = useMemo(() => Array.from(new Set(liked)), [liked]);
@@ -75,8 +90,9 @@ export default function LikedPage() {
 
   async function openFromFile() {
     try {
-      // @ts-expect-error File System Access API
-      const [fileHandle] = await (window as any).showOpenFilePicker({
+      const w = window as WindowFS;
+      if (!w.showOpenFilePicker) return;
+      const [fileHandle] = await w.showOpenFilePicker({
         types: [
           {
             description: "JSON",
@@ -85,7 +101,7 @@ export default function LikedPage() {
         ],
         excludeAcceptAllOption: false,
         multiple: false,
-      });
+      } as unknown);
       const file = await fileHandle.getFile();
       const text = await file.text();
       const arr = JSON.parse(text);
@@ -103,8 +119,9 @@ export default function LikedPage() {
 
   async function chooseAutoSaveFile() {
     try {
-      // @ts-expect-error File System Access API
-      const fileHandle = await (window as any).showSaveFilePicker({
+      const w = window as WindowFS;
+      if (!w.showSaveFilePicker) return;
+      const fileHandle = await w.showSaveFilePicker({
         suggestedName: "liked-videos.json",
         types: [
           {
@@ -113,14 +130,14 @@ export default function LikedPage() {
           },
         ],
         excludeAcceptAllOption: false,
-      });
+      } as unknown);
       setAutoHandle(fileHandle);
       setAutoSaving(true);
       await writeToHandle(fileHandle, unique);
     } catch {}
   }
 
-  async function writeToHandle(handle: any, list: string[]) {
+  async function writeToHandle(handle: FSFileHandle, list: string[]) {
     try {
       const writable = await handle.createWritable();
       await writable.write(

@@ -26,9 +26,9 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          title: 'chore(feeds): refresh topic feeds'
-          body: 'Automated feed refresh from CI.'
-          commit-message: 'chore(feeds): refresh topic feeds'
+          title: "chore(feeds): refresh topic feeds"
+          body: "Automated feed refresh from CI."
+          commit-message: "chore(feeds): refresh topic feeds"
           branch: feeds/refresh-${{ github.run_id }}
           delete-branch: true
           committer: feed-bot <feed-bot@users.noreply.github.com>

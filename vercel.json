@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "/feed/positivity", "permanent": false }
+  ],
+  "headers": [
+    {
+      "source": "/public/feeds/(.*).json",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=300, stale-while-revalidate=60" }
+      ]
+    }
+  ]
+}
+

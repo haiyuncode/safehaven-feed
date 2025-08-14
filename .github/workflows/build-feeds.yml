@@ -23,24 +23,13 @@ jobs:
           node-version: "20"
       - run: npm ci
       - run: npm run build:feeds
-      - name: Commit feeds to update branch
-        id: commit
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: chore(feeds): refresh topic feeds
-          file_pattern: public/feeds/*.json
-          branch: feeds/refresh-${{ github.run_id }}
-          create_branch: true
-          commit_user_name: feed-bot
-          commit_user_email: feed-bot@users.noreply.github.com
-
-      - name: Open PR to main
-        if: steps.commit.outputs.changes_detected == 'true'
+      - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
           title: 'chore(feeds): refresh topic feeds'
           body: 'Automated feed refresh from CI.'
           commit-message: 'chore(feeds): refresh topic feeds'
           branch: feeds/refresh-${{ github.run_id }}
-          base: ${{ github.ref_name }}
-          labels: chore, feeds
+          delete-branch: true
+          committer: feed-bot <feed-bot@users.noreply.github.com>
+          author: feed-bot <feed-bot@users.noreply.github.com>

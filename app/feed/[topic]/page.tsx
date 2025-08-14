@@ -3,7 +3,6 @@ import path from "path";
 import { unstable_noStore as noStore } from "next/cache";
 import Player from "@/app/components/Player";
 import QuickExit from "@/app/components/QuickExit";
-import Link from "next/link";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
@@ -32,12 +31,6 @@ export default async function Page({
   return (
     <main className="min-h-screen bg-neutral-950 text-neutral-100 flex items-center justify-center p-6">
       <QuickExit />
-      <Link
-        href="/"
-        className="fixed left-3 top-3 z-50 rounded bg-neutral-800 px-3 py-2 text-sm hover:bg-neutral-700"
-      >
-        Back to topics
-      </Link>
       <div className="w-full max-w-2xl">
         <h1 className="text-xl mb-3 capitalize">{topic} feed</h1>
         <Player videoIds={videoIds} topic={topic} />

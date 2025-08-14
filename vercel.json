@@ -1,4 +1,7 @@
 {
+  "redirects": [
+    { "source": "/", "destination": "/feed/positivity", "permanent": false }
+  ],
   "headers": [
     {
       "source": "/public/feeds/(.*).json",

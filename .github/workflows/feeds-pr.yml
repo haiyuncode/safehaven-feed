@@ -1,0 +1,41 @@
+name: Build topic feeds (PR)
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    concurrency:
+      group: feeds-build
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm ci
+      - run: npm run build:feeds
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          title: "chore(feeds): refresh topic feeds"
+          body: "Automated feed refresh from CI."
+          commit-message: "chore(feeds): refresh topic feeds"
+          branch: feeds/refresh-${{ github.run_id }}
+          base: main
+          delete-branch: true
+          labels: chore, feeds
+          committer: feed-bot <feed-bot@users.noreply.github.com>
+          author: feed-bot <feed-bot@users.noreply.github.com>
+
+

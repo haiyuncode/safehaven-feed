@@ -1,4 +1,4 @@
-name: Build topic feeds
+name: Build topic feeds (legacy)
 
 on:
   schedule:
@@ -23,13 +23,5 @@ jobs:
           node-version: "20"
       - run: npm ci
       - run: npm run build:feeds
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          title: "chore(feeds): refresh topic feeds"
-          body: "Automated feed refresh from CI."
-          commit-message: "chore(feeds): refresh topic feeds"
-          branch: feeds/refresh-${{ github.run_id }}
-          delete-branch: true
-          committer: feed-bot <feed-bot@users.noreply.github.com>
-          author: feed-bot <feed-bot@users.noreply.github.com>
+      - name: No-op step
+        run: echo "Use feeds-pr.yml workflow for PR-based updates."

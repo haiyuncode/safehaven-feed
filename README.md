@@ -39,3 +39,26 @@ Open `http://localhost:3000` and choose a topic.
 - Phase 6: deploy to Vercel; add minimal monitoring.
 
 See `../MVP2_DailyFeed.md` for full plan and `ARCHITECTURE.md` for design and maintenance.
+
+### Live URL & Domains
+
+- Current production URL: `https://safehaven-feed-khwsksk68-acloudseas-projects.vercel.app/feed/positivity`
+- You can customize the URL in two ways:
+  - Rename the Vercel project to claim a cleaner `*.vercel.app` domain (free). Example: `safehaven-feed.vercel.app` if available.
+  - Add your own custom domain (free to connect; domain registration itself costs money if you need to purchase one).
+
+See `./DEPLOYMENT.md` for step‑by‑step instructions.
+
+### Operations (CI/CD)
+
+- Feeds are rebuilt every 6 hours by GitHub Actions and committed to `public/feeds/*.json`.
+- The workflow is resilient: retries on push conflicts and falls back to creating a PR if direct push fails.
+- Vercel auto‑redeploys on commit to `main`.
+
+### Next steps
+
+1. Choose and set a canonical domain (clean `*.vercel.app` or your own domain) and enforce redirects.
+2. Enable auto‑merge in the GitHub repo so the fallback PR flow can complete unattended.
+3. Review branch protection and Actions permissions: repository → Settings → Actions → Workflow permissions → "Read and write".
+4. Safety/a11y polish (captions, focus order, contrast) per `MVP2_DailyFeed.md`.
+5. Optional: add `vercel.json` to fine‑tune CDN caching for `public/feeds/*.json` (e.g., 5‑minute CDN TTL with stale‑while‑revalidate).

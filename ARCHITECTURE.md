@@ -26,6 +26,7 @@ Safehaven Feed is a privacy‑first, AI‑free Next.js app that serves topic‑l
 - Script: `scripts/build-feeds.ts` uses `rss-parser` to fetch whitelisted YouTube channel RSS and blogs.
 - Output: deterministic, deduped, newest‑first `public/feeds/<topic>.json` with capped history.
 - CI: `.github/workflows/build-feeds.yml` runs every 6 hours; commits updated feeds and triggers redeploy.
+- Push logic: fetch + rebase vs remote, regenerate, retry with exponential backoff; fallback PR with auto‑merge attempt if direct push fails.
 
 ### Security and Privacy
 
@@ -46,6 +47,13 @@ Safehaven Feed is a privacy‑first, AI‑free Next.js app that serves topic‑l
 - Add lightweight integration tests that sample playability (e.g., HTTP 200 for thumbnails) without external APIs.
 - Version feeds by schema if fields change; maintain backward‑compatible loaders in `page.tsx`.
 - Document environment flags in `README.md` and ensure safe defaults.
+
+### Domains
+
+- Default deployment uses a generated `*.vercel.app` domain.
+- You can rename the project in Vercel to claim a cleaner free `*.vercel.app` URL.
+- You can connect a custom domain you own; connecting is free, domain registration costs extra.
+- See `DEPLOYMENT.md` for details.
 
 ### Roadmap Notes
 

@@ -1,35 +1,80 @@
 import { NextResponse } from "next/server";
 import { promises as fs } from "fs";
 import path from "path";
+import Parser from "rss-parser";
+
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
 
 async function buildAdHocTopic(topic: string) {
-  const Parser = (await import("rss-parser")).default;
-  const parser = new Parser();
   const searchUrl = `https://www.youtube.com/feeds/videos.xml?search_query=${encodeURIComponent(
     topic
   )}`;
-  const feed = await parser.parseURL(searchUrl);
-  const videos = (feed.items || [])
-    .map((it: any) => {
-      const rawId = typeof it.id === "string" ? it.id : "";
-      const idFromId = rawId.includes(":") ? rawId.split(":").pop() : rawId;
-      let videoId = idFromId || "";
-      if (!videoId && typeof it.link === "string") {
-        const m = it.link.match(/[?&]v=([\w-]{6,})/);
-        if (m && m[1]) videoId = m[1];
+  let videos: any[] = [];
+  // Attempt 1: rss-parser (most robust)
+  try {
+    const parser = new Parser();
+    const feed = await parser.parseURL(searchUrl);
+    videos = (feed.items || [])
+      .map((it: any) => {
+        const rawId = typeof it.id === "string" ? it.id : "";
+        const idFromId = rawId.includes(":") ? rawId.split(":").pop() : rawId;
+        let videoId = idFromId || "";
+        if (!videoId && typeof it.link === "string") {
+          const m = it.link.match(/[?&]v=([\w-]{6,})/);
+          if (m && m[1]) videoId = m[1];
+        }
+        if (!videoId) return null;
+        return {
+          id: it.id || videoId,
+          title: it.title || topic,
+          videoId,
+          channel: feed.title || topic,
+          publishedAt: it.isoDate || new Date().toISOString(),
+          thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+          tags: [topic],
+        };
+      })
+      .filter(Boolean) as any[];
+  } catch (e) {
+    console.error("[api/build-topic] rss-parser failed:", (e as Error).message);
+  }
+
+  // Attempt 2: direct fetch + regex fallback
+  if (videos.length === 0) {
+    try {
+      const res = await fetch(searchUrl, { cache: "no-store" });
+      if (res.ok) {
+        const xml = await res.text();
+        const entries = Array.from(xml.matchAll(/<entry>[\s\S]*?<\/entry>/g));
+        videos = entries
+          .map((m) => m[0])
+          .map((entry) => {
+            const id =
+              (entry.match(/<yt:videoId>([^<]+)<\/yt:videoId>/) || [])[1] || "";
+            const title =
+              (entry.match(/<title>([\s\S]*?)<\/title>/) || [])[1] || topic;
+            const published =
+              (entry.match(/<published>([^<]+)<\/published>/) || [])[1] ||
+              new Date().toISOString();
+            return id
+              ? {
+                  id,
+                  title,
+                  videoId: id,
+                  channel: topic,
+                  publishedAt: published,
+                  thumbnail: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+                  tags: [topic],
+                }
+              : null;
+          })
+          .filter(Boolean) as any[];
       }
-      if (!videoId) return null;
-      return {
-        id: it.id || videoId,
-        title: it.title || topic,
-        videoId,
-        channel: feed.title || topic,
-        publishedAt: it.isoDate || new Date().toISOString(),
-        thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
-        tags: [topic],
-      };
-    })
-    .filter(Boolean) as any[];
+    } catch (e) {
+      console.error("[api/build-topic] regex fallback failed:", (e as Error).message);
+    }
+  }
 
   const payload = {
     topic,

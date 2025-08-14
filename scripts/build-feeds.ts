@@ -20,30 +20,34 @@ const sources: Sources = JSON.parse(
 async function fetchYouTubeChannel(channelId: string) {
   const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
   const feed = await parser.parseURL(url);
-  return feed.items.map((it) => {
-    const videoId = (it.id || "").split(":").pop() || "";
-    return {
-      id: it.id || videoId,
-      title: it.title || "",
-      videoId,
-      channel: feed.title || "",
-      publishedAt: it.isoDate || "",
-      thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
-      tags: [] as string[],
-    };
-  });
+  return feed.items.map(
+    (it: { id?: string; title?: string; isoDate?: string }) => {
+      const videoId = (it.id || "").split(":").pop() || "";
+      return {
+        id: it.id || videoId,
+        title: it.title || "",
+        videoId,
+        channel: feed.title || "",
+        publishedAt: it.isoDate || "",
+        thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+        tags: [] as string[],
+      };
+    }
+  );
 }
 
 async function fetchBlog(rss: string) {
   const feed = await parser.parseURL(rss);
-  return feed.items.map((it) => ({
-    id: `link:${it.link}`,
-    title: it.title || "",
-    url: it.link || "",
-    source: feed.title || "",
-    publishedAt: it.isoDate || "",
-    tags: [] as string[],
-  }));
+  return feed.items.map(
+    (it: { link?: string; title?: string; isoDate?: string }) => ({
+      id: `link:${it.link}`,
+      title: it.title || "",
+      url: it.link || "",
+      source: feed.title || "",
+      publishedAt: it.isoDate || "",
+      tags: [] as string[],
+    })
+  );
 }
 
 async function buildTopic(topic: Topic) {
@@ -65,8 +69,12 @@ async function buildTopic(topic: Topic) {
     seen.has(a.id) ? false : (seen.add(a.id), true)
   );
 
-  const newestFirst = (a: any, b: any) =>
-    new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+  const newestFirst = (
+    a: { publishedAt?: string },
+    b: { publishedAt?: string }
+  ) =>
+    new Date(b.publishedAt || 0).getTime() -
+    new Date(a.publishedAt || 0).getTime();
   dedupedVideos.sort(newestFirst);
   dedupedArticles.sort(newestFirst);
 

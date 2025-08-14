@@ -1,5 +1,4 @@
 ﻿import Link from 'next/link';
-import TopicSearch from './components/TopicSearch';
 
 export default function Page() {
   const topics = [
@@ -11,7 +10,6 @@ export default function Page() {
     <main className="min-h-screen bg-neutral-950 text-neutral-100 flex items-center justify-center p-6">
       <div className="w-full max-w-md space-y-6">
         <h1 className="text-2xl font-semibold">Choose your topic</h1>
-        <TopicSearch />
         <ul className="space-y-3">
           {topics.map((t) => (
             <li key={t.id}>

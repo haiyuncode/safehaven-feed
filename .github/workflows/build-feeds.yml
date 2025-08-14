@@ -18,18 +18,15 @@ jobs:
       - run: npm ci
       - run: npm run build:feeds
       - name: Commit feeds
-        env:
-          BRANCH: ${{ github.ref_name }}
         run: |
-          set -e
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
           git add public/feeds/*.json || true
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
-          git commit -m "chore(feeds): refresh topic feeds"
-          git fetch origin "$BRANCH"
-          git pull --rebase origin "$BRANCH" || true
-          git push --force-with-lease origin HEAD:"$BRANCH"
+          git diff --cached --quiet || git commit -m "chore(feeds): refresh topic feeds"
+
+      - name: Push changes (force-with-lease)
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref_name }}
+          force: true

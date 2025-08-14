@@ -3,30 +3,31 @@ import { promises as fs } from "fs";
 import path from "path";
 
 async function buildAdHocTopic(topic: string) {
+  const Parser = (await import("rss-parser")).default;
+  const parser = new Parser();
   const searchUrl = `https://www.youtube.com/feeds/videos.xml?search_query=${encodeURIComponent(
     topic
   )}`;
-  const res = await fetch(searchUrl, { cache: "no-store" });
-  if (!res.ok) throw new Error(`search feed ${res.status}`);
-  const xml = await res.text();
-  const entries = Array.from(xml.matchAll(/<entry>[\s\S]*?<\/entry>/g));
-  const videos = entries
-    .map((m) => m[0])
-    .map((entry) => {
-      const id = (entry.match(/<yt:videoId>([^<]+)<\/yt:videoId>/) || [])[1] || "";
-      const title = (entry.match(/<title>([\s\S]*?)<\/title>/) || [])[1] || "";
-      const published = (entry.match(/<published>([^<]+)<\/published>/) || [])[1] || "";
-      return id
-        ? {
-            id,
-            title,
-            videoId: id,
-            channel: topic,
-            publishedAt: published,
-            thumbnail: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
-            tags: [topic],
-          }
-        : null;
+  const feed = await parser.parseURL(searchUrl);
+  const videos = (feed.items || [])
+    .map((it: any) => {
+      const rawId = typeof it.id === "string" ? it.id : "";
+      const idFromId = rawId.includes(":") ? rawId.split(":").pop() : rawId;
+      let videoId = idFromId || "";
+      if (!videoId && typeof it.link === "string") {
+        const m = it.link.match(/[?&]v=([\w-]{6,})/);
+        if (m && m[1]) videoId = m[1];
+      }
+      if (!videoId) return null;
+      return {
+        id: it.id || videoId,
+        title: it.title || topic,
+        videoId,
+        channel: feed.title || topic,
+        publishedAt: it.isoDate || new Date().toISOString(),
+        thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+        tags: [topic],
+      };
     })
     .filter(Boolean) as any[];
 
@@ -55,6 +56,9 @@ export async function POST(request: Request) {
     const payload = await buildAdHocTopic(topic);
     return NextResponse.json({ ok: true, count: payload.videos.length });
   } catch (e) {
-    return NextResponse.json({ ok: false, error: (e as Error).message }, { status: 500 });
+    return NextResponse.json(
+      { ok: false, error: (e as Error).message },
+      { status: 500 }
+    );
   }
 }

@@ -1,7 +1,7 @@
 import { promises as fs } from "fs";
 import path from "path";
 import { unstable_noStore as noStore } from "next/cache";
-import Player from "@/app/components/Player";
+import FeedClient from "./FeedClient";
 import QuickExit from "@/app/components/QuickExit";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -107,7 +107,7 @@ export default async function Page({
       </Link>
       <div className="w-full max-w-2xl">
         <h1 className="text-xl mb-3 capitalize">{topic} feed</h1>
-        <Player videoIds={videoIds} topic={topic} />
+        <FeedClient topic={topic} initialIds={videoIds} />
       </div>
     </main>
   );

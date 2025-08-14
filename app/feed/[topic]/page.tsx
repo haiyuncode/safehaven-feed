@@ -4,6 +4,7 @@ import { unstable_noStore as noStore } from "next/cache";
 import Player from "@/app/components/Player";
 import QuickExit from "@/app/components/QuickExit";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
@@ -11,21 +12,24 @@ export const revalidate = 0;
 type FeedVideo = { videoId?: string };
 type FeedPayload = { videos?: FeedVideo[] };
 
-async function loadFeed(topic: string): Promise<FeedPayload> {
+async function loadFeed(topic: string): Promise<FeedPayload | null> {
   noStore();
   const file = path.join(process.cwd(), "public", "feeds", `${topic}.json`);
-  const raw = await fs.readFile(file, "utf8");
-  const clean = raw.replace(/^\uFEFF/, "").trimStart();
-  return JSON.parse(clean) as FeedPayload;
+  try {
+    const raw = await fs.readFile(file, "utf8");
+    const clean = raw.replace(/^\uFEFF/, "").trimStart();
+    return JSON.parse(clean) as FeedPayload;
+  } catch {
+    return null;
+  }
 }
 
-export default async function Page({
-  params,
-}: {
-  params: Promise<{ topic: string }>;
-}) {
-  const { topic } = await params;
+export default async function Page({ params }: { params: { topic: string } }) {
+  const { topic } = params;
   const data = await loadFeed(topic);
+  if (!data) {
+    notFound();
+  }
   const videoIds: string[] = (data.videos ?? [])
     .map((v) => v.videoId)
     .filter((id): id is string => Boolean(id));

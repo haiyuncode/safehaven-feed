@@ -1,6 +1,8 @@
 name: Build topic feeds (PR)
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch: {}
@@ -37,5 +39,3 @@ jobs:
           labels: chore, feeds
           committer: feed-bot <feed-bot@users.noreply.github.com>
           author: feed-bot <feed-bot@users.noreply.github.com>
-
-

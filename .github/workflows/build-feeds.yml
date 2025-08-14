@@ -7,28 +7,160 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     concurrency:
-      group: feeds-build
+      group: feeds-build-${{ github.ref }}
       cancel-in-progress: true
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout with token
+        uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-      - uses: actions/setup-node@v4
+          ref: ${{ github.ref }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - run: npm ci
-      - run: npm run build:feeds
-      - name: Commit and push feeds
-        uses: stefanzweifel/git-auto-commit-action@v5
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build feeds
+        run: npm run build:feeds
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push with retry
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          set -e
+
+          # Configure git
+          git config --global user.name "feed-bot"
+          git config --global user.email "feed-bot@users.noreply.github.com"
+
+          # Function to attempt push with retry
+          push_with_retry() {
+            local max_attempts=5
+            local attempt=1
+            local delay=10
+            
+            while [ $attempt -le $max_attempts ]; do
+              echo "🔄 Push attempt $attempt of $max_attempts"
+              
+              # Always fetch latest before attempting push
+              git fetch origin ${{ github.ref_name }}
+              
+              # Check if we're behind
+              LOCAL=$(git rev-parse HEAD)
+              REMOTE=$(git rev-parse origin/${{ github.ref_name }})
+              
+              if [ "$LOCAL" != "$REMOTE" ]; then
+                echo "📥 Local branch is behind remote, rebasing..."
+                
+                # Stash our changes
+                git stash push -m "feed-bot: temporary stash for rebase"
+                
+                # Reset to remote
+                git reset --hard origin/${{ github.ref_name }}
+                
+                # Re-run feed generation to ensure we have latest data
+                npm run build:feeds
+                
+                # Check if we still have changes after regeneration
+                if [ -z "$(git status --porcelain)" ]; then
+                  echo "✅ No changes after regeneration with latest data"
+                  exit 0
+                fi
+              fi
+              
+              # Stage and commit changes
+              git add public/feeds/*.json
+              
+              # Only commit if there are staged changes
+              if ! git diff --staged --quiet; then
+                git commit -m "chore(feeds): refresh topic feeds [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+                
+                # Try to push
+                if git push origin ${{ github.ref_name }}; then
+                  echo "✅ Push successful on attempt $attempt"
+                  exit 0
+                else
+                  echo "❌ Push failed on attempt $attempt"
+                  if [ $attempt -eq $max_attempts ]; then
+                    echo "🚨 All push attempts failed, creating PR as fallback"
+                    exit 1
+                  fi
+                  echo "⏳ Waiting ${delay}s before next attempt..."
+                  sleep $delay
+                  delay=$((delay * 2))  # Exponential backoff
+                fi
+              else
+                echo "✅ No changes to commit"
+                exit 0
+              fi
+              
+              attempt=$((attempt + 1))
+            done
+          }
+
+          push_with_retry
+
+      - name: Create PR as fallback
+        if: failure() && steps.verify-changed-files.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
         with:
-          commit_message: chore(feeds): refresh topic feeds
-          file_pattern: public/feeds/*.json
-          branch: ${{ github.ref_name }}
-          commit_user_name: feed-bot
-          commit_user_email: feed-bot@users.noreply.github.com
-          push_options: --force-with-lease
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: feeds-update-${{ github.run_number }}
+          title: "🔄 Feed Update (Fallback) - $(date -u +%Y-%m-%d)"
+          body: |
+            🤖 **Automated Feed Update**
+
+            This PR was created as a fallback because the direct push to `${{ github.ref_name }}` failed after multiple retry attempts.
+
+            **Changes:**
+            - Updated topic feeds in `public/feeds/*.json`
+            - Generated at: $(date -u)
+            - Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            **What to do:**
+            1. Review the changes
+            2. Merge this PR to apply the feed updates
+            3. The next scheduled run should work normally
+
+            ---
+            *This PR will be auto-merged if no conflicts exist.*
+          commit-message: "chore(feeds): refresh topic feeds [fallback-${{ github.run_number }}]"
+          delete-branch: true
+          assignees: ${{ github.actor }}
+
+      - name: Auto-merge PR if possible
+        if: failure() && steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          # Wait a moment for PR to be created
+          sleep 5
+
+          # Get the PR number
+          PR_NUMBER=$(gh pr list --head feeds-update-${{ github.run_number }} --json number --jq '.[0].number')
+
+          if [ -n "$PR_NUMBER" ] && [ "$PR_NUMBER" != "null" ]; then
+            echo "🔀 Attempting to auto-merge PR #$PR_NUMBER"
+            gh pr merge $PR_NUMBER --auto --squash --delete-branch || true
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

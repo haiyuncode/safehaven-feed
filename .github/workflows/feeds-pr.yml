@@ -1,1 +1,83 @@
+name: Feed Update via PR (Manual Fallback)
 
+on:
+  workflow_dispatch:
+    inputs:
+      force_pr:
+        description: "Force creation of PR even if no changes detected"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build feeds
+        run: npm run build:feeds
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: manual-feeds-update-${{ github.run_number }}
+          title: "🔧 Manual Feed Update - $(date -u +%Y-%m-%d)"
+          body: |
+            🤖 **Manual Feed Update**
+
+            This PR was created manually as a fallback mechanism for feed updates.
+
+            **Changes:**
+            - Updated topic feeds in `public/feeds/*.json`
+            - Generated at: $(date -u)
+            - Triggered by: @${{ github.actor }}
+            - Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+
+            **This PR will be automatically merged if:**
+            - No merge conflicts exist
+            - All checks pass
+
+            ---
+            *Manual fallback workflow for feed updates*
+          commit-message: "chore(feeds): manual refresh topic feeds [manual-${{ github.run_number }}]"
+          delete-branch: true
+          assignees: ${{ github.actor }}
+
+      - name: Auto-merge if possible
+        run: |
+          sleep 5
+
+          PR_NUMBER=$(gh pr list --head manual-feeds-update-${{ github.run_number }} --json number --jq '.[0].number')
+
+          if [ -n "$PR_NUMBER" ] && [ "$PR_NUMBER" != "null" ]; then
+            echo "🔀 Attempting to auto-merge PR #$PR_NUMBER"
+            
+            # Enable auto-merge
+            gh pr merge $PR_NUMBER --auto --squash --delete-branch || {
+              echo "⚠️ Auto-merge not possible. PR requires manual review."
+              echo "PR URL: ${{ github.server_url }}/${{ github.repository }}/pull/$PR_NUMBER"
+            }
+          else
+            echo "❌ Could not find PR to merge"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

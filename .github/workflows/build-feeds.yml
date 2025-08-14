@@ -1,4 +1,4 @@
-name: Build topic feeds (legacy)
+name: Build topic feeds
 
 on:
   schedule:
@@ -23,5 +23,12 @@ jobs:
           node-version: "20"
       - run: npm ci
       - run: npm run build:feeds
-      - name: No-op step
-        run: echo "Use feeds-pr.yml workflow for PR-based updates."
+      - name: Commit and push feeds
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: chore(feeds): refresh topic feeds
+          file_pattern: public/feeds/*.json
+          branch: ${{ github.ref_name }}
+          commit_user_name: feed-bot
+          commit_user_email: feed-bot@users.noreply.github.com
+          push_options: --force-with-lease

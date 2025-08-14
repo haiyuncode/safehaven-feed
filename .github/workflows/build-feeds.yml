@@ -31,5 +31,5 @@ jobs:
           fi
           git commit -m "chore(feeds): refresh topic feeds"
           git fetch origin "$BRANCH"
-          git pull --rebase origin "$BRANCH"
-          git push origin HEAD:"$BRANCH"
+          git pull --rebase origin "$BRANCH" || true
+          git push --force-with-lease origin HEAD:"$BRANCH"

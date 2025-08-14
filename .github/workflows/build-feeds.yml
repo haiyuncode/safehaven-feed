@@ -10,16 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
       - run: npm ci
       - run: npm run build:feeds
       - name: Commit feeds
+        env:
+          BRANCH: ${{ github.ref_name }}
         run: |
+          set -e
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
-          git add public/feeds/*.json
-          git diff --cached --quiet && echo "No changes" || git commit -m "chore(feeds): refresh topic feeds"
-          git pull --rebase --no-edit
-          git push
+          git add public/feeds/*.json || true
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore(feeds): refresh topic feeds"
+          git fetch origin "$BRANCH"
+          git pull --rebase origin "$BRANCH"
+          git push origin HEAD:"$BRANCH"

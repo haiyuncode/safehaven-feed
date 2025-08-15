@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-08-15T12:26:07.418Z",
+  "generatedAt": "2025-08-15T18:19:26.044Z",
   "videos": [
+    {
+      "id": "yt:video:vwd5DzK2V58",
+      "title": "STOP Making These Boxing Mistakes (Fix Them in 5 Minutes!)",
+      "videoId": "vwd5DzK2V58",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-08-15T13:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/vwd5DzK2V58/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:8EtF4DIVHJQ",
       "title": "Getting hit with the most devastating punch in boxing feels like this #boxing #knockout",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-06-12T14:45:10.000Z",
       "thumbnail": "https://i.ytimg.com/vi/tNiefZXQ3Fo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:KECdhjB95cs",
-      "title": "Ultimate 40 Minute Boxing Workout #2 | get shredded with a boxer",
-      "videoId": "KECdhjB95cs",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-06-09T15:15:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KECdhjB95cs/hqdefault.jpg",
       "tags": []
     }
   ],

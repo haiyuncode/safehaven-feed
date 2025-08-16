@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-08-16T12:24:07.043Z",
+  "generatedAt": "2025-08-16T18:17:01.649Z",
   "videos": [
+    {
+      "id": "yt:video:dr1SUOjaAIo",
+      "title": "Learn 2 punch combos right now #boxing #mma",
+      "videoId": "dr1SUOjaAIo",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-08-16T14:00:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/dr1SUOjaAIo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:vwd5DzK2V58",
       "title": "STOP Making These Boxing Mistakes (Fix Them in 5 Minutes!)",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-06-17T14:45:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/rjHj5Xdk2S8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:tNiefZXQ3Fo",
-      "title": "How to punch fast in boxing #boxingtechnique #shorts #mma #boxing",
-      "videoId": "tNiefZXQ3Fo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-06-12T14:45:10.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/tNiefZXQ3Fo/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-08-17T12:24:34.123Z",
+  "generatedAt": "2025-08-17T18:17:53.115Z",
   "videos": [
     {
       "id": "yt:video:F0aCoT_OVvE",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/music-therapy-activities-tools/?utm_source=rss&utm_medium=rss&utm_campaign=music-therapy-activities-tools",
+      "title": "33 Music Therapy Activities, Interventions & Tools",
+      "url": "https://positivepsychology.com/music-therapy-activities-tools/?utm_source=rss&utm_medium=rss&utm_campaign=music-therapy-activities-tools",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-08-15T14:00:50.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/pets-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=pets-mental-health",
       "title": "Pets & Wellbeing: 15 Benefits of Emotional Support Animals",
       "url": "https://positivepsychology.com/pets-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=pets-mental-health",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/negative-reinforcement/?utm_source=rss&utm_medium=rss&utm_campaign=negative-reinforcement",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-06-17T14:00:02.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/coping-skills-worksheets/?utm_source=rss&utm_medium=rss&utm_campaign=coping-skills-worksheets",
-      "title": "8 Coping Skills Worksheets for Adults and Youth (+ PDFs)",
-      "url": "https://positivepsychology.com/coping-skills-worksheets/?utm_source=rss&utm_medium=rss&utm_campaign=coping-skills-worksheets",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-06-03T14:00:20.000Z",
       "tags": []
     }
   ]

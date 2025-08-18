@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-08-18T12:28:15.105Z",
+  "generatedAt": "2025-08-18T18:19:51.748Z",
   "videos": [
+    {
+      "id": "yt:video:00zCCYdBKG0",
+      "title": "5 Minutes Daily Boxing Drill | Build KO Power!",
+      "videoId": "00zCCYdBKG0",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-08-18T16:00:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/00zCCYdBKG0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:dr1SUOjaAIo",
       "title": "Learn 2 punch combos right now #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-06-27T15:30:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/XYgh0VQpXxA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:rjHj5Xdk2S8",
-      "title": "How Boxing Skills Reach Next Level #boxing #boxingtraining #shorts",
-      "videoId": "rjHj5Xdk2S8",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-06-17T14:45:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/rjHj5Xdk2S8/hqdefault.jpg",
       "tags": []
     }
   ],

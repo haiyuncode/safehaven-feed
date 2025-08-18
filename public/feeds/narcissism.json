@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2025-08-18T12:28:14.097Z",
+  "generatedAt": "2025-08-18T18:19:51.203Z",
   "videos": [
+    {
+      "id": "yt:video:VZIN-LpZZvM",
+      "title": "Can a covert narcissist stay HIDDEN forever?",
+      "videoId": "VZIN-LpZZvM",
+      "channel": "DoctorRamani",
+      "publishedAt": "2025-08-18T15:00:51.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/VZIN-LpZZvM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:YocFBkKKUwQ",
       "title": "How to Make Yourself Hoover-Proof",
@@ -261,15 +270,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2025-07-18T15:01:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ZB-Doe2F_c4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:i0Q0DLtc3LU",
-      "title": "The hidden reasons you can’t break free from trauma bonded relationships",
-      "videoId": "i0Q0DLtc3LU",
-      "channel": "DoctorRamani",
-      "publishedAt": "2025-07-16T15:01:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/i0Q0DLtc3LU/hqdefault.jpg",
       "tags": []
     }
   ],

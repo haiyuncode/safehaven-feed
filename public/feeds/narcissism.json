@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2025-08-20T12:26:03.092Z",
+  "generatedAt": "2025-08-20T18:19:01.253Z",
   "videos": [
+    {
+      "id": "yt:video:3gynOPX_7E0",
+      "title": "Why survivors lie, manipulate, and shut down around a narcissist",
+      "videoId": "3gynOPX_7E0",
+      "channel": "DoctorRamani",
+      "publishedAt": "2025-08-20T15:00:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3gynOPX_7E0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:VZIN-LpZZvM",
       "title": "Can a covert narcissist stay HIDDEN forever?",
@@ -261,15 +270,6 @@
       "channel": "Surviving Narcissism",
       "publishedAt": "2025-07-18T18:31:10.000Z",
       "thumbnail": "https://i.ytimg.com/vi/o9JARVUGrHc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ZB-Doe2F_c4",
-      "title": "Is it time to STOP watching videos about NARCISSISM?",
-      "videoId": "ZB-Doe2F_c4",
-      "channel": "DoctorRamani",
-      "publishedAt": "2025-07-18T15:01:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZB-Doe2F_c4/hqdefault.jpg",
       "tags": []
     }
   ],

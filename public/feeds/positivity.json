@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-08-21T12:25:50.688Z",
+  "generatedAt": "2025-08-21T18:18:54.224Z",
   "videos": [
+    {
+      "id": "yt:video:oVLHysMGi8o",
+      "title": "Emotional Flashbacks - 13 Strategies for Childhood Trauma from Pete Walker's book on CPTSD",
+      "videoId": "oVLHysMGi8o",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-08-21T15:16:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/oVLHysMGi8o/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Vd2DyIwvWXw",
       "title": "When You Feel Like It’s Too Late",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-06-24T16:00:55.000Z",
       "thumbnail": "https://i.ytimg.com/vi/b_Gjh5d-b8U/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:tseK5lGAE78",
-      "title": "How to Stop an Anxiety Attack - Guided Walkthrough of The Activate Method",
-      "videoId": "tseK5lGAE78",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-06-19T18:00:48.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/tseK5lGAE78/hqdefault.jpg",
       "tags": []
     }
   ],

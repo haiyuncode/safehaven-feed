@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2025-08-21T18:18:54.976Z",
+  "generatedAt": "2025-08-22T01:00:54.342Z",
   "videos": [
+    {
+      "id": "yt:video:-_nRJsoj2Z8",
+      "title": "Best Of: Disconnecting from a Narcissist",
+      "videoId": "-_nRJsoj2Z8",
+      "channel": "Surviving Narcissism",
+      "publishedAt": "2025-08-21T19:22:07.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-_nRJsoj2Z8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:3gynOPX_7E0",
       "title": "Why survivors lie, manipulate, and shut down around a narcissist",
@@ -261,15 +270,6 @@
       "channel": "Surviving Narcissism",
       "publishedAt": "2025-07-19T15:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/S7ptdWyRhJ4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:o9JARVUGrHc",
-      "title": "Seeing Through A Narcissist’s Haughtiness 👀",
-      "videoId": "o9JARVUGrHc",
-      "channel": "Surviving Narcissism",
-      "publishedAt": "2025-07-18T18:31:10.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/o9JARVUGrHc/hqdefault.jpg",
       "tags": []
     }
   ],

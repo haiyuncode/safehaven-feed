@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-08-26T12:28:08.761Z",
+  "generatedAt": "2025-08-26T18:18:00.318Z",
   "videos": [
+    {
+      "id": "yt:video:7cQUiQnX6oU",
+      "title": "Are You Tired of Feeling Helpless?",
+      "videoId": "7cQUiQnX6oU",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-08-26T16:00:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7cQUiQnX6oU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:oVLHysMGi8o",
       "title": "Emotional Flashbacks - 13 Strategies for Childhood Trauma from Pete Walker's book on CPTSD",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-07-01T16:00:51.000Z",
       "thumbnail": "https://i.ytimg.com/vi/TxWgknkSvYU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:b_Gjh5d-b8U",
-      "title": "Transform Your Trauma",
-      "videoId": "b_Gjh5d-b8U",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-06-24T16:00:55.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/b_Gjh5d-b8U/hqdefault.jpg",
       "tags": []
     }
   ],

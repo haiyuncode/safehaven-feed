@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-08-28T12:25:19.279Z",
+  "generatedAt": "2025-08-28T18:18:10.335Z",
   "videos": [
+    {
+      "id": "yt:video:tJC6ovLGeos",
+      "title": "Stuck in the Freeze Response? How to convert Toxic Stress into Healthy Action #teamwater",
+      "videoId": "tJC6ovLGeos",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-08-28T18:00:52.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/tJC6ovLGeos/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:7cQUiQnX6oU",
       "title": "Are You Tired of Feeling Helpless?",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-07-03T18:00:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5NnXgDes7Lw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:TxWgknkSvYU",
-      "title": "Intrusive Thoughts Making You Miserable?",
-      "videoId": "TxWgknkSvYU",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-07-01T16:00:51.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/TxWgknkSvYU/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-08-29T12:24:42.524Z",
+  "generatedAt": "2025-08-29T18:17:20.305Z",
   "videos": [
+    {
+      "id": "yt:video:PUCnFeFyRjk",
+      "title": "Learn All 6 Boxing Punches in Just 5 Minutes!",
+      "videoId": "PUCnFeFyRjk",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-08-29T13:00:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/PUCnFeFyRjk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:iKBpGWZ63JU",
       "title": "Test hand speed and reaction Follow me 2 and 3 Punch Combos #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-07-05T15:53:10.000Z",
       "thumbnail": "https://i.ytimg.com/vi/WTlyoOskNmI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:4VBDyg5bcsQ",
-      "title": "Boxing Level up - Exercise for weight loss at home fast",
-      "videoId": "4VBDyg5bcsQ",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-07-03T15:00:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/4VBDyg5bcsQ/hqdefault.jpg",
       "tags": []
     }
   ],

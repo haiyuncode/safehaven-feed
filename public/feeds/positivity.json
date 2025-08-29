@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-08-29T12:24:41.312Z",
+  "generatedAt": "2025-08-29T18:17:19.129Z",
   "videos": [
     {
       "id": "yt:video:tJC6ovLGeos",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/therapist-courses/?utm_source=rss&utm_medium=rss&utm_campaign=therapist-courses",
+      "title": "Top Therapy Courses (List) for Aspiring Therapists",
+      "url": "https://positivepsychology.com/therapist-courses/?utm_source=rss&utm_medium=rss&utm_campaign=therapist-courses",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-08-25T14:00:42.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/resilience-theory/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-theory",
       "title": "Resilience Theory: Core Concepts & Research Insights",
       "url": "https://positivepsychology.com/resilience-theory/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-theory",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-express-gratitude/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-express-gratitude",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-06-25T14:00:40.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/drama-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=drama-therapy",
-      "title": "Drama Therapy: How Storytelling Can Promote Healing",
-      "url": "https://positivepsychology.com/drama-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=drama-therapy",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-06-24T14:00:04.000Z",
       "tags": []
     }
   ]

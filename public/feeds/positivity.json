@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-09-02T12:25:55.740Z",
+  "generatedAt": "2025-09-02T18:16:07.201Z",
   "videos": [
+    {
+      "id": "yt:video:7ilWFl9K4a8",
+      "title": "Fast Acting Anti-Depressant",
+      "videoId": "7ilWFl9K4a8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-09-02T16:00:23.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7ilWFl9K4a8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:O6VVO2fD1T0",
       "title": "Wild Animal Interrupted my Marco Polo",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-07-10T18:00:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/anJ0-V-LmXA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ISNJJZAmhD0",
-      "title": "Mental Shift When You’re Anxious",
-      "videoId": "ISNJJZAmhD0",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-07-08T16:00:34.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ISNJJZAmhD0/hqdefault.jpg",
       "tags": []
     }
   ],

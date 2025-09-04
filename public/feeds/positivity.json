@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-09-04T06:18:58.361Z",
+  "generatedAt": "2025-09-04T12:25:36.803Z",
   "videos": [
+    {
+      "id": "yt:video:7nj7Z2lPLnU",
+      "title": "9 Micro Habits for Self-Regulation of Trauma or Anxiety",
+      "videoId": "7nj7Z2lPLnU",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-09-04T11:00:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7nj7Z2lPLnU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:7ilWFl9K4a8",
       "title": "Fast Acting Anti-Depressant",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-07-15T16:00:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/aUjpckyA8nw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:anJ0-V-LmXA",
-      "title": "How to Stop Panic Attacks and Anxiety Attacks - with CBT Expert Kimberley Quinlan",
-      "videoId": "anJ0-V-LmXA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-07-10T18:00:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/anJ0-V-LmXA/hqdefault.jpg",
       "tags": []
     }
   ],

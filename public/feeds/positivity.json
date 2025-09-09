@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-09-09T12:27:07.821Z",
+  "generatedAt": "2025-09-09T18:15:01.283Z",
   "videos": [
+    {
+      "id": "yt:video:7sxVCE94t4U",
+      "title": "Is This the Missing Key for Mental Health?",
+      "videoId": "7sxVCE94t4U",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-09-09T16:00:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7sxVCE94t4U/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:7nj7Z2lPLnU",
       "title": "9 Micro Habits for Self-Regulation of Trauma or Anxiety",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-07-17T18:00:33.000Z",
       "thumbnail": "https://i.ytimg.com/vi/RuOJATSf5Hs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:aUjpckyA8nw",
-      "title": "Accepting A Compliment",
-      "videoId": "aUjpckyA8nw",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-07-15T16:00:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/aUjpckyA8nw/hqdefault.jpg",
       "tags": []
     }
   ],

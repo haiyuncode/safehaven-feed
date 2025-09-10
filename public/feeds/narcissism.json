@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2025-09-10T12:24:35.063Z",
+  "generatedAt": "2025-09-10T18:18:13.704Z",
   "videos": [
+    {
+      "id": "yt:video:MwGgejTD4K0",
+      "title": "Real stories of parental narcissistic abuse",
+      "videoId": "MwGgejTD4K0",
+      "channel": "DoctorRamani",
+      "publishedAt": "2025-09-10T15:00:47.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/MwGgejTD4K0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ozs0WauGJfo",
       "title": "Have you experienced narcissistic ‘kindness\"?",
@@ -144,15 +153,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2025-08-08T15:00:30.000Z",
       "thumbnail": "https://i.ytimg.com/vi/K_8Bqd-TbwU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:KR6XJ3yqiyw",
-      "title": "How does a child become a narcissist?",
-      "videoId": "KR6XJ3yqiyw",
-      "channel": "DoctorRamani",
-      "publishedAt": "2025-08-06T15:00:41.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KR6XJ3yqiyw/hqdefault.jpg",
       "tags": []
     },
     {

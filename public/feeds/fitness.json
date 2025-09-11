@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-09-11T12:24:11.199Z",
+  "generatedAt": "2025-09-11T18:15:21.819Z",
   "videos": [
+    {
+      "id": "yt:video:u3eIEw5p9u8",
+      "title": "30 Minute Heavy Bag HIIT - (Power Punches) Workout",
+      "videoId": "u3eIEw5p9u8",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-09-11T14:45:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/u3eIEw5p9u8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:TKvg_RBlC24",
       "title": "Simple fix for stronger triceps #boxing #strengthtraining",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-07-30T17:23:53.000Z",
       "thumbnail": "https://i.ytimg.com/vi/6U1AB2VuEIU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:stpm0KVsP7c",
-      "title": "Ultimate Boxing Workout: Beginner to Pro in 40 Minutes | workout 3 of 5",
-      "videoId": "stpm0KVsP7c",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-07-28T14:45:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/stpm0KVsP7c/hqdefault.jpg",
       "tags": []
     }
   ],

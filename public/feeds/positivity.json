@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-09-12T12:24:17.731Z",
+  "generatedAt": "2025-09-12T18:15:48.354Z",
   "videos": [
     {
       "id": "yt:video:KTgPsB2ukjc",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/rational-emotive-behavior-therapy-rebt/?utm_source=rss&utm_medium=rss&utm_campaign=rational-emotive-behavior-therapy-rebt",
+      "title": "What Is Rational Emotive Behavior Therapy? (+ REBT PDF)",
+      "url": "https://positivepsychology.com/rational-emotive-behavior-therapy-rebt/?utm_source=rss&utm_medium=rss&utm_campaign=rational-emotive-behavior-therapy-rebt",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-09-01T14:00:49.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/therapist-courses/?utm_source=rss&utm_medium=rss&utm_campaign=therapist-courses",
       "title": "Top Therapy Courses (List) for Aspiring Therapists",
       "url": "https://positivepsychology.com/therapist-courses/?utm_source=rss&utm_medium=rss&utm_campaign=therapist-courses",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/goal-setting-students-kids/?utm_source=rss&utm_medium=rss&utm_campaign=goal-setting-students-kids",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-07-01T14:00:48.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/how-to-express-gratitude/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-express-gratitude",
-      "title": "How to Express Gratitude: 20+ Creative Ways to Say Thank You",
-      "url": "https://positivepsychology.com/how-to-express-gratitude/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-express-gratitude",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-06-25T14:00:40.000Z",
       "tags": []
     }
   ]

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-09-14T12:21:15.778Z",
+  "generatedAt": "2025-09-14T18:15:15.082Z",
   "videos": [
     {
       "id": "yt:video:KTgPsB2ukjc",
@@ -140,6 +140,22 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/mens-mental-health-month/?utm_source=rss&utm_medium=rss&utm_campaign=mens-mental-health-month",
+      "title": "Men’s Mental Health Month: Improve Your Mental Health",
+      "url": "https://positivepsychology.com/mens-mental-health-month/?utm_source=rss&utm_medium=rss&utm_campaign=mens-mental-health-month",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-09-10T14:00:54.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/mens-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=mens-mental-health",
+      "title": "What Shapes Men’s Mental Health Today?",
+      "url": "https://positivepsychology.com/mens-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=mens-mental-health",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-09-09T14:00:13.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/emotional-infidelity-and-cheating/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-infidelity-and-cheating",
       "title": "12 Signs of Emotional Infidelity & Cheating",
       "url": "https://positivepsychology.com/emotional-infidelity-and-cheating/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-infidelity-and-cheating",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/resilience-theory/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-theory",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-08-22T14:00:29.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/coaching-techniques/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-techniques",
-      "title": "32 Coaching Techniques Effective Coaches Use",
-      "url": "https://positivepsychology.com/coaching-techniques/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-techniques",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-08-20T14:00:06.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/emotional-intelligence-training/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-intelligence-training",
-      "title": "How To Improve Emotional Intelligence Through Training",
-      "url": "https://positivepsychology.com/emotional-intelligence-training/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-intelligence-training",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-08-18T14:00:48.000Z",
       "tags": []
     }
   ]

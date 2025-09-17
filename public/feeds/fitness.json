@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-09-17T12:25:20.813Z",
+  "generatedAt": "2025-09-17T18:18:00.764Z",
   "videos": [
+    {
+      "id": "yt:video:xYPqnMQ-vFs",
+      "title": "Why Your Punch Lacks POWER: The Footwork Secret I Use at Nate Bower Fitness",
+      "videoId": "xYPqnMQ-vFs",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-09-17T15:15:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xYPqnMQ-vFs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:NJe8WsXQhvA",
       "title": "Look like a dangerous fighter! #boxing #mma #shorts",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-08-07T14:00:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/O1uWlgAR88s/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Epz9osDc_dQ",
-      "title": "Boxing vs racing? What’s more demanding?  #motivation #racing #boxing",
-      "videoId": "Epz9osDc_dQ",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-08-06T16:58:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Epz9osDc_dQ/hqdefault.jpg",
       "tags": []
     }
   ],

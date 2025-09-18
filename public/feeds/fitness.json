@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-09-18T12:24:46.345Z",
+  "generatedAt": "2025-09-18T18:18:37.368Z",
   "videos": [
+    {
+      "id": "yt:video:5YaSiE05ttc",
+      "title": "Ultimate 40-Minute Boxing Workout for Power & Fat Loss (Workout #3)",
+      "videoId": "5YaSiE05ttc",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-09-18T14:45:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/5YaSiE05ttc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:xYPqnMQ-vFs",
       "title": "Why Your Punch Lacks POWER: The Footwork Secret I Use at Nate Bower Fitness",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-08-08T14:00:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Ipwne-GrpSc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:O1uWlgAR88s",
-      "title": "SHRED FAT FAST! 30-Min Boxing HIIT (No Gym Needed!)",
-      "videoId": "O1uWlgAR88s",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-08-07T14:00:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/O1uWlgAR88s/hqdefault.jpg",
       "tags": []
     }
   ],

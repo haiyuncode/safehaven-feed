@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-09-19T12:25:26.543Z",
+  "generatedAt": "2025-09-19T18:17:52.290Z",
   "videos": [
     {
       "id": "yt:video:uL0eC1E9AHQ",
@@ -121,7 +121,7 @@
     },
     {
       "id": "yt:video:VTvYKx0iH28",
-      "title": "Harm OCD - Intrusive Thoughts that I Might Hurt Someone",
+      "title": "What if I hurt someone? Harm OCD and Intrusive Thoughts",
       "videoId": "VTvYKx0iH28",
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-07-31T18:00:27.000Z",
@@ -139,6 +139,22 @@
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/silent-treatment-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment-abuse",
+      "title": "Breaking Free From the Cycle of Silent Treatment Abuse",
+      "url": "https://positivepsychology.com/silent-treatment-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment-abuse",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-09-12T14:00:46.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/silent-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment",
+      "title": "Decoding What Silent Treatment Means for Couples",
+      "url": "https://positivepsychology.com/silent-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-09-11T14:00:42.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/mens-mental-health-month/?utm_source=rss&utm_medium=rss&utm_campaign=mens-mental-health-month",
       "title": "Men’s Mental Health Month: Improve Your Mental Health",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/rational-emotive-behavior-therapy-rebt/?utm_source=rss&utm_medium=rss&utm_campaign=rational-emotive-behavior-therapy-rebt",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-09-01T14:00:49.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/therapist-courses/?utm_source=rss&utm_medium=rss&utm_campaign=therapist-courses",
-      "title": "Top Therapy Courses (List) for Aspiring Therapists",
-      "url": "https://positivepsychology.com/therapist-courses/?utm_source=rss&utm_medium=rss&utm_campaign=therapist-courses",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-08-25T14:00:42.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/resilience-theory/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-theory",
-      "title": "Resilience Theory: Core Concepts & Research Insights",
-      "url": "https://positivepsychology.com/resilience-theory/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-theory",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-08-22T14:00:29.000Z",
       "tags": []
     }
   ]

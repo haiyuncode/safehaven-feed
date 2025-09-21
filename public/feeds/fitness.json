@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-09-21T12:22:26.639Z",
+  "generatedAt": "2025-09-21T18:16:02.397Z",
   "videos": [
+    {
+      "id": "yt:video:SHM5TZrpkys",
+      "title": "How to squat better in 5 seconds #strength #boxing #shorts  #mobility",
+      "videoId": "SHM5TZrpkys",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-09-21T15:10:25.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/SHM5TZrpkys/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:5YaSiE05ttc",
       "title": "Ultimate 40-Minute Boxing Workout for Power & Fat Loss (Workout #3)",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-08-09T14:01:24.000Z",
       "thumbnail": "https://i.ytimg.com/vi/u3Dj-jPQTZI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Ipwne-GrpSc",
-      "title": "Why Your 2 Punch combos have knockout power #boxing #mma",
-      "videoId": "Ipwne-GrpSc",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-08-08T14:00:23.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Ipwne-GrpSc/hqdefault.jpg",
       "tags": []
     }
   ],

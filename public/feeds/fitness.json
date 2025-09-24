@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-09-23T18:18:56.487Z",
+  "generatedAt": "2025-09-24T00:58:16.038Z",
   "videos": [
+    {
+      "id": "yt:video:c9yEcxF5Y48",
+      "title": "Power JAB Footwork #shorts #boxing",
+      "videoId": "c9yEcxF5Y48",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-09-23T21:35:43.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/c9yEcxF5Y48/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:SHM5TZrpkys",
       "title": "How to squat better in 5 seconds #strength #boxing #shorts  #mobility",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-08-11T14:00:21.000Z",
       "thumbnail": "https://i.ytimg.com/vi/8EtF4DIVHJQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:u3Dj-jPQTZI",
-      "title": "You can punch faster then me | 4 Punch Combos #speed #shadowboxing",
-      "videoId": "u3Dj-jPQTZI",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-08-09T14:01:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/u3Dj-jPQTZI/hqdefault.jpg",
       "tags": []
     }
   ],

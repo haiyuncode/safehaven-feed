@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-09-24T12:25:54.855Z",
+  "generatedAt": "2025-09-24T18:18:10.779Z",
   "videos": [
+    {
+      "id": "yt:video:gfanky42UVI",
+      "title": "30 Minute Heavy Bag HIIT- Hand Speed and Reaction combos #Workout 2",
+      "videoId": "gfanky42UVI",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-09-24T14:45:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/gfanky42UVI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:c9yEcxF5Y48",
       "title": "Power JAB Footwork #shorts #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-08-15T13:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/vwd5DzK2V58/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:8EtF4DIVHJQ",
-      "title": "Getting hit with the most devastating punch in boxing feels like this #boxing #knockout",
-      "videoId": "8EtF4DIVHJQ",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-08-11T14:00:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/8EtF4DIVHJQ/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-09-27T12:21:46.034Z",
+  "generatedAt": "2025-09-27T18:15:45.154Z",
   "videos": [
+    {
+      "id": "yt:video:VzrkTU2H0DI",
+      "title": "Bright But Unmotivated?",
+      "videoId": "VzrkTU2H0DI",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-09-27T16:00:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/VzrkTU2H0DI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ZhT95r6C7ek",
       "title": "The Brain Differences with ADHD and Anxiety",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-08-12T16:00:19.000Z",
       "thumbnail": "https://i.ytimg.com/vi/F0aCoT_OVvE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:nAR91BsopBQ",
-      "title": "When You Feel Like You Can’t Fix It",
-      "videoId": "nAR91BsopBQ",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-08-05T16:01:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/nAR91BsopBQ/hqdefault.jpg",
       "tags": []
     }
   ],

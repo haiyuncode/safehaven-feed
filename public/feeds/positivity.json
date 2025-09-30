@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-09-30T12:26:55.427Z",
+  "generatedAt": "2025-09-30T18:17:26.315Z",
   "videos": [
+    {
+      "id": "yt:video:WZycnqnTa9U",
+      "title": "Jealousy- Let’s Think Differently",
+      "videoId": "WZycnqnTa9U",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-09-30T16:01:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/WZycnqnTa9U/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Oj7GXqHnO5w",
       "title": "Why ADHD Fuels Anxiety",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-08-21T15:16:05.000Z",
       "thumbnail": "https://i.ytimg.com/vi/oVLHysMGi8o/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Vd2DyIwvWXw",
-      "title": "When You Feel Like It’s Too Late",
-      "videoId": "Vd2DyIwvWXw",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-08-19T16:00:51.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Vd2DyIwvWXw/hqdefault.jpg",
       "tags": []
     }
   ],

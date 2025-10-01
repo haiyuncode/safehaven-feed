@@ -1,10 +1,19 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-01T12:27:11.337Z",
+  "generatedAt": "2025-10-01T18:18:06.370Z",
   "videos": [
     {
+      "id": "yt:video:DlmGF1r4Ilg",
+      "title": "Executive Function and Anxiety",
+      "videoId": "DlmGF1r4Ilg",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-01T16:00:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/DlmGF1r4Ilg/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "yt:video:WZycnqnTa9U",
-      "title": "Jealousy- Let’s Think Differently",
+      "title": "Stuck comparing yourself to others?",
       "videoId": "WZycnqnTa9U",
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-09-30T16:01:01.000Z",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-08-26T16:00:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7cQUiQnX6oU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:oVLHysMGi8o",
-      "title": "Emotional Flashbacks - 13 Strategies for Childhood Trauma from Pete Walker's book on CPTSD",
-      "videoId": "oVLHysMGi8o",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-08-21T15:16:05.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/oVLHysMGi8o/hqdefault.jpg",
       "tags": []
     }
   ],

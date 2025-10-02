@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-02T06:19:33.754Z",
+  "generatedAt": "2025-10-02T12:24:19.703Z",
   "videos": [
+    {
+      "id": "yt:video:a-FLbFboMWs",
+      "title": "Armoring - How Trauma Gets Embodied as Tension, Chronic Pain, Jumpiness or Emotional Walls",
+      "videoId": "a-FLbFboMWs",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-02T11:00:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/a-FLbFboMWs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:DlmGF1r4Ilg",
       "title": "Executive Function and Anxiety",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-08-28T18:00:52.000Z",
       "thumbnail": "https://i.ytimg.com/vi/tJC6ovLGeos/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7cQUiQnX6oU",
-      "title": "Are You Tired of Feeling Helpless?",
-      "videoId": "7cQUiQnX6oU",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-08-26T16:00:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7cQUiQnX6oU/hqdefault.jpg",
       "tags": []
     }
   ],

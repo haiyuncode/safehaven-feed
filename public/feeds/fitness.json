@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-03T18:17:33.516Z",
+  "generatedAt": "2025-10-04T00:54:46.587Z",
   "videos": [
+    {
+      "id": "yt:video:d5n0yfZdO70",
+      "title": "Can you predict punches in #boxing #mma",
+      "videoId": "d5n0yfZdO70",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-03T18:44:22.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/d5n0yfZdO70/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:GOmjgnkMqz8",
       "title": "What boxing training looks like #boxing #mma #shorts",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-08-29T13:00:59.000Z",
       "thumbnail": "https://i.ytimg.com/vi/PUCnFeFyRjk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:iKBpGWZ63JU",
-      "title": "Test hand speed and reaction Follow me 2 and 3 Punch Combos #boxing #mma",
-      "videoId": "iKBpGWZ63JU",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-08-27T11:01:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/iKBpGWZ63JU/hqdefault.jpg",
       "tags": []
     }
   ],

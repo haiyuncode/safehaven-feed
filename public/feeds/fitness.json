@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-04T12:21:36.484Z",
+  "generatedAt": "2025-10-04T18:15:45.258Z",
   "videos": [
+    {
+      "id": "yt:video:03TLzS6vrbQ",
+      "title": "Swing with Bad intentions #boxing #fitnesshacks",
+      "videoId": "03TLzS6vrbQ",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-04T14:30:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/03TLzS6vrbQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:d5n0yfZdO70",
       "title": "Can you predict punches in #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-05T15:00:18.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5ah3Qv6ecmo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:PUCnFeFyRjk",
-      "title": "Learn All 6 Boxing Punches in Just 5 Minutes!",
-      "videoId": "PUCnFeFyRjk",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-08-29T13:00:59.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/PUCnFeFyRjk/hqdefault.jpg",
       "tags": []
     }
   ],

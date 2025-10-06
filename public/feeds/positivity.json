@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-06T12:26:14.426Z",
+  "generatedAt": "2025-10-06T18:19:05.439Z",
   "videos": [
+    {
+      "id": "yt:video:RkIUFxeZz30",
+      "title": "How Trauma Gets Stuck in the Body",
+      "videoId": "RkIUFxeZz30",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-06T16:00:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/RkIUFxeZz30/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:a-FLbFboMWs",
       "title": "Armoring - How Trauma Gets Embodied as Tension, Chronic Pain, Jumpiness or Emotional Walls",
@@ -127,18 +136,17 @@
       "publishedAt": "2025-09-01T16:00:41.000Z",
       "thumbnail": "https://i.ytimg.com/vi/O6VVO2fD1T0/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:tJC6ovLGeos",
-      "title": "Stuck in the Freeze Response? How to convert Toxic Stress into Healthy Action #teamwater",
-      "videoId": "tJC6ovLGeos",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-08-28T18:00:52.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/tJC6ovLGeos/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/writing-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=writing-therapy",
+      "title": "Writing Therapy: How It Works & Why It Helps",
+      "url": "https://positivepsychology.com/writing-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=writing-therapy",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-06T14:00:37.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/neuroscience-of-gratitude/?utm_source=rss&utm_medium=rss&utm_campaign=neuroscience-of-gratitude",
       "title": "The Neuroscience of Gratitude & Its Effects on the Brain",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-stop-doomscrolling/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-doomscrolling",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-09-03T14:00:31.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/doomscrolling/?utm_source=rss&utm_medium=rss&utm_campaign=doomscrolling",
-      "title": "What Is Doomscrolling? Why We Do It & How It Affects Us",
-      "url": "https://positivepsychology.com/doomscrolling/?utm_source=rss&utm_medium=rss&utm_campaign=doomscrolling",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-09-02T14:00:18.000Z",
       "tags": []
     }
   ]

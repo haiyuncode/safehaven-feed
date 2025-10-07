@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-07T12:26:18.834Z",
+  "generatedAt": "2025-10-07T18:18:56.115Z",
   "videos": [
+    {
+      "id": "yt:video:3SZZeW3Yzes",
+      "title": "Get Curious About Body Image",
+      "videoId": "3SZZeW3Yzes",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-07T16:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3SZZeW3Yzes/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:RkIUFxeZz30",
       "title": "How Trauma Gets Stuck in the Body",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-09-02T16:00:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7ilWFl9K4a8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:O6VVO2fD1T0",
-      "title": "Wild Animal Interrupted my Marco Polo",
-      "videoId": "O6VVO2fD1T0",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-09-01T16:00:41.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/O6VVO2fD1T0/hqdefault.jpg",
       "tags": []
     }
   ],

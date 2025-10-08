@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-08T12:26:46.094Z",
+  "generatedAt": "2025-10-08T18:19:16.616Z",
   "videos": [
     {
       "id": "yt:video:3SZZeW3Yzes",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/cynical-clients/?utm_source=rss&utm_medium=rss&utm_campaign=cynical-clients",
+      "title": "Hope for Cynical Clients: 5 Strategies to Inspire Change",
+      "url": "https://positivepsychology.com/cynical-clients/?utm_source=rss&utm_medium=rss&utm_campaign=cynical-clients",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-08T14:00:12.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/resilience-activities-exercises/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-activities-exercises",
       "title": "19 Resilience Activities & Training to Overcome Adversity",
       "url": "https://positivepsychology.com/resilience-activities-exercises/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-activities-exercises",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/grief-stages/?utm_source=rss&utm_medium=rss&utm_campaign=grief-stages",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-09-05T14:00:58.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/emotional-cheating/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-cheating",
-      "title": "What Is Emotional Cheating?",
-      "url": "https://positivepsychology.com/emotional-cheating/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-cheating",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-09-04T14:00:21.000Z",
       "tags": []
     }
   ]

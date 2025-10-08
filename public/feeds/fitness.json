@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-08T12:26:48.435Z",
+  "generatedAt": "2025-10-08T18:19:18.056Z",
   "videos": [
+    {
+      "id": "yt:video:wtsm5WnA1JU",
+      "title": "40-Minute Boxing Heavy Bag Workout | Build Power, Speed & Endurance Workout #4",
+      "videoId": "wtsm5WnA1JU",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-08T16:26:28.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wtsm5WnA1JU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:03TLzS6vrbQ",
       "title": "Swing with Bad intentions #boxing #fitnesshacks",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-10T16:15:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/TKvg_RBlC24/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:5ah3Qv6ecmo",
-      "title": "Boxing HIIT Training rises above the rest  #fullpunch #mma #weightloss #boxing",
-      "videoId": "5ah3Qv6ecmo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-05T15:00:18.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/5ah3Qv6ecmo/hqdefault.jpg",
       "tags": []
     }
   ],

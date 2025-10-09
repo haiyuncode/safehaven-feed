@@ -1,6 +1,6 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-09T06:20:11.551Z",
+  "generatedAt": "2025-10-09T12:26:01.593Z",
   "videos": [
     {
       "id": "yt:video:wtsm5WnA1JU",
@@ -9,6 +9,15 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-08T16:26:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/wtsm5WnA1JU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:9dvYO1KArZk",
+      "title": "Learn boxing punches in 12 seconds #boxing #mma #fitnesshacks",
+      "videoId": "9dvYO1KArZk",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-05T15:23:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/9dvYO1KArZk/hqdefault.jpg",
       "tags": []
     },
     {
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-11T14:45:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/u3eIEw5p9u8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:TKvg_RBlC24",
-      "title": "Simple fix for stronger triceps #boxing #strengthtraining",
-      "videoId": "TKvg_RBlC24",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-10T16:15:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/TKvg_RBlC24/hqdefault.jpg",
       "tags": []
     }
   ],

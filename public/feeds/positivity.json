@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-09T06:20:10.310Z",
+  "generatedAt": "2025-10-09T12:26:00.157Z",
   "videos": [
+    {
+      "id": "yt:video:MWmx_-T42as",
+      "title": "Restoring your Internal Sense of Safety after Trauma w/ CPTSD Expert Dr. Arielle Schwartz",
+      "videoId": "MWmx_-T42as",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-09T11:54:47.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/MWmx_-T42as/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:3SZZeW3Yzes",
       "title": "Get Curious About Body Image",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-09-04T11:00:11.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7nj7Z2lPLnU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7ilWFl9K4a8",
-      "title": "Fast Acting Anti-Depressant",
-      "videoId": "7ilWFl9K4a8",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-09-02T16:00:23.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7ilWFl9K4a8/hqdefault.jpg",
       "tags": []
     }
   ],

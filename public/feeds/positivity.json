@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-10T06:20:07.542Z",
+  "generatedAt": "2025-10-10T12:25:58.801Z",
   "videos": [
     {
       "id": "yt:video:MWmx_-T42as",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/music-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=music-therapy",
+      "title": "Music Therapy in Practice: How It Works & Why It Helps",
+      "url": "https://positivepsychology.com/music-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=music-therapy",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-10T12:00:42.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/what-is-flow/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-flow",
       "title": "What Is Flow in Positive Psychology?",
       "url": "https://positivepsychology.com/what-is-flow/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-flow",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/mens-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=mens-mental-health",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-09-09T14:00:13.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/emotional-infidelity-and-cheating/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-infidelity-and-cheating",
-      "title": "12 Signs of Emotional Infidelity & Cheating",
-      "url": "https://positivepsychology.com/emotional-infidelity-and-cheating/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-infidelity-and-cheating",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-09-08T14:00:18.000Z",
       "tags": []
     }
   ]

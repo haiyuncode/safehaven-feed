@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-15T00:59:47.114Z",
+  "generatedAt": "2025-10-15T06:20:03.810Z",
   "videos": [
+    {
+      "id": "yt:video:5fkTkG53HYw",
+      "title": "Why it Feels Easier to Blame Yourself",
+      "videoId": "5fkTkG53HYw",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-15T02:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/5fkTkG53HYw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:MWmx_-T42as",
       "title": "Restoring your Internal Sense of Safety after Trauma w/ CPTSD Expert Dr. Arielle Schwartz",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-09-09T16:00:11.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7sxVCE94t4U/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7nj7Z2lPLnU",
-      "title": "9 Micro Habits for Self-Regulation of Trauma or Anxiety",
-      "videoId": "7nj7Z2lPLnU",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-09-04T11:00:11.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7nj7Z2lPLnU/hqdefault.jpg",
       "tags": []
     }
   ],

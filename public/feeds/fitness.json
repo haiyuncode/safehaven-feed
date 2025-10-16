@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-16T12:27:33.415Z",
+  "generatedAt": "2025-10-16T18:18:35.191Z",
   "videos": [
+    {
+      "id": "yt:video:SPQaBTigd6I",
+      "title": "Ultimate 40 Minute Shadow Boxing workout #4",
+      "videoId": "SPQaBTigd6I",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-16T14:45:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/SPQaBTigd6I/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:wtsm5WnA1JU",
       "title": "5 Minute to 40 Minute Heavy Bag Workout | Build Power  Workout #4",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-13T18:26:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/oKGnNXa7jto/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:u3eIEw5p9u8",
-      "title": "30 Minute Heavy Bag HIIT - (Power Punches) Workout",
-      "videoId": "u3eIEw5p9u8",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-11T14:45:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/u3eIEw5p9u8/hqdefault.jpg",
       "tags": []
     }
   ],

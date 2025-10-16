@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-16T06:19:56.287Z",
+  "generatedAt": "2025-10-16T12:27:32.289Z",
   "videos": [
+    {
+      "id": "yt:video:BZjIl_1nYHM",
+      "title": "6 Deep and Lasting Ways to Improve Your Self-Esteem",
+      "videoId": "BZjIl_1nYHM",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-16T11:00:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/BZjIl_1nYHM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:5fkTkG53HYw",
       "title": "Why it Feels Easier to Blame Yourself",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-09-11T14:39:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/KTgPsB2ukjc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7sxVCE94t4U",
-      "title": "Is This the Missing Key for Mental Health?",
-      "videoId": "7sxVCE94t4U",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-09-09T16:00:11.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7sxVCE94t4U/hqdefault.jpg",
       "tags": []
     }
   ],

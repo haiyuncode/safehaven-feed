@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-17T12:25:48.945Z",
+  "generatedAt": "2025-10-17T18:16:55.726Z",
   "videos": [
     {
       "id": "yt:video:BZjIl_1nYHM",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/hopeful-digital-environment/?utm_source=rss&utm_medium=rss&utm_campaign=hopeful-digital-environment",
+      "title": "How to Design a Hopeful Digital Environment",
+      "url": "https://positivepsychology.com/hopeful-digital-environment/?utm_source=rss&utm_medium=rss&utm_campaign=hopeful-digital-environment",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-17T14:00:28.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/social-media-addiction/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-addiction",
       "title": "Overcome Social Media Addiction With Small Daily Tweaks",
       "url": "https://positivepsychology.com/social-media-addiction/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-addiction",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/silent-treatment-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment-abuse",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-09-12T14:00:46.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/silent-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment",
-      "title": "Decoding What Silent Treatment Means for Couples",
-      "url": "https://positivepsychology.com/silent-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-09-11T14:00:42.000Z",
       "tags": []
     }
   ]

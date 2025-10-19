@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-19T12:22:31.579Z",
+  "generatedAt": "2025-10-19T18:16:41.976Z",
   "videos": [
+    {
+      "id": "yt:video:GgIiaSOhobs",
+      "title": "Reverse Low Self-Esteem",
+      "videoId": "GgIiaSOhobs",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-19T16:00:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/GgIiaSOhobs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:c36td5lpLZk",
       "title": "Neuroplasticity and Trauma",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-09-18T11:01:54.000Z",
       "thumbnail": "https://i.ytimg.com/vi/uL0eC1E9AHQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ExP4dmAz2po",
-      "title": "Tiny Mental Shifts for Depression",
-      "videoId": "ExP4dmAz2po",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-09-16T16:00:34.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ExP4dmAz2po/hqdefault.jpg",
       "tags": []
     }
   ],

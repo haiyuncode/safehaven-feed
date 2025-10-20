@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-20T06:20:32.201Z",
+  "generatedAt": "2025-10-20T12:27:20.020Z",
   "videos": [
+    {
+      "id": "yt:video:2I05IX3RSMo",
+      "title": "Improve Boxing IQ. Boxing Body or Head shot? #boxing #mma",
+      "videoId": "2I05IX3RSMo",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-20T11:32:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/2I05IX3RSMo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:SPQaBTigd6I",
       "title": "Ultimate 20 Minute Shadow Boxing workout #4",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-15T17:44:40.000Z",
       "thumbnail": "https://i.ytimg.com/vi/NJe8WsXQhvA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:oKGnNXa7jto",
-      "title": "Men keep your GRIP Strong! #strength #gripstrength #life",
-      "videoId": "oKGnNXa7jto",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-13T18:26:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/oKGnNXa7jto/hqdefault.jpg",
       "tags": []
     }
   ],

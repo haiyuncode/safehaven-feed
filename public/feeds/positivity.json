@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-21T12:27:30.699Z",
+  "generatedAt": "2025-10-21T18:18:02.638Z",
   "videos": [
+    {
+      "id": "yt:video:do3gUJAJPd4",
+      "title": "Finding Balance in Your Life",
+      "videoId": "do3gUJAJPd4",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-21T16:01:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/do3gUJAJPd4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Pf_X1FFbpF0",
       "title": "Why Trauma Affects 2 People Completely Differently",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-09-26T00:00:45.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ZhT95r6C7ek/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:jhC6g4zNqzE",
-      "title": "Why You Blame Yourself for Everything",
-      "videoId": "jhC6g4zNqzE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-09-23T16:01:25.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/jhC6g4zNqzE/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-22T12:27:52.593Z",
+  "generatedAt": "2025-10-22T18:20:17.803Z",
   "videos": [
+    {
+      "id": "yt:video:UysB3B0We-s",
+      "title": "Negative Mental Filtering",
+      "videoId": "UysB3B0We-s",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-22T16:00:53.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/UysB3B0We-s/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:do3gUJAJPd4",
       "title": "Finding Balance in Your Life",
@@ -127,15 +136,6 @@
       "publishedAt": "2025-09-27T16:00:50.000Z",
       "thumbnail": "https://i.ytimg.com/vi/VzrkTU2H0DI/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:ZhT95r6C7ek",
-      "title": "The Brain Differences with ADHD and Anxiety",
-      "videoId": "ZhT95r6C7ek",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-09-26T00:00:45.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZhT95r6C7ek/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
@@ -145,6 +145,22 @@
       "url": "https://positivepsychology.com/hopeful-digital-environment/?utm_source=rss&utm_medium=rss&utm_campaign=hopeful-digital-environment",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-10-17T14:00:28.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/coaching-program/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-program",
+      "title": "How to Create Your Signature Coaching Program: 4 Templates",
+      "url": "https://positivepsychology.com/coaching-program/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-program",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-16T14:00:12.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/hope-theory/?utm_source=rss&utm_medium=rss&utm_campaign=hope-theory",
+      "title": "Hope Theory: How Pathways Thinking Can Help Your Clients",
+      "url": "https://positivepsychology.com/hope-theory/?utm_source=rss&utm_medium=rss&utm_campaign=hope-theory",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-15T14:00:39.000Z",
       "tags": []
     },
     {
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/writing-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=writing-therapy",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-10-06T14:00:37.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/neuroscience-of-gratitude/?utm_source=rss&utm_medium=rss&utm_campaign=neuroscience-of-gratitude",
-      "title": "The Neuroscience of Gratitude & Its Effects on the Brain",
-      "url": "https://positivepsychology.com/neuroscience-of-gratitude/?utm_source=rss&utm_medium=rss&utm_campaign=neuroscience-of-gratitude",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-09-15T14:00:55.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/silent-treatment-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment-abuse",
-      "title": "Breaking Free From the Cycle of Silent Treatment Abuse",
-      "url": "https://positivepsychology.com/silent-treatment-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=silent-treatment-abuse",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-09-12T14:00:46.000Z",
       "tags": []
     }
   ]

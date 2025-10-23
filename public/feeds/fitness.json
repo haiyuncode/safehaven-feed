@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-22T18:20:19.231Z",
+  "generatedAt": "2025-10-23T01:00:33.037Z",
   "videos": [
+    {
+      "id": "yt:video:8a-bVCPCLdo",
+      "title": "Increase Punching POWER  #boxing #mma #knockout",
+      "videoId": "8a-bVCPCLdo",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-22T22:24:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8a-bVCPCLdo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:2I05IX3RSMo",
       "title": "Improve Boxing IQ. Boxing Body or Head shot? #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-17T15:15:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/xYPqnMQ-vFs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:NJe8WsXQhvA",
-      "title": "This fight Style is Scary #boxing #mma #shorts",
-      "videoId": "NJe8WsXQhvA",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-15T17:44:40.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/NJe8WsXQhvA/hqdefault.jpg",
       "tags": []
     }
   ],

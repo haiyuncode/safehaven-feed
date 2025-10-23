@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-23T12:27:25.083Z",
+  "generatedAt": "2025-10-23T18:19:26.753Z",
   "videos": [
+    {
+      "id": "yt:video:W2mygfvi9Oo",
+      "title": "10 Heavy Bag Mistakes That Kill Your Power (And How to Fix Them) | Nate Bower Fitness",
+      "videoId": "W2mygfvi9Oo",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-23T14:00:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/W2mygfvi9Oo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:8a-bVCPCLdo",
       "title": "Increase Punching POWER  #boxing #mma #knockout",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-18T14:45:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5YaSiE05ttc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:xYPqnMQ-vFs",
-      "title": "Why Your Punch Lacks POWER: The Footwork Secret I Use at Nate Bower Fitness",
-      "videoId": "xYPqnMQ-vFs",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-17T15:15:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/xYPqnMQ-vFs/hqdefault.jpg",
       "tags": []
     }
   ],

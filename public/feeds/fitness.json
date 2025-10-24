@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-24T12:27:32.963Z",
+  "generatedAt": "2025-10-24T18:19:24.854Z",
   "videos": [
+    {
+      "id": "yt:video:srCnDf2oi-0",
+      "title": "Street  fight? Combos off the jab #mma #streetfighter #boxing",
+      "videoId": "srCnDf2oi-0",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-24T15:50:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/srCnDf2oi-0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:W2mygfvi9Oo",
       "title": "10 Heavy Bag Mistakes That Kill Your Power (And How to Fix Them) | Nate Bower Fitness",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-21T15:10:25.000Z",
       "thumbnail": "https://i.ytimg.com/vi/SHM5TZrpkys/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:5YaSiE05ttc",
-      "title": "Ultimate 40 Minute Shadow Boxing Workout #3 Power & Fat Loss",
-      "videoId": "5YaSiE05ttc",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-18T14:45:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/5YaSiE05ttc/hqdefault.jpg",
       "tags": []
     }
   ],

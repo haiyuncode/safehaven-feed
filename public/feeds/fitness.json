@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-25T12:22:56.404Z",
+  "generatedAt": "2025-10-25T18:16:32.887Z",
   "videos": [
+    {
+      "id": "yt:video:z7SrKekxeR4",
+      "title": "Get shredded at #home #homeworkout #lifting",
+      "videoId": "z7SrKekxeR4",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-25T14:31:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/z7SrKekxeR4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:srCnDf2oi-0",
       "title": "Street  fight? Combos off the jab #mma #streetfighter #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-23T21:35:43.000Z",
       "thumbnail": "https://i.ytimg.com/vi/c9yEcxF5Y48/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:SHM5TZrpkys",
-      "title": "How to squat better in 5 seconds #strength #boxing #shorts  #mobility",
-      "videoId": "SHM5TZrpkys",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-21T15:10:25.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/SHM5TZrpkys/hqdefault.jpg",
       "tags": []
     }
   ],

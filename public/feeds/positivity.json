@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-25T00:58:43.199Z",
+  "generatedAt": "2025-10-25T06:17:48.348Z",
   "videos": [
+    {
+      "id": "yt:video:HhQPyD_OgTk",
+      "title": "When Everything Feels Heavy",
+      "videoId": "HhQPyD_OgTk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-25T03:00:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HhQPyD_OgTk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:JUHMSrJrjss",
       "title": "How to Heal from Childhood Trauma or Complex PTSD - Summary of Pete Walker's Book",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-09-30T16:01:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/WZycnqnTa9U/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Oj7GXqHnO5w",
-      "title": "Why ADHD Fuels Anxiety",
-      "videoId": "Oj7GXqHnO5w",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-09-29T16:00:43.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Oj7GXqHnO5w/hqdefault.jpg",
       "tags": []
     }
   ],

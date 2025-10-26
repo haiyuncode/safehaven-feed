@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-26T12:23:04.544Z",
+  "generatedAt": "2025-10-26T18:17:07.342Z",
   "videos": [
+    {
+      "id": "yt:video:wFGTp_iNULE",
+      "title": "Stuck in Flight Response",
+      "videoId": "wFGTp_iNULE",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-26T16:01:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wFGTp_iNULE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:c8iA2J6YzUE",
       "title": "Stuck in the Fight Response",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-02T11:00:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/a-FLbFboMWs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:DlmGF1r4Ilg",
-      "title": "Executive Function and Anxiety",
-      "videoId": "DlmGF1r4Ilg",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-01T16:00:20.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/DlmGF1r4Ilg/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-27T12:27:33.405Z",
+  "generatedAt": "2025-10-27T18:19:36.102Z",
   "videos": [
+    {
+      "id": "yt:video:dQNCe3bzC5s",
+      "title": "Stuck in the Fawn Response",
+      "videoId": "dQNCe3bzC5s",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-27T16:01:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/dQNCe3bzC5s/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:wFGTp_iNULE",
       "title": "Stuck in Flight Response",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-06T16:00:46.000Z",
       "thumbnail": "https://i.ytimg.com/vi/RkIUFxeZz30/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:a-FLbFboMWs",
-      "title": "Armoring - How Trauma Gets Embodied as Tension, Chronic Pain, Jumpiness or Emotional Walls",
-      "videoId": "a-FLbFboMWs",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-02T11:00:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/a-FLbFboMWs/hqdefault.jpg",
       "tags": []
     }
   ],

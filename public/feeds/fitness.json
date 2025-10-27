@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-27T12:27:35.378Z",
+  "generatedAt": "2025-10-27T18:19:38.655Z",
   "videos": [
+    {
+      "id": "yt:video:Un7pfln7jOo",
+      "title": "3 Foods I never eat and the BETTER choice #health #nutrition #nutritiontips",
+      "videoId": "Un7pfln7jOo",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-27T15:51:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Un7pfln7jOo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:z7SrKekxeR4",
       "title": "Get shredded at #home #homeworkout #lifting",
@@ -49,7 +58,7 @@
     },
     {
       "id": "yt:video:SPQaBTigd6I",
-      "title": "Ultimate 20 Minute Shadow Boxing workout #4",
+      "title": "Ultimate 40 Minute Shadow Boxing workout #4",
       "videoId": "SPQaBTigd6I",
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-16T14:45:04.000Z",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-24T14:45:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/gfanky42UVI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:c9yEcxF5Y48",
-      "title": "Power JAB Footwork #shorts #boxing",
-      "videoId": "c9yEcxF5Y48",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-23T21:35:43.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/c9yEcxF5Y48/hqdefault.jpg",
       "tags": []
     }
   ],

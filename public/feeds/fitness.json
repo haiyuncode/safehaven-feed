@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-28T12:26:24.217Z",
+  "generatedAt": "2025-10-28T18:20:06.655Z",
   "videos": [
+    {
+      "id": "yt:video:Weekn1mLnTQ",
+      "title": "Move faster for Speed and Power #boxing #speed",
+      "videoId": "Weekn1mLnTQ",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-28T15:00:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Weekn1mLnTQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Un7pfln7jOo",
       "title": "3 Foods I never eat and the BETTER choice #health #nutrition #nutritiontips",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-25T23:35:44.000Z",
       "thumbnail": "https://i.ytimg.com/vi/vRVYUmOsiqo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:gfanky42UVI",
-      "title": "30 Minute Heavy Bag HIIT- Hand Speed and Reaction combos #Workout 2",
-      "videoId": "gfanky42UVI",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-24T14:45:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/gfanky42UVI/hqdefault.jpg",
       "tags": []
     }
   ],

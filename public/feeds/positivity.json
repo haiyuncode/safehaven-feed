@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-28T12:26:22.662Z",
+  "generatedAt": "2025-10-28T18:20:04.715Z",
   "videos": [
+    {
+      "id": "yt:video:y6IVBPmYjxA",
+      "title": "Stuck in the Freeze Response",
+      "videoId": "y6IVBPmYjxA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-28T16:02:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/y6IVBPmYjxA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:dQNCe3bzC5s",
       "title": "Stuck in the Fawn Response",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-07T16:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/3SZZeW3Yzes/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:RkIUFxeZz30",
-      "title": "How Trauma Gets Stuck in the Body",
-      "videoId": "RkIUFxeZz30",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-06T16:00:46.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/RkIUFxeZz30/hqdefault.jpg",
       "tags": []
     }
   ],

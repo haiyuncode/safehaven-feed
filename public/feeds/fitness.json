@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-10-30T12:26:43.811Z",
+  "generatedAt": "2025-10-30T18:18:36.762Z",
   "videos": [
+    {
+      "id": "yt:video:B0rT3pjzY_0",
+      "title": "Fight me from the outside              1 punch punch combos with movement #boxing #mma",
+      "videoId": "B0rT3pjzY_0",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-10-30T17:37:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/B0rT3pjzY_0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Weekn1mLnTQ",
       "title": "Move faster for Speed and Power #boxing #speed",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-09-28T17:27:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/tZ09KfKw2Lw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:vRVYUmOsiqo",
-      "title": "Don’t let these Punches land #boxing #lefthook #mma",
-      "videoId": "vRVYUmOsiqo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-25T23:35:44.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/vRVYUmOsiqo/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-10-30T06:19:51.847Z",
+  "generatedAt": "2025-10-30T12:26:42.472Z",
   "videos": [
+    {
+      "id": "yt:video:9NZZlgpmyDM",
+      "title": "Trauma-Fueled Nightmares and Night Terrors with PTSD",
+      "videoId": "9NZZlgpmyDM",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-10-30T11:00:16.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/9NZZlgpmyDM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:y6IVBPmYjxA",
       "title": "Stuck in the Freeze Response",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-09T11:54:47.000Z",
       "thumbnail": "https://i.ytimg.com/vi/MWmx_-T42as/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:3SZZeW3Yzes",
-      "title": "Get Curious About Body Image",
-      "videoId": "3SZZeW3Yzes",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-07T16:00:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/3SZZeW3Yzes/hqdefault.jpg",
       "tags": []
     }
   ],

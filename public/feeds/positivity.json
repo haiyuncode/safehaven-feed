@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-01T12:22:55.329Z",
+  "generatedAt": "2025-11-01T18:16:40.127Z",
   "videos": [
+    {
+      "id": "yt:video:s4oIb5xOlYQ",
+      "title": "What is CPTSD?",
+      "videoId": "s4oIb5xOlYQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-01T16:01:31.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/s4oIb5xOlYQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:9NZZlgpmyDM",
       "title": "Trauma-Fueled Nightmares and Night Terrors with PTSD",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-15T02:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5fkTkG53HYw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:MWmx_-T42as",
-      "title": "Restoring your Internal Sense of Safety after Trauma w/ CPTSD Expert Dr. Arielle Schwartz",
-      "videoId": "MWmx_-T42as",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-09T11:54:47.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/MWmx_-T42as/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-11-03T12:27:40.168Z",
+  "generatedAt": "2025-11-03T18:19:05.144Z",
   "videos": [
+    {
+      "id": "yt:video:e4UgI_VuX_g",
+      "title": "BURN FAT FAST with Boxing | 30-Min Heavy Bag HIIT for Stamina & Power",
+      "videoId": "e4UgI_VuX_g",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-11-03T14:30:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/e4UgI_VuX_g/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:B0rT3pjzY_0",
       "title": "Fight me from the outside              1 punch punch combos with movement #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-03T18:44:22.000Z",
       "thumbnail": "https://i.ytimg.com/vi/d5n0yfZdO70/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:GOmjgnkMqz8",
-      "title": "What boxing training looks like #boxing #mma #shorts",
-      "videoId": "GOmjgnkMqz8",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-09-30T14:45:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/GOmjgnkMqz8/hqdefault.jpg",
       "tags": []
     }
   ],

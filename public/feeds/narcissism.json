@@ -1,6 +1,6 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2025-11-03T18:19:04.426Z",
+  "generatedAt": "2025-11-04T01:01:53.556Z",
   "videos": [
     {
       "id": "yt:video:KEDAzvXOS9A",
@@ -108,6 +108,15 @@
       "channel": "Surviving Narcissism",
       "publishedAt": "2025-10-10T15:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/C-UKM2L-xM0/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:6mM3RPtKQqg",
+      "title": "Best of: Standing Tall with Strong Boundaries",
+      "videoId": "6mM3RPtKQqg",
+      "channel": "Surviving Narcissism",
+      "publishedAt": "2025-10-09T18:32:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/6mM3RPtKQqg/hqdefault.jpg",
       "tags": []
     },
     {
@@ -261,15 +270,6 @@
       "channel": "Surviving Narcissism",
       "publishedAt": "2025-07-21T15:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/X3FH_LiDRHc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:qmnxHjEUCM0",
-      "title": "6 Common Mandates Narcissists Impose",
-      "videoId": "qmnxHjEUCM0",
-      "channel": "Surviving Narcissism",
-      "publishedAt": "2025-07-20T18:31:12.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/qmnxHjEUCM0/hqdefault.jpg",
       "tags": []
     }
   ],

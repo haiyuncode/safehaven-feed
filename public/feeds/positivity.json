@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-04T12:29:04.908Z",
+  "generatedAt": "2025-11-04T18:19:31.195Z",
   "videos": [
+    {
+      "id": "yt:video:a-72bqMLG7A",
+      "title": "Nightmares on Repeat? Try THIS",
+      "videoId": "a-72bqMLG7A",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-04T17:00:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/a-72bqMLG7A/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:LJlXxRsiHlk",
       "title": "Stuck in the Fawn Response",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-18T16:01:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/c36td5lpLZk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:BZjIl_1nYHM",
-      "title": "6 Deep and Lasting Ways to Improve Your Self-Esteem",
-      "videoId": "BZjIl_1nYHM",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-16T11:00:19.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/BZjIl_1nYHM/hqdefault.jpg",
       "tags": []
     }
   ],

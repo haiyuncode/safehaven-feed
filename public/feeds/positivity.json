@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-05T12:27:40.292Z",
+  "generatedAt": "2025-11-05T18:19:12.434Z",
   "videos": [
     {
       "id": "yt:video:a-72bqMLG7A",
@@ -140,6 +140,30 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/why-is-mental-health-important/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-mental-health-important",
+      "title": "Why Is Mental Health Important? A Foundation for Flourishing",
+      "url": "https://positivepsychology.com/why-is-mental-health-important/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-mental-health-important",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-23T14:00:14.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/what-is-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-mental-health",
+      "title": "What Is Mental Health? And Why It is More Than You Think",
+      "url": "https://positivepsychology.com/what-is-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-mental-health",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-22T14:00:13.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/psychoeducation-groups/?utm_source=rss&utm_medium=rss&utm_campaign=psychoeducation-groups",
+      "title": "Psychoeducational Groups: Topics, Examples & Tools",
+      "url": "https://positivepsychology.com/psychoeducation-groups/?utm_source=rss&utm_medium=rss&utm_campaign=psychoeducation-groups",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-21T14:00:03.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/homework-in-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=homework-in-therapy",
       "title": "Therapy Homework: How to Engage Clients Between Sessions",
       "url": "https://positivepsychology.com/homework-in-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=homework-in-therapy",
@@ -193,30 +217,6 @@
       "url": "https://positivepsychology.com/music-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=music-therapy",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-10-10T14:00:42.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/what-is-flow/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-flow",
-      "title": "What Is Flow in Positive Psychology?",
-      "url": "https://positivepsychology.com/what-is-flow/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-flow",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-09T14:00:44.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/cynical-clients/?utm_source=rss&utm_medium=rss&utm_campaign=cynical-clients",
-      "title": "Hope for Cynical Clients: 5 Strategies to Inspire Change",
-      "url": "https://positivepsychology.com/cynical-clients/?utm_source=rss&utm_medium=rss&utm_campaign=cynical-clients",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-08T14:00:12.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/resilience-activities-exercises/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-activities-exercises",
-      "title": "19 Resilience Activities & Training to Overcome Adversity",
-      "url": "https://positivepsychology.com/resilience-activities-exercises/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-activities-exercises",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-07T14:00:42.000Z",
       "tags": []
     }
   ]

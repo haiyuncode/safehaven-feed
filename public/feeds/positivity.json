@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-06T06:20:23.087Z",
+  "generatedAt": "2025-11-06T12:27:11.168Z",
   "videos": [
+    {
+      "id": "yt:video:gHsKOSvAyLo",
+      "title": "i feel dead inside - How to Process Emotional Numbness",
+      "videoId": "gHsKOSvAyLo",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-06T12:01:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/gHsKOSvAyLo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:a-72bqMLG7A",
       "title": "Nightmares on Repeat? Try THIS",
@@ -127,18 +136,25 @@
       "publishedAt": "2025-10-19T16:00:24.000Z",
       "thumbnail": "https://i.ytimg.com/vi/GgIiaSOhobs/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:c36td5lpLZk",
-      "title": "Neuroplasticity and Trauma",
-      "videoId": "c36td5lpLZk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-18T16:01:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/c36td5lpLZk/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/preventing-mental-illness/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-mental-illness",
+      "title": "Preventing Mental Illness: Community Connection Matters",
+      "url": "https://positivepsychology.com/preventing-mental-illness/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-mental-illness",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-27T15:00:51.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/how-to-improve-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-improve-mental-health",
+      "title": "How to Improve Mental Health: Daily Habits & Strategies",
+      "url": "https://positivepsychology.com/how-to-improve-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-improve-mental-health",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-10-24T14:00:29.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/why-is-mental-health-important/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-mental-health-important",
       "title": "Why Is Mental Health Important? A Foundation for Flourishing",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/social-media-addiction/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-addiction",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-10-14T14:00:35.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/social-media-and-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-mental-health",
-      "title": "How Social Media Impacts Mental Health",
-      "url": "https://positivepsychology.com/social-media-and-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-mental-health",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-13T14:00:59.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/music-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=music-therapy",
-      "title": "Music Therapy in Practice: How It Works & Why It Helps",
-      "url": "https://positivepsychology.com/music-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=music-therapy",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-10T14:00:42.000Z",
       "tags": []
     }
   ]

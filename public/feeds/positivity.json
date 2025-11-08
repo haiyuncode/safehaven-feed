@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-08T00:58:51.044Z",
+  "generatedAt": "2025-11-08T06:17:56.381Z",
   "videos": [
+    {
+      "id": "yt:video:7YcmN9LZSOY",
+      "title": "3 Levels of Trauma in the Nervous System",
+      "videoId": "7YcmN9LZSOY",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-08T03:00:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7YcmN9LZSOY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:gHsKOSvAyLo",
       "title": "How to Process Emotional Numbness and Dissociation",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-20T16:00:43.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Pf_X1FFbpF0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:GgIiaSOhobs",
-      "title": "Reverse Low Self-Esteem",
-      "videoId": "GgIiaSOhobs",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-19T16:00:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/GgIiaSOhobs/hqdefault.jpg",
       "tags": []
     }
   ],

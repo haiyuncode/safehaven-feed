@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-11-10T12:27:18.048Z",
+  "generatedAt": "2025-11-10T18:19:28.817Z",
   "videos": [
+    {
+      "id": "yt:video:cReuMgkSRxQ",
+      "title": "Ultimate 40 Minute Boxing Workout #5: Melt Fat & Get Ripped",
+      "videoId": "cReuMgkSRxQ",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-11-10T14:30:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/cReuMgkSRxQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:x66s6-IX2y0",
       "title": "Throw real Boxing Combos off the 1-2 #boxing #mma",
@@ -121,20 +130,11 @@
     },
     {
       "id": "yt:video:wtsm5WnA1JU",
-      "title": "5 Minute to 40 Minute Heavy Bag Workout | Build Power  Workout #4",
+      "title": "5 Minute to 40 Minute Heavy Bag Workout | Boxing for strength and fat loss Workout #4",
       "videoId": "wtsm5WnA1JU",
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-08T16:26:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/wtsm5WnA1JU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:9dvYO1KArZk",
-      "title": "Learn boxing punches in 12 seconds #boxing #mma #fitnesshacks",
-      "videoId": "9dvYO1KArZk",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-10-05T15:23:38.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/9dvYO1KArZk/hqdefault.jpg",
       "tags": []
     }
   ],

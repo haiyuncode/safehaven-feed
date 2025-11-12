@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-11-12T12:27:45.368Z",
+  "generatedAt": "2025-11-12T18:19:36.575Z",
   "videos": [
+    {
+      "id": "yt:video:qJak6vtOrAM",
+      "title": "Relentless boxing pressure | Overhand right finishers #boxing#mma",
+      "videoId": "qJak6vtOrAM",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-11-12T16:54:48.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/qJak6vtOrAM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:cReuMgkSRxQ",
       "title": "Ultimate 40 Minute Boxing Workout #5: Melt Fat & Get Ripped",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-16T14:45:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/SPQaBTigd6I/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:wtsm5WnA1JU",
-      "title": "5 Minute to 40 Minute Heavy Bag Workout | Boxing for strength and fat loss Workout #4",
-      "videoId": "wtsm5WnA1JU",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-10-08T16:26:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/wtsm5WnA1JU/hqdefault.jpg",
       "tags": []
     }
   ],

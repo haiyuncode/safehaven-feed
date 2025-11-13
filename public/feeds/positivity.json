@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-13T12:28:04.582Z",
+  "generatedAt": "2025-11-13T18:19:17.899Z",
   "videos": [
     {
       "id": "yt:video:w3qc6GYnAU0",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/gratitude-happiness-research/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-happiness-research",
+      "title": "Using Gratitude & Happiness in Trauma-Informed Therapy",
+      "url": "https://positivepsychology.com/gratitude-happiness-research/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-happiness-research",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-10T15:00:53.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/preventing-mental-illness/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-mental-illness",
       "title": "Preventing Mental Illness: Community Connection Matters",
       "url": "https://positivepsychology.com/preventing-mental-illness/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-mental-illness",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/hope-theory/?utm_source=rss&utm_medium=rss&utm_campaign=hope-theory",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-10-15T14:00:39.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/social-media-addiction/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-addiction",
-      "title": "Overcome Social Media Addiction With Small Daily Tweaks",
-      "url": "https://positivepsychology.com/social-media-addiction/?utm_source=rss&utm_medium=rss&utm_campaign=social-media-addiction",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-14T14:00:35.000Z",
       "tags": []
     }
   ]

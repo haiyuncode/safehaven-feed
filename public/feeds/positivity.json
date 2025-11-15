@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-15T12:23:35.704Z",
+  "generatedAt": "2025-11-15T18:16:47.111Z",
   "videos": [
     {
       "id": "yt:video:s204h5lZpLk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/coaching-template/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-template",
+      "title": "18 Life Coaching Templates for Results-Driven Sessions",
+      "url": "https://positivepsychology.com/coaching-template/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-template",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-11T15:00:12.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/gratitude-happiness-research/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-happiness-research",
       "title": "Using Gratitude & Happiness in Trauma-Informed Therapy",
       "url": "https://positivepsychology.com/gratitude-happiness-research/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-happiness-research",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/coaching-program/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-program",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-10-16T14:00:12.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/hope-theory/?utm_source=rss&utm_medium=rss&utm_campaign=hope-theory",
-      "title": "Hope Theory: How Pathways Thinking Can Help Your Clients",
-      "url": "https://positivepsychology.com/hope-theory/?utm_source=rss&utm_medium=rss&utm_campaign=hope-theory",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-15T14:00:39.000Z",
       "tags": []
     }
   ]

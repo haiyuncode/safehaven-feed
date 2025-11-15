@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-15T01:01:18.283Z",
+  "generatedAt": "2025-11-15T06:18:43.546Z",
   "videos": [
+    {
+      "id": "yt:video:s204h5lZpLk",
+      "title": "The Fawn Response in the Nervous System",
+      "videoId": "s204h5lZpLk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-15T03:01:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/s204h5lZpLk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:w3qc6GYnAU0",
       "title": "Building Healthy Attachment Relationships after Childhood Trauma",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-25T03:00:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/HhQPyD_OgTk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:JUHMSrJrjss",
-      "title": "How to Heal from Childhood Trauma or Complex PTSD - Summary of Pete Walker's Book",
-      "videoId": "JUHMSrJrjss",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-23T11:00:44.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/JUHMSrJrjss/hqdefault.jpg",
       "tags": []
     }
   ],

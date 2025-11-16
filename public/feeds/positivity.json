@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-16T12:23:01.384Z",
+  "generatedAt": "2025-11-16T18:17:09.164Z",
   "videos": [
+    {
+      "id": "yt:video:jU0DbBL5--U",
+      "title": "Telling Your Story",
+      "videoId": "jU0DbBL5--U",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-16T17:01:16.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jU0DbBL5--U/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:s204h5lZpLk",
       "title": "The Fawn Response in the Nervous System",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-10-25T16:01:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/c8iA2J6YzUE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:HhQPyD_OgTk",
-      "title": "When Everything Feels Heavy",
-      "videoId": "HhQPyD_OgTk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-25T03:00:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HhQPyD_OgTk/hqdefault.jpg",
       "tags": []
     }
   ],

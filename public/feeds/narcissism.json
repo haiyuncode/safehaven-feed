@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2025-11-17T12:27:28.232Z",
+  "generatedAt": "2025-11-17T18:19:24.529Z",
   "videos": [
+    {
+      "id": "yt:video:re46PoqzMnk",
+      "title": "Cool or Narcissistic?",
+      "videoId": "re46PoqzMnk",
+      "channel": "DoctorRamani",
+      "publishedAt": "2025-11-17T16:01:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/re46PoqzMnk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:KuiOstPytgo",
       "title": "The Truth About Forgiving (or Not Forgiving) a Narcissist",
@@ -135,15 +144,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2025-10-15T15:01:50.000Z",
       "thumbnail": "https://i.ytimg.com/vi/wIkadN99Iso/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:P63m8E681ZE",
-      "title": "Can You Heal Without Radically Accepting the Narcissist?",
-      "videoId": "P63m8E681ZE",
-      "channel": "DoctorRamani",
-      "publishedAt": "2025-10-13T15:00:48.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/P63m8E681ZE/hqdefault.jpg",
       "tags": []
     },
     {

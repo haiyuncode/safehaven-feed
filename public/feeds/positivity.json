@@ -1,7 +1,25 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-24T12:28:02.362Z",
+  "generatedAt": "2025-11-24T18:20:42.492Z",
   "videos": [
+    {
+      "id": "yt:video:84eNHCLb1pY",
+      "title": "One Way to Work Through Dissociation",
+      "videoId": "84eNHCLb1pY",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-24T17:00:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/84eNHCLb1pY/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:-AVCZD5XYys",
+      "title": "What is IFS Therapy? No Bad Parts Book Summary  - Trauma Therapy",
+      "videoId": "-AVCZD5XYys",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-21T21:26:28.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-AVCZD5XYys/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:qJkmtunuF_A",
       "title": "What is Trauma?",
@@ -118,27 +136,41 @@
       "publishedAt": "2025-10-28T16:02:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/y6IVBPmYjxA/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:dQNCe3bzC5s",
-      "title": "Stuck in the Freeze Response",
-      "videoId": "dQNCe3bzC5s",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-27T16:01:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/dQNCe3bzC5s/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:wFGTp_iNULE",
-      "title": "Stuck in Flight Response",
-      "videoId": "wFGTp_iNULE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-26T16:01:35.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/wFGTp_iNULE/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/chronic-overthinker/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinker",
+      "title": "5 Coping Strategies Every Chronic Overthinker Can Use Today",
+      "url": "https://positivepsychology.com/chronic-overthinker/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinker",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-17T15:00:33.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/chronic-overthinking/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinking",
+      "title": "Understanding the Cycle of Chronic Overthinking",
+      "url": "https://positivepsychology.com/chronic-overthinking/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinking",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-14T15:00:38.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/worry-and-health/?utm_source=rss&utm_medium=rss&utm_campaign=worry-and-health",
+      "title": "How Chronic Worry Undermines Your Health",
+      "url": "https://positivepsychology.com/worry-and-health/?utm_source=rss&utm_medium=rss&utm_campaign=worry-and-health",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-13T15:00:45.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/why-i-worry/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-worry",
+      "title": "Why I Worry: The Hidden Causes Behind Constant Worry",
+      "url": "https://positivepsychology.com/why-i-worry/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-worry",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-12T15:00:25.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/coaching-template/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-template",
       "title": "18 Life Coaching Templates for Results-Driven Sessions",
@@ -185,38 +217,6 @@
       "url": "https://positivepsychology.com/what-is-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-mental-health",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-10-22T14:00:13.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/psychoeducation-groups/?utm_source=rss&utm_medium=rss&utm_campaign=psychoeducation-groups",
-      "title": "Psychoeducational Groups: Topics, Examples & Tools",
-      "url": "https://positivepsychology.com/psychoeducation-groups/?utm_source=rss&utm_medium=rss&utm_campaign=psychoeducation-groups",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-21T14:00:03.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/homework-in-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=homework-in-therapy",
-      "title": "Therapy Homework: How to Engage Clients Between Sessions",
-      "url": "https://positivepsychology.com/homework-in-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=homework-in-therapy",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-20T14:00:03.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/hopeful-digital-environment/?utm_source=rss&utm_medium=rss&utm_campaign=hopeful-digital-environment",
-      "title": "How to Design a Hopeful Digital Environment",
-      "url": "https://positivepsychology.com/hopeful-digital-environment/?utm_source=rss&utm_medium=rss&utm_campaign=hopeful-digital-environment",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-17T14:00:28.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/coaching-program/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-program",
-      "title": "How to Create Your Signature Coaching Program: 4 Templates",
-      "url": "https://positivepsychology.com/coaching-program/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-program",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-16T14:00:12.000Z",
       "tags": []
     }
   ]

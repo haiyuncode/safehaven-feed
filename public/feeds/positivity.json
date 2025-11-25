@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-25T06:21:34.235Z",
+  "generatedAt": "2025-11-25T12:28:27.001Z",
   "videos": [
     {
       "id": "yt:video:84eNHCLb1pY",
@@ -140,6 +140,22 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/childhood-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=childhood-anxiety",
+      "title": "Childhood Anxiety: How It Develops & What It Teaches Us",
+      "url": "https://positivepsychology.com/childhood-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=childhood-anxiety",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-19T15:00:38.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/anxiety-symptoms-in-children/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-symptoms-in-children",
+      "title": "How to Spot Anxiety Symptoms in Children",
+      "url": "https://positivepsychology.com/anxiety-symptoms-in-children/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-symptoms-in-children",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-18T15:00:33.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/chronic-overthinker/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinker",
       "title": "5 Coping Strategies Every Chronic Overthinker Can Use Today",
       "url": "https://positivepsychology.com/chronic-overthinker/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinker",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/how-to-improve-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-improve-mental-health",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-10-24T14:00:29.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/why-is-mental-health-important/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-mental-health-important",
-      "title": "Why Is Mental Health Important? A Foundation for Flourishing",
-      "url": "https://positivepsychology.com/why-is-mental-health-important/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-mental-health-important",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-23T14:00:14.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/what-is-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-mental-health",
-      "title": "What Is Mental Health? And Why It is More Than You Think",
-      "url": "https://positivepsychology.com/what-is-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-mental-health",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-22T14:00:13.000Z",
       "tags": []
     }
   ]

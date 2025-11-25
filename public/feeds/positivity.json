@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-11-25T12:28:27.001Z",
+  "generatedAt": "2025-11-25T18:20:47.048Z",
   "videos": [
+    {
+      "id": "yt:video:i_wk-iQ6RcY",
+      "title": "Stuff That Doesn’t Work with Trauma Responses",
+      "videoId": "i_wk-iQ6RcY",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-11-25T17:01:23.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/i_wk-iQ6RcY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:84eNHCLb1pY",
       "title": "One Way to Work Through Dissociation",
@@ -127,18 +136,25 @@
       "publishedAt": "2025-10-30T11:00:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/9NZZlgpmyDM/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:y6IVBPmYjxA",
-      "title": "Stuck in the Freeze Response",
-      "videoId": "y6IVBPmYjxA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-28T16:02:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/y6IVBPmYjxA/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/ketamine-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=ketamine-therapy",
+      "title": "Ketamine Therapy: What Is It & How Does It Work?",
+      "url": "https://positivepsychology.com/ketamine-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=ketamine-therapy",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-21T15:00:39.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/cbt-cognitive-restructuring-cognitive-distortions/?utm_source=rss&utm_medium=rss&utm_campaign=cbt-cognitive-restructuring-cognitive-distortions",
+      "title": "Cognitive Restructuring: The Power of Reframing Thoughts",
+      "url": "https://positivepsychology.com/cbt-cognitive-restructuring-cognitive-distortions/?utm_source=rss&utm_medium=rss&utm_campaign=cbt-cognitive-restructuring-cognitive-distortions",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2025-11-20T15:00:21.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/childhood-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=childhood-anxiety",
       "title": "Childhood Anxiety: How It Develops & What It Teaches Us",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/gratitude-happiness-research/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-happiness-research",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-11-10T15:00:53.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/preventing-mental-illness/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-mental-illness",
-      "title": "Preventing Mental Illness: Community Connection Matters",
-      "url": "https://positivepsychology.com/preventing-mental-illness/?utm_source=rss&utm_medium=rss&utm_campaign=preventing-mental-illness",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-27T15:00:51.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/how-to-improve-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-improve-mental-health",
-      "title": "How to Improve Mental Health: Daily Habits & Strategies",
-      "url": "https://positivepsychology.com/how-to-improve-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-improve-mental-health",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-10-24T14:00:29.000Z",
       "tags": []
     }
   ]

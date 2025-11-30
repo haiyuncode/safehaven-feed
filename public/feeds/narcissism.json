@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2025-11-30T12:24:12.080Z",
+  "generatedAt": "2025-11-30T18:18:10.993Z",
   "videos": [
+    {
+      "id": "yt:video:tiWE40UjdyU",
+      "title": "The “Big D’s” of Narcissistic Relationships",
+      "videoId": "tiWE40UjdyU",
+      "channel": "DoctorRamani",
+      "publishedAt": "2025-11-30T16:01:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/tiWE40UjdyU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:47QVhI9pgKY",
       "title": "The Resentful Martyr: A Narcissist in Disguise",
@@ -144,15 +153,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2025-11-03T16:00:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/KEDAzvXOS9A/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:8UicDmUte8o",
-      "title": "The Crisis Trauma Bond With a Narcissist",
-      "videoId": "8UicDmUte8o",
-      "channel": "DoctorRamani",
-      "publishedAt": "2025-10-31T15:00:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/8UicDmUte8o/hqdefault.jpg",
       "tags": []
     },
     {

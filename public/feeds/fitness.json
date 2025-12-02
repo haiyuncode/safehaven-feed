@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-12-02T12:29:41.381Z",
+  "generatedAt": "2025-12-02T18:21:47.995Z",
   "videos": [
+    {
+      "id": "yt:video:T43qCOpkyck",
+      "title": "Get fit with boxing FULL 40 Minute Punching Bag Workout #5",
+      "videoId": "T43qCOpkyck",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-12-02T16:30:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/T43qCOpkyck/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:aTH95NrNPyI",
       "title": "Jab PRO tips | jab defence and footwork for beginners #jab #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-24T15:50:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/srCnDf2oi-0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:W2mygfvi9Oo",
-      "title": "Punching Bag Training | how to actually use a punching bag",
-      "videoId": "W2mygfvi9Oo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-10-23T14:00:50.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/W2mygfvi9Oo/hqdefault.jpg",
       "tags": []
     }
   ],

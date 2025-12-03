@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-03T12:28:59.291Z",
+  "generatedAt": "2025-12-03T18:21:45.286Z",
   "videos": [
+    {
+      "id": "yt:video:FganGd3U2VA",
+      "title": "Parts work with IFS- Protector & Exiles",
+      "videoId": "FganGd3U2VA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-03T17:00:34.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/FganGd3U2VA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:-AVCZD5XYys",
       "title": "The Power of IFS to Heal Trauma - No Bad Parts Book Summary by Richard Schwartz",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-01T16:01:31.000Z",
       "thumbnail": "https://i.ytimg.com/vi/s4oIb5xOlYQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:9NZZlgpmyDM",
-      "title": "Trauma-Fueled Nightmares and Night Terrors with PTSD",
-      "videoId": "9NZZlgpmyDM",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-10-30T11:00:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/9NZZlgpmyDM/hqdefault.jpg",
       "tags": []
     }
   ],

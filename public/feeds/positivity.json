@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-04T12:29:57.375Z",
+  "generatedAt": "2025-12-04T18:22:10.292Z",
   "videos": [
+    {
+      "id": "yt:video:iqE4y0K1c9w",
+      "title": "The Freeze, Appease or Fawn Response to Sexual Violence",
+      "videoId": "iqE4y0K1c9w",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-04T14:01:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/iqE4y0K1c9w/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:FganGd3U2VA",
       "title": "Parts work with IFS- Protector & Exiles",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-03T17:00:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/LJlXxRsiHlk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:s4oIb5xOlYQ",
-      "title": "What is CPTSD?",
-      "videoId": "s4oIb5xOlYQ",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-01T16:01:31.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/s4oIb5xOlYQ/hqdefault.jpg",
       "tags": []
     }
   ],

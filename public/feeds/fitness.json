@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-12-07T12:24:16.294Z",
+  "generatedAt": "2025-12-07T18:17:55.261Z",
   "videos": [
+    {
+      "id": "yt:video:IxSq81FhA7Q",
+      "title": "Boxing Workout That Hits Different | 30 Minute Boxing Workout",
+      "videoId": "IxSq81FhA7Q",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-12-07T17:15:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/IxSq81FhA7Q/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:T43qCOpkyck",
       "title": "Get fit with boxing FULL 40 Minute Punching Bag Workout #5",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-25T14:31:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/z7SrKekxeR4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:srCnDf2oi-0",
-      "title": "Street  fight? Combos off the jab #mma #streetfighter #boxing",
-      "videoId": "srCnDf2oi-0",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-10-24T15:50:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/srCnDf2oi-0/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-09T12:29:03.798Z",
+  "generatedAt": "2025-12-09T18:17:59.567Z",
   "videos": [
+    {
+      "id": "yt:video:ufbWdn1feu8",
+      "title": "Why You Go Numb",
+      "videoId": "ufbWdn1feu8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-09T17:01:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ufbWdn1feu8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:iqE4y0K1c9w",
       "title": "The Freeze, Appease or Fawn Response to Harassment",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-04T17:00:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/a-72bqMLG7A/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:LJlXxRsiHlk",
-      "title": "Stuck in the Fawn Response",
-      "videoId": "LJlXxRsiHlk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-03T17:00:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/LJlXxRsiHlk/hqdefault.jpg",
       "tags": []
     }
   ],

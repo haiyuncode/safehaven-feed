@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-10T12:29:13.803Z",
+  "generatedAt": "2025-12-10T18:21:44.227Z",
   "videos": [
+    {
+      "id": "yt:video:KmT-3qlpCi8",
+      "title": "Parts Work: The SELF in IFS Therapy",
+      "videoId": "KmT-3qlpCi8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-10T17:00:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/KmT-3qlpCi8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ufbWdn1feu8",
       "title": "Why You Go Numb",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-06T12:01:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/gHsKOSvAyLo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:a-72bqMLG7A",
-      "title": "Nightmares on Repeat? Try THIS",
-      "videoId": "a-72bqMLG7A",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-04T17:00:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/a-72bqMLG7A/hqdefault.jpg",
       "tags": []
     }
   ],

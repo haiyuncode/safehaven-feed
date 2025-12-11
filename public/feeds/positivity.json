@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-11T12:30:10.030Z",
+  "generatedAt": "2025-12-11T18:20:11.762Z",
   "videos": [
+    {
+      "id": "yt:video:fexoLmKK8Y8",
+      "title": "Mapping your Parts- This IFS Exercise Can Help You Heal Trauma",
+      "videoId": "fexoLmKK8Y8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-11T13:01:33.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fexoLmKK8Y8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:KmT-3qlpCi8",
       "title": "Parts Work: The SELF in IFS Therapy",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-08T03:00:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7YcmN9LZSOY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:gHsKOSvAyLo",
-      "title": "How to Process Emotional Numbness and Dissociation",
-      "videoId": "gHsKOSvAyLo",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-06T12:01:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/gHsKOSvAyLo/hqdefault.jpg",
       "tags": []
     }
   ],

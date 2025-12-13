@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-13T12:25:31.281Z",
+  "generatedAt": "2025-12-13T18:18:00.598Z",
   "videos": [
+    {
+      "id": "yt:video:EibaJgIKCTo",
+      "title": "Stretching to Heal Trauma in the Body",
+      "videoId": "EibaJgIKCTo",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-13T17:00:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/EibaJgIKCTo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:fexoLmKK8Y8",
       "title": "Mapping your Parts- This IFS Exercise Can Help You Heal Trauma",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-09T17:01:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/gxwr8BfI7aw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7YcmN9LZSOY",
-      "title": "3 Levels of Trauma in the Nervous System",
-      "videoId": "7YcmN9LZSOY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-08T03:00:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7YcmN9LZSOY/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-12-15T18:21:43.247Z",
+  "generatedAt": "2025-12-16T01:07:07.559Z",
   "videos": [
+    {
+      "id": "yt:video:2hoZllejb-0",
+      "title": "This Jab to Break strong defence #boxing #mma",
+      "videoId": "2hoZllejb-0",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-12-15T22:47:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/2hoZllejb-0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:M78rRd_2iOo",
       "title": "Move Your head with every punch? Centre line head movement breakdown #mma #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-28T15:00:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Weekn1mLnTQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Un7pfln7jOo",
-      "title": "3 Foods I never eat and the BETTER choice #health #nutrition #nutritiontips",
-      "videoId": "Un7pfln7jOo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-10-27T15:51:57.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Un7pfln7jOo/hqdefault.jpg",
       "tags": []
     }
   ],

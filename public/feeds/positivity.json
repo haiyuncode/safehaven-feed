@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-18T12:28:42.856Z",
+  "generatedAt": "2025-12-18T18:21:21.240Z",
   "videos": [
+    {
+      "id": "yt:video:dG4IE2rgw2A",
+      "title": "7 Micro Habits to Escape the Freeze Response - Polyvagal Tools for Depression & Burnout",
+      "videoId": "dG4IE2rgw2A",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-18T14:01:14.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/dG4IE2rgw2A/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:77_45zuZ-8w",
       "title": "IFS Therapy Blending and Unblending",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-13T12:02:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/w3qc6GYnAU0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Jy_3DOKu1kg",
-      "title": "How to Stop Comparing Yourself to Others",
-      "videoId": "Jy_3DOKu1kg",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-11T17:00:29.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Jy_3DOKu1kg/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-12-20T12:25:15.817Z",
+  "generatedAt": "2025-12-20T18:17:52.432Z",
   "videos": [
+    {
+      "id": "yt:video:ZLv8RdCRqhA",
+      "title": "Did AJ want to end Jake? #netflix #boxing",
+      "videoId": "ZLv8RdCRqhA",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-12-20T17:51:23.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZLv8RdCRqhA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:81oxwW4Y1R4",
       "title": "Staying still is HARD First time throwing a JAB | Try this #boxing #jab #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-11-03T14:30:35.000Z",
       "thumbnail": "https://i.ytimg.com/vi/e4UgI_VuX_g/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:B0rT3pjzY_0",
-      "title": "Fight me from the outside              1 punch punch combos with movement #boxing #mma",
-      "videoId": "B0rT3pjzY_0",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-10-30T17:37:11.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/B0rT3pjzY_0/hqdefault.jpg",
       "tags": []
     }
   ],

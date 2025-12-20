@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-20T12:25:14.664Z",
+  "generatedAt": "2025-12-20T18:17:50.901Z",
   "videos": [
+    {
+      "id": "yt:video:rcwuSMWZV0o",
+      "title": "How Busyness Affects Your Nervous System",
+      "videoId": "rcwuSMWZV0o",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-20T17:01:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/rcwuSMWZV0o/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:dG4IE2rgw2A",
       "title": "7 Micro Habits to Escape the Freeze Response - Polyvagal Tools for Depression & Burnout",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-15T03:01:12.000Z",
       "thumbnail": "https://i.ytimg.com/vi/s204h5lZpLk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:w3qc6GYnAU0",
-      "title": "Building Healthy Attachment Relationships after Childhood Trauma",
-      "videoId": "w3qc6GYnAU0",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-13T12:02:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/w3qc6GYnAU0/hqdefault.jpg",
       "tags": []
     }
   ],

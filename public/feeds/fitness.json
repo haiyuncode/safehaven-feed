@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-12-19T18:20:15.406Z",
+  "generatedAt": "2025-12-20T01:02:16.750Z",
   "videos": [
+    {
+      "id": "yt:video:81oxwW4Y1R4",
+      "title": "Staying still is HARD First time throwing a JAB | Try this #boxing #jab #mma",
+      "videoId": "81oxwW4Y1R4",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-12-19T19:33:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/81oxwW4Y1R4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:2hoZllejb-0",
       "title": "This Jab to Break strong defence #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-10-30T17:37:11.000Z",
       "thumbnail": "https://i.ytimg.com/vi/B0rT3pjzY_0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Weekn1mLnTQ",
-      "title": "Move faster for Speed and Power #boxing #speed",
-      "videoId": "Weekn1mLnTQ",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-10-28T15:00:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Weekn1mLnTQ/hqdefault.jpg",
       "tags": []
     }
   ],

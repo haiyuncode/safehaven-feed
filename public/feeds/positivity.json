@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-22T12:29:13.194Z",
+  "generatedAt": "2025-12-22T18:20:42.248Z",
   "videos": [
+    {
+      "id": "yt:video:vRj7D1dwS70",
+      "title": "How to Up-Regulate Your Nervous System",
+      "videoId": "vRj7D1dwS70",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-22T17:01:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/vRj7D1dwS70/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:rcwuSMWZV0o",
       "title": "How Busyness Affects Your Nervous System",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-16T17:01:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jU0DbBL5--U/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:s204h5lZpLk",
-      "title": "The Fawn Response in the Nervous System",
-      "videoId": "s204h5lZpLk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-15T03:01:12.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/s204h5lZpLk/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-23T12:29:00.861Z",
+  "generatedAt": "2025-12-23T18:21:04.561Z",
   "videos": [
+    {
+      "id": "yt:video:MIY_V3qCv1E",
+      "title": "How to Be a Morning Person",
+      "videoId": "MIY_V3qCv1E",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-23T17:00:42.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/MIY_V3qCv1E/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:vRj7D1dwS70",
       "title": "How to Up-Regulate Your Nervous System",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-18T17:01:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/qJkmtunuF_A/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:jU0DbBL5--U",
-      "title": "Telling Your Story",
-      "videoId": "jU0DbBL5--U",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-16T17:01:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/jU0DbBL5--U/hqdefault.jpg",
       "tags": []
     }
   ],

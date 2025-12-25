@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-12-25T12:28:07.927Z",
+  "generatedAt": "2025-12-25T18:20:21.621Z",
   "videos": [
+    {
+      "id": "yt:video:O6vnQgZko88",
+      "title": "Build Lightning Fast Hands and a Fight-Ready Body! (Heavy Bag & Shadow Boxing Flow)",
+      "videoId": "O6vnQgZko88",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-12-25T16:30:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/O6vnQgZko88/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ZLv8RdCRqhA",
       "title": "Did AJ want to end Jake? #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-11-06T17:00:39.000Z",
       "thumbnail": "https://i.ytimg.com/vi/MyTcZasXSDA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:e4UgI_VuX_g",
-      "title": "BURN FAT FAST with Boxing | 30-Min Heavy Bag HIIT for Stamina & Power",
-      "videoId": "e4UgI_VuX_g",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-11-03T14:30:35.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/e4UgI_VuX_g/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2025-12-29T12:30:24.334Z",
+  "generatedAt": "2025-12-29T18:21:12.897Z",
   "videos": [
+    {
+      "id": "yt:video:rx6enZ8-Uow",
+      "title": "30 Min Boxing Workout to Burn Fat Forever! (Stamina + Conditioning)",
+      "videoId": "rx6enZ8-Uow",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-12-29T15:01:42.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/rx6enZ8-Uow/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:O6vnQgZko88",
       "title": "Build Lightning Fast Hands and a Fight-Ready Body! (Heavy Bag & Shadow Boxing Flow)",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-11-07T20:01:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/x66s6-IX2y0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:MyTcZasXSDA",
-      "title": "CHEAP and HEALTHY  home made Electrolyte drink #boxing #nutrition",
-      "videoId": "MyTcZasXSDA",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-11-06T17:00:39.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/MyTcZasXSDA/hqdefault.jpg",
       "tags": []
     }
   ],

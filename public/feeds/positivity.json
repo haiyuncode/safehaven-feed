@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-30T12:29:05.653Z",
+  "generatedAt": "2025-12-30T18:21:10.967Z",
   "videos": [
+    {
+      "id": "yt:video:Pr73Amdsafs",
+      "title": "The Real Reason Willpower Doesn’t Work",
+      "videoId": "Pr73Amdsafs",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-30T17:00:47.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Pr73Amdsafs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:X2hyanz14-Y",
       "title": "How to Actually Change Your Life- You Need a System, Not a Goal",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-25T17:01:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/i_wk-iQ6RcY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:84eNHCLb1pY",
-      "title": "One Way to Work Through Dissociation",
-      "videoId": "84eNHCLb1pY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-24T17:00:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/84eNHCLb1pY/hqdefault.jpg",
       "tags": []
     }
   ],

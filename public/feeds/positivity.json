@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2025-12-31T12:27:58.810Z",
+  "generatedAt": "2025-12-31T18:20:17.794Z",
   "videos": [
+    {
+      "id": "yt:video:Y8XhRl6pqwI",
+      "title": "How to Actually Change Your Life",
+      "videoId": "Y8XhRl6pqwI",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2025-12-31T17:01:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y8XhRl6pqwI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Pr73Amdsafs",
       "title": "The Real Reason Willpower Doesn’t Work",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-11-27T12:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/-AVCZD5XYys/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:i_wk-iQ6RcY",
-      "title": "Stuff That Doesn’t Work with Trauma Responses",
-      "videoId": "i_wk-iQ6RcY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-25T17:01:23.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/i_wk-iQ6RcY/hqdefault.jpg",
       "tags": []
     }
   ],

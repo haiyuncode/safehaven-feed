@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2025-12-31T12:27:59.777Z",
+  "generatedAt": "2025-12-31T18:20:18.801Z",
   "videos": [
+    {
+      "id": "yt:video:h8K2XJr6wyI",
+      "title": "What people say instead of ‘narcissist’",
+      "videoId": "h8K2XJr6wyI",
+      "channel": "DoctorRamani",
+      "publishedAt": "2025-12-31T16:01:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/h8K2XJr6wyI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:CmcMND9sG2A",
       "title": "Everything You Need to Know About Rage Baiting (Oxford’s Word of the Year)",
@@ -135,15 +144,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2025-12-01T16:01:45.000Z",
       "thumbnail": "https://i.ytimg.com/vi/zNFL9KEOZG0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:47QVhI9pgKY",
-      "title": "The Resentful Martyr: A Narcissist in Disguise",
-      "videoId": "47QVhI9pgKY",
-      "channel": "DoctorRamani",
-      "publishedAt": "2025-11-28T16:00:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/47QVhI9pgKY/hqdefault.jpg",
       "tags": []
     },
     {

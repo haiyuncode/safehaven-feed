@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-01T12:28:42.926Z",
+  "generatedAt": "2026-01-01T18:20:34.268Z",
   "videos": [
+    {
+      "id": "yt:video:LZuowsJfNOs",
+      "title": "The Life-Changing Power of Making Repairs w/ Dr. Sarah Michaud",
+      "videoId": "LZuowsJfNOs",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-01T14:00:36.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/LZuowsJfNOs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Y8XhRl6pqwI",
       "title": "How to Actually Change Your Life",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-03T17:00:34.000Z",
       "thumbnail": "https://i.ytimg.com/vi/FganGd3U2VA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:-AVCZD5XYys",
-      "title": "The Power of IFS to Heal Trauma - No Bad Parts Book Summary by Richard Schwartz",
-      "videoId": "-AVCZD5XYys",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-11-27T12:00:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/-AVCZD5XYys/hqdefault.jpg",
       "tags": []
     }
   ],

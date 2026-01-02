@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-01-02T12:27:42.076Z",
+  "generatedAt": "2026-01-02T18:20:24.518Z",
   "videos": [
+    {
+      "id": "yt:video:aHIOseHxABE",
+      "title": "Narcissist? Or Just Posting?",
+      "videoId": "aHIOseHxABE",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-01-02T16:00:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/aHIOseHxABE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:h8K2XJr6wyI",
       "title": "What people say instead of ‘narcissist’",
@@ -135,15 +144,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2025-12-02T22:28:37.000Z",
       "thumbnail": "https://i.ytimg.com/vi/9t0BMi-yGeE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:zNFL9KEOZG0",
-      "title": "Why Narcissists Assume You're Cheating When You Pull Away",
-      "videoId": "zNFL9KEOZG0",
-      "channel": "DoctorRamani",
-      "publishedAt": "2025-12-01T16:01:45.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/zNFL9KEOZG0/hqdefault.jpg",
       "tags": []
     },
     {

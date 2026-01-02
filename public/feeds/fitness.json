@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-02T12:27:42.539Z",
+  "generatedAt": "2026-01-02T18:20:24.990Z",
   "videos": [
+    {
+      "id": "yt:video:saXZO1Wkrh4",
+      "title": "Make NO mistakes | Focus and rhythm punching #boxing #focus #mma",
+      "videoId": "saXZO1Wkrh4",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-02T17:08:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/saXZO1Wkrh4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:KBmhCZiFgpw",
       "title": "Controlled Aggression Quick heavy bag Calorie Burner boxing workout",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-11-12T16:54:48.000Z",
       "thumbnail": "https://i.ytimg.com/vi/qJak6vtOrAM/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:cReuMgkSRxQ",
-      "title": "Ultimate 40 Minute Boxing Workout #5: Melt Fat & Get Ripped",
-      "videoId": "cReuMgkSRxQ",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-11-10T14:30:35.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/cReuMgkSRxQ/hqdefault.jpg",
       "tags": []
     }
   ],

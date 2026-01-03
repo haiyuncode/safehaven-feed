@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-03T12:26:09.619Z",
+  "generatedAt": "2026-01-03T18:19:19.845Z",
   "videos": [
+    {
+      "id": "yt:video:2Dv86nXJoQc",
+      "title": "Making Repairs is Where the Magic Happens",
+      "videoId": "2Dv86nXJoQc",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-03T17:00:07.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/2Dv86nXJoQc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:LZuowsJfNOs",
       "title": "The Life-Changing Power of Making Repairs w/ Dr. Sarah Michaud",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-04T14:01:27.000Z",
       "thumbnail": "https://i.ytimg.com/vi/iqE4y0K1c9w/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:FganGd3U2VA",
-      "title": "Parts work with IFS- Protector & Exiles",
-      "videoId": "FganGd3U2VA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-03T17:00:34.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/FganGd3U2VA/hqdefault.jpg",
       "tags": []
     }
   ],

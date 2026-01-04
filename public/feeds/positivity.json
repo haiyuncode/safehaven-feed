@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-04T12:26:24.861Z",
+  "generatedAt": "2026-01-04T18:19:51.573Z",
   "videos": [
+    {
+      "id": "yt:video:UW77W1gFGqs",
+      "title": "The Courage To Forgive Yourself",
+      "videoId": "UW77W1gFGqs",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-04T17:00:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/UW77W1gFGqs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:2Dv86nXJoQc",
       "title": "Making Repairs is Where the Magic Happens",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-09T17:01:39.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ufbWdn1feu8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:iqE4y0K1c9w",
-      "title": "The Freeze, Appease or Fawn Response to Harassment",
-      "videoId": "iqE4y0K1c9w",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-04T14:01:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/iqE4y0K1c9w/hqdefault.jpg",
       "tags": []
     }
   ],

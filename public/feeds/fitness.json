@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-03T18:19:21.709Z",
+  "generatedAt": "2026-01-04T01:15:15.679Z",
   "videos": [
+    {
+      "id": "yt:video:Jrixkff1o6g",
+      "title": "45 degree PIVOTS #boxing Footwork",
+      "videoId": "Jrixkff1o6g",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-03T18:54:22.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Jrixkff1o6g/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:saXZO1Wkrh4",
       "title": "Make NO mistakes | Focus and rhythm punching #boxing #focus #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-11-13T15:30:44.000Z",
       "thumbnail": "https://i.ytimg.com/vi/zvmmwOZtpuY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:qJak6vtOrAM",
-      "title": "Relentless boxing pressure | Overhand right finishers #boxing#mma",
-      "videoId": "qJak6vtOrAM",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-11-12T16:54:48.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/qJak6vtOrAM/hqdefault.jpg",
       "tags": []
     }
   ],

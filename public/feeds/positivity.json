@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-06T12:29:41.610Z",
+  "generatedAt": "2026-01-06T18:21:04.584Z",
   "videos": [
+    {
+      "id": "yt:video:Y544vuwdzJE",
+      "title": "You’ll Never Get Freedom…",
+      "videoId": "Y544vuwdzJE",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-06T17:00:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y544vuwdzJE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:UW77W1gFGqs",
       "title": "The Courage To Forgive Yourself",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-10T17:00:38.000Z",
       "thumbnail": "https://i.ytimg.com/vi/KmT-3qlpCi8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ufbWdn1feu8",
-      "title": "Why You Go Numb",
-      "videoId": "ufbWdn1feu8",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-09T17:01:39.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ufbWdn1feu8/hqdefault.jpg",
       "tags": []
     }
   ],

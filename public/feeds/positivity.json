@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-08T06:23:48.056Z",
+  "generatedAt": "2026-01-08T12:30:50.487Z",
   "videos": [
+    {
+      "id": "yt:video:85gnTCbA_kI",
+      "title": "Is Choline the Missing Link in Anxiety? Let’s Look at the Data",
+      "videoId": "85gnTCbA_kI",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-08T12:00:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/85gnTCbA_kI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Y544vuwdzJE",
       "title": "You’ll Never Get Freedom…",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-11T13:01:33.000Z",
       "thumbnail": "https://i.ytimg.com/vi/fexoLmKK8Y8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:KmT-3qlpCi8",
-      "title": "Parts Work: The SELF in IFS Therapy",
-      "videoId": "KmT-3qlpCi8",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-10T17:00:38.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KmT-3qlpCi8/hqdefault.jpg",
       "tags": []
     }
   ],

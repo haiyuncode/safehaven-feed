@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-08T12:30:51.976Z",
+  "generatedAt": "2026-01-08T18:19:25.458Z",
   "videos": [
+    {
+      "id": "yt:video:ZqN5GqweJ44",
+      "title": "Daily Bone Density Jump Training for Longevity - Nate Bower Fitness",
+      "videoId": "ZqN5GqweJ44",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-08T16:45:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZqN5GqweJ44/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Jrixkff1o6g",
       "title": "45 degree PIVOTS #boxing Footwork",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-11-21T16:05:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/DeNl28mxTf8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:zvmmwOZtpuY",
-      "title": "Burn Fat & Boost Metabolism- Boxing Workout (Follow Along • No Equipment)",
-      "videoId": "zvmmwOZtpuY",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-11-13T15:30:44.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/zvmmwOZtpuY/hqdefault.jpg",
       "tags": []
     }
   ],

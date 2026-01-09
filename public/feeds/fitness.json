@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-09T12:29:51.843Z",
+  "generatedAt": "2026-01-09T18:21:52.591Z",
   "videos": [
+    {
+      "id": "yt:video:S5t7ksLOcQg",
+      "title": "Slapping your hook | do this drill for knockout power and speed #boxing #mma",
+      "videoId": "S5t7ksLOcQg",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-09T15:45:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/S5t7ksLOcQg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ZqN5GqweJ44",
       "title": "Daily Bone Density Jump Training for Longevity - Nate Bower Fitness",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-11-25T17:01:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/WxWgxI7QDeg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:DeNl28mxTf8",
-      "title": "Stay busy | Punch and Move Boxing Combos #boxing #mma",
-      "videoId": "DeNl28mxTf8",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-11-21T16:05:04.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/DeNl28mxTf8/hqdefault.jpg",
       "tags": []
     }
   ],

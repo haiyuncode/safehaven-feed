@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-11T12:27:18.018Z",
+  "generatedAt": "2026-01-11T18:19:43.811Z",
   "videos": [
+    {
+      "id": "yt:video:Y4qim1q4XpY",
+      "title": "WOW! Dalton Smith KO of Subriel Matias - Reminded me of Gatti vs Ward",
+      "videoId": "Y4qim1q4XpY",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-11T17:38:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y4qim1q4XpY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:S5t7ksLOcQg",
       "title": "Slapping your hook | do this drill for knockout power and speed #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-11-27T17:54:38.000Z",
       "thumbnail": "https://i.ytimg.com/vi/aTH95NrNPyI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:WxWgxI7QDeg",
-      "title": "60 Minute Calorie Burner Boxing Workout For Beginners",
-      "videoId": "WxWgxI7QDeg",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-11-25T17:01:04.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/WxWgxI7QDeg/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-11T12:27:16.421Z",
+  "generatedAt": "2026-01-11T18:19:41.856Z",
   "videos": [
+    {
+      "id": "yt:video:dzS932x9dNY",
+      "title": "Making Amends When You’re a Victim",
+      "videoId": "dzS932x9dNY",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-11T17:01:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/dzS932x9dNY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:lbkDS4JVFRI",
       "title": "Why 3 Goals Can Feel Overwhelming",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-16T17:00:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/77_45zuZ-8w/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:EibaJgIKCTo",
-      "title": "Stretching to Heal Trauma in the Body",
-      "videoId": "EibaJgIKCTo",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-13T17:00:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/EibaJgIKCTo/hqdefault.jpg",
       "tags": []
     }
   ],

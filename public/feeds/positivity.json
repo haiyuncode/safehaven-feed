@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-13T12:31:02.578Z",
+  "generatedAt": "2026-01-13T18:23:10.695Z",
   "videos": [
+    {
+      "id": "yt:video:B_A7YaNOtaM",
+      "title": "Rationalization…",
+      "videoId": "B_A7YaNOtaM",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-13T17:00:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/B_A7YaNOtaM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:dzS932x9dNY",
       "title": "Making Amends When You’re a Victim",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-18T14:01:14.000Z",
       "thumbnail": "https://i.ytimg.com/vi/dG4IE2rgw2A/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:77_45zuZ-8w",
-      "title": "IFS Therapy Blending and Unblending",
-      "videoId": "77_45zuZ-8w",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-16T17:00:23.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/77_45zuZ-8w/hqdefault.jpg",
       "tags": []
     }
   ],

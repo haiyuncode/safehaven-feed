@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-14T12:30:37.511Z",
+  "generatedAt": "2026-01-14T18:23:31.414Z",
   "videos": [
+    {
+      "id": "yt:video:7ORVd0o8-9g",
+      "title": "VO2 Max Heavy Bag Workout Protocol – MAXIMUM Cardio & Conditioning",
+      "videoId": "7ORVd0o8-9g",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-14T16:00:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7ORVd0o8-9g/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Y4qim1q4XpY",
       "title": "WOW! Dalton Smith KO of Subriel Matias - Reminded me of Gatti vs Ward",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-12-02T16:30:21.000Z",
       "thumbnail": "https://i.ytimg.com/vi/T43qCOpkyck/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:aTH95NrNPyI",
-      "title": "Jab PRO tips | jab defence and footwork for beginners #jab #boxing #mma",
-      "videoId": "aTH95NrNPyI",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-11-27T17:54:38.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/aTH95NrNPyI/hqdefault.jpg",
       "tags": []
     }
   ],

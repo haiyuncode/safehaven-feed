@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-15T12:30:07.701Z",
+  "generatedAt": "2026-01-15T18:27:11.283Z",
   "videos": [
+    {
+      "id": "yt:video:qcryeu8g2fA",
+      "title": "The Neuroscience of ADHD and Emotional Dysregulation",
+      "videoId": "qcryeu8g2fA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-15T14:36:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/qcryeu8g2fA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:B_A7YaNOtaM",
       "title": "Rationalization…",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-20T17:01:29.000Z",
       "thumbnail": "https://i.ytimg.com/vi/rcwuSMWZV0o/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:dG4IE2rgw2A",
-      "title": "7 Micro Habits to Escape the Freeze Response - Polyvagal Tools for Depression & Burnout",
-      "videoId": "dG4IE2rgw2A",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-18T14:01:14.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/dG4IE2rgw2A/hqdefault.jpg",
       "tags": []
     }
   ],

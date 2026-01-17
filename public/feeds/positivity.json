@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-17T12:26:05.905Z",
+  "generatedAt": "2026-01-17T18:19:22.657Z",
   "videos": [
+    {
+      "id": "yt:video:7f6Z_S-9q4s",
+      "title": "Creating Sustainable Change with ADHD",
+      "videoId": "7f6Z_S-9q4s",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-17T17:00:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7f6Z_S-9q4s/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:qcryeu8g2fA",
       "title": "The Neuroscience of ADHD and Emotional Dysregulation",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-22T17:01:38.000Z",
       "thumbnail": "https://i.ytimg.com/vi/vRj7D1dwS70/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:rcwuSMWZV0o",
-      "title": "How Busyness Affects Your Nervous System",
-      "videoId": "rcwuSMWZV0o",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-20T17:01:29.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/rcwuSMWZV0o/hqdefault.jpg",
       "tags": []
     }
   ],

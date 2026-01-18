@@ -1,14 +1,23 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-18T12:26:38.578Z",
+  "generatedAt": "2026-01-18T18:18:57.331Z",
   "videos": [
     {
-      "id": "yt:video:7ORVd0o8-9g",
-      "title": "Test Your Boxing Cardio - Vo2 Max Heavy Bag Workout Protocol - NateBowerFitness",
-      "videoId": "7ORVd0o8-9g",
+      "id": "yt:video:Ke_A19d7QwE",
+      "title": "MAX CARDIO Heavy Bag Workout Protocol | Test your Boxing Fitness",
+      "videoId": "Ke_A19d7QwE",
       "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-14T16:00:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7ORVd0o8-9g/hqdefault.jpg",
+      "publishedAt": "2026-01-18T16:30:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ke_A19d7QwE/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:75kokGymirE",
+      "title": "30 Minute Power Puncher Heavy Bag Workout | test your grip strength and Vo2 Max",
+      "videoId": "75kokGymirE",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-18T16:30:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/75kokGymirE/hqdefault.jpg",
       "tags": []
     },
     {
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-12-07T17:15:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/IxSq81FhA7Q/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:T43qCOpkyck",
-      "title": "Get fit with boxing FULL 40 Minute Punching Bag Workout #5",
-      "videoId": "T43qCOpkyck",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-12-02T16:30:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/T43qCOpkyck/hqdefault.jpg",
       "tags": []
     }
   ],

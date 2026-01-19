@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-19T12:33:11.605Z",
+  "generatedAt": "2026-01-19T18:21:54.149Z",
   "videos": [
+    {
+      "id": "yt:video:TeTSkY09i0c",
+      "title": "When You Cope by Being Busy",
+      "videoId": "TeTSkY09i0c",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-19T17:01:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/TeTSkY09i0c/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:KESjuykpp8Y",
       "title": "ADHD Sensory Filtering",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-25T12:01:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/X2hyanz14-Y/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:MIY_V3qCv1E",
-      "title": "How to Be a Morning Person",
-      "videoId": "MIY_V3qCv1E",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-23T17:00:42.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/MIY_V3qCv1E/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-20T12:33:03.662Z",
+  "generatedAt": "2026-01-20T18:25:29.336Z",
   "videos": [
+    {
+      "id": "yt:video:Now08EfeEPk",
+      "title": "ADHD and Biological Triggers",
+      "videoId": "Now08EfeEPk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-20T17:00:47.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Now08EfeEPk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:TeTSkY09i0c",
       "title": "When You Cope by Being Busy",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-30T17:00:47.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Pr73Amdsafs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:X2hyanz14-Y",
-      "title": "How to Actually Change Your Life- You Need a System, Not a Goal",
-      "videoId": "X2hyanz14-Y",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-25T12:01:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/X2hyanz14-Y/hqdefault.jpg",
       "tags": []
     }
   ],

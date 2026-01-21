@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-21T12:32:55.392Z",
+  "generatedAt": "2026-01-21T18:33:27.840Z",
   "videos": [
+    {
+      "id": "yt:video:489kxL-L8Yk",
+      "title": "ADHD and Rejection Sensitivity Dysphoria",
+      "videoId": "489kxL-L8Yk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-21T17:00:07.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/489kxL-L8Yk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Now08EfeEPk",
       "title": "ADHD and Biological Triggers",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2025-12-31T17:01:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Y8XhRl6pqwI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Pr73Amdsafs",
-      "title": "The Real Reason Willpower Doesn’t Work",
-      "videoId": "Pr73Amdsafs",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-30T17:00:47.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Pr73Amdsafs/hqdefault.jpg",
       "tags": []
     }
   ],

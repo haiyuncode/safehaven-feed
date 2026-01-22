@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-22T06:24:17.406Z",
+  "generatedAt": "2026-01-22T12:32:32.479Z",
   "videos": [
+    {
+      "id": "yt:video:ccJ8uucpqyc",
+      "title": "How to Stop Comparing Yourself to Others",
+      "videoId": "ccJ8uucpqyc",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-22T12:01:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ccJ8uucpqyc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:489kxL-L8Yk",
       "title": "ADHD and Rejection Sensitivity Dysphoria",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-01T14:00:36.000Z",
       "thumbnail": "https://i.ytimg.com/vi/LZuowsJfNOs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Y8XhRl6pqwI",
-      "title": "How to Actually Change Your Life",
-      "videoId": "Y8XhRl6pqwI",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2025-12-31T17:01:04.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Y8XhRl6pqwI/hqdefault.jpg",
       "tags": []
     }
   ],

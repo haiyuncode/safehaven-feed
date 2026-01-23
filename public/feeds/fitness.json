@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-23T12:31:43.855Z",
+  "generatedAt": "2026-01-23T18:22:41.544Z",
   "videos": [
+    {
+      "id": "yt:video:FTKjjZpEjQg",
+      "title": "Lacking HOOK speed and power | Do this #boxing #natebowerfitness",
+      "videoId": "FTKjjZpEjQg",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-23T17:09:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/FTKjjZpEjQg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Ke_A19d7QwE",
       "title": "MAX CARDIO Heavy Bag Workout Protocol | Test your Boxing Fitness",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-12-13T16:01:30.000Z",
       "thumbnail": "https://i.ytimg.com/vi/M78rRd_2iOo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:IxSq81FhA7Q",
-      "title": "Boxing Workout That Hits Different | 30 Minute Boxing Workout",
-      "videoId": "IxSq81FhA7Q",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-12-07T17:15:04.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/IxSq81FhA7Q/hqdefault.jpg",
       "tags": []
     }
   ],

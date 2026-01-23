@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-01-23T12:31:43.040Z",
+  "generatedAt": "2026-01-23T18:22:40.981Z",
   "videos": [
+    {
+      "id": "yt:video:tbzw1ZrMa6I",
+      "title": "Love bombing via trauma dumping",
+      "videoId": "tbzw1ZrMa6I",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-01-23T16:01:31.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/tbzw1ZrMa6I/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:5tROZbdqn7o",
       "title": "If They Cheated and Keep Coming Back, Watch This",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2025-12-22T16:00:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/57K0O3246Jo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:9e9hFpiKuWo",
-      "title": "Is Ghosting Always Narcissistic?",
-      "videoId": "9e9hFpiKuWo",
-      "channel": "DoctorRamani",
-      "publishedAt": "2025-12-19T16:00:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/9e9hFpiKuWo/hqdefault.jpg",
       "tags": []
     },
     {

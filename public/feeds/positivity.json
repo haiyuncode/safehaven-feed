@@ -1,7 +1,25 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-24T12:27:07.632Z",
+  "generatedAt": "2026-01-24T18:20:17.572Z",
   "videos": [
+    {
+      "id": "yt:video:7UJPvLrIhiM",
+      "title": "Just me sobbing",
+      "videoId": "7UJPvLrIhiM",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-24T17:21:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7UJPvLrIhiM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:rjW6GoXN5CY",
+      "title": "2 Ways to Regulate the Vagus Nerve",
+      "videoId": "rjW6GoXN5CY",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-24T17:01:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/rjW6GoXN5CY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ccJ8uucpqyc",
       "title": "How to Stop Comparing Yourself to Others",
@@ -117,24 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-04T17:00:46.000Z",
       "thumbnail": "https://i.ytimg.com/vi/UW77W1gFGqs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:2Dv86nXJoQc",
-      "title": "Making Repairs is Where the Magic Happens",
-      "videoId": "2Dv86nXJoQc",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-03T17:00:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/2Dv86nXJoQc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:LZuowsJfNOs",
-      "title": "The Life-Changing Power of Making Repairs w/ Dr. Sarah Michaud",
-      "videoId": "LZuowsJfNOs",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-01T14:00:36.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/LZuowsJfNOs/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-25T12:28:23.161Z",
+  "generatedAt": "2026-01-25T18:20:15.249Z",
   "videos": [
+    {
+      "id": "yt:video:JGIroDfycto",
+      "title": "How to Feel Loved",
+      "videoId": "JGIroDfycto",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-25T17:00:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/JGIroDfycto/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:7UJPvLrIhiM",
       "title": "Just me sobbing",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-06T17:00:59.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Y544vuwdzJE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:UW77W1gFGqs",
-      "title": "The Courage To Forgive Yourself",
-      "videoId": "UW77W1gFGqs",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-04T17:00:46.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/UW77W1gFGqs/hqdefault.jpg",
       "tags": []
     }
   ],

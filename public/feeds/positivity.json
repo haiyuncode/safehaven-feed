@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-26T12:32:03.984Z",
+  "generatedAt": "2026-01-26T18:25:06.352Z",
   "videos": [
+    {
+      "id": "yt:video:HtYgrY-rgNI",
+      "title": "How to Stop Comparing Yourself to Others",
+      "videoId": "HtYgrY-rgNI",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-26T17:00:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HtYgrY-rgNI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:JGIroDfycto",
       "title": "How to Feel Loved",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-08T12:00:30.000Z",
       "thumbnail": "https://i.ytimg.com/vi/85gnTCbA_kI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Y544vuwdzJE",
-      "title": "You’ll Never Get Freedom…",
-      "videoId": "Y544vuwdzJE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-06T17:00:59.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Y544vuwdzJE/hqdefault.jpg",
       "tags": []
     }
   ],

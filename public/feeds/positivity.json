@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-27T12:32:24.392Z",
+  "generatedAt": "2026-01-27T18:28:22.610Z",
   "videos": [
+    {
+      "id": "yt:video:ry6Hz_lw1QQ",
+      "title": "High Functioning Depression",
+      "videoId": "ry6Hz_lw1QQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-27T17:01:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ry6Hz_lw1QQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:HtYgrY-rgNI",
       "title": "How to Stop Comparing Yourself to Others",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-10T17:01:20.000Z",
       "thumbnail": "https://i.ytimg.com/vi/lbkDS4JVFRI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:85gnTCbA_kI",
-      "title": "New Brain Research Links Anxiety to Low Choline",
-      "videoId": "85gnTCbA_kI",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-08T12:00:30.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/85gnTCbA_kI/hqdefault.jpg",
       "tags": []
     }
   ],

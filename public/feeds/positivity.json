@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-28T12:33:11.541Z",
+  "generatedAt": "2026-01-28T18:27:57.124Z",
   "videos": [
+    {
+      "id": "yt:video:dJd1ZApQ7Ak",
+      "title": "How to Get More Energy",
+      "videoId": "dJd1ZApQ7Ak",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-28T17:01:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/dJd1ZApQ7Ak/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ry6Hz_lw1QQ",
       "title": "High Functioning Depression",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-11T17:01:05.000Z",
       "thumbnail": "https://i.ytimg.com/vi/dzS932x9dNY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:lbkDS4JVFRI",
-      "title": "Why 3 Goals Can Feel Overwhelming",
-      "videoId": "lbkDS4JVFRI",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-10T17:01:20.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/lbkDS4JVFRI/hqdefault.jpg",
       "tags": []
     }
   ],

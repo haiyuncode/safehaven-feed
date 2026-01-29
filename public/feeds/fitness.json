@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-29T12:39:03.376Z",
+  "generatedAt": "2026-01-29T18:33:41.739Z",
   "videos": [
+    {
+      "id": "yt:video:bC6WaL-VfQ0",
+      "title": "30-Minute Shadow Boxing Workout (Burn Fat & Build Power)",
+      "videoId": "bC6WaL-VfQ0",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-29T16:15:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/bC6WaL-VfQ0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:FTKjjZpEjQg",
       "title": "Lacking HOOK speed and power | Do this #boxing #natebowerfitness",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-12-15T22:47:46.000Z",
       "thumbnail": "https://i.ytimg.com/vi/2hoZllejb-0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:M78rRd_2iOo",
-      "title": "Move Your head with every punch? Centre line head movement breakdown #mma #boxing",
-      "videoId": "M78rRd_2iOo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-12-13T16:01:30.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/M78rRd_2iOo/hqdefault.jpg",
       "tags": []
     }
   ],

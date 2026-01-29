@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-29T06:37:16.573Z",
+  "generatedAt": "2026-01-29T12:39:00.678Z",
   "videos": [
+    {
+      "id": "yt:video:LffzIPZUuUg",
+      "title": "Soothe Anxiety in the Nervous System - The Robin Exercise w/ Dr. Arielle Schwartz",
+      "videoId": "LffzIPZUuUg",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-29T12:00:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/LffzIPZUuUg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:dJd1ZApQ7Ak",
       "title": "How to Get More Energy",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-13T17:00:21.000Z",
       "thumbnail": "https://i.ytimg.com/vi/B_A7YaNOtaM/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:dzS932x9dNY",
-      "title": "Making Amends When You’re a Victim",
-      "videoId": "dzS932x9dNY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-11T17:01:05.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/dzS932x9dNY/hqdefault.jpg",
       "tags": []
     }
   ],

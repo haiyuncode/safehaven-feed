@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-01-31T12:30:46.886Z",
+  "generatedAt": "2026-01-31T18:21:51.064Z",
   "videos": [
+    {
+      "id": "yt:video:8YTX-SPj9Ns",
+      "title": "Increase PUNCHING POWER Longevity #boxing",
+      "videoId": "8YTX-SPj9Ns",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-01-31T17:15:41.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8YTX-SPj9Ns/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:bC6WaL-VfQ0",
       "title": "30-Minute Shadow Boxing Workout (Burn Fat & Build Power)",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-12-19T19:33:45.000Z",
       "thumbnail": "https://i.ytimg.com/vi/81oxwW4Y1R4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:2hoZllejb-0",
-      "title": "This Jab to Break strong defence #boxing #mma",
-      "videoId": "2hoZllejb-0",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-12-15T22:47:46.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/2hoZllejb-0/hqdefault.jpg",
       "tags": []
     }
   ],

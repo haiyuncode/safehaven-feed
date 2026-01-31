@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-01-31T12:30:45.241Z",
+  "generatedAt": "2026-01-31T18:21:49.325Z",
   "videos": [
+    {
+      "id": "yt:video:nykq2lh1iQQ",
+      "title": "Up-Regulating Your Nervous System",
+      "videoId": "nykq2lh1iQQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-01-31T17:01:23.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/nykq2lh1iQQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:LffzIPZUuUg",
       "title": "Tap into a deep sense of safety with this somatic exercise- The Robin w. Dr. Arielle Schwartz",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-15T14:36:46.000Z",
       "thumbnail": "https://i.ytimg.com/vi/qcryeu8g2fA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:B_A7YaNOtaM",
-      "title": "Rationalization…",
-      "videoId": "B_A7YaNOtaM",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-13T17:00:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/B_A7YaNOtaM/hqdefault.jpg",
       "tags": []
     }
   ],

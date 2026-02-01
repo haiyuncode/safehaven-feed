@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-01T12:32:13.596Z",
+  "generatedAt": "2026-02-01T18:23:46.559Z",
   "videos": [
+    {
+      "id": "yt:video:5AvwnSkXSd4",
+      "title": "Restore Safety in Your Nervous System",
+      "videoId": "5AvwnSkXSd4",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-01T17:00:14.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/5AvwnSkXSd4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:nykq2lh1iQQ",
       "title": "Up-Regulating Your Nervous System",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-17T17:00:10.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7f6Z_S-9q4s/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:qcryeu8g2fA",
-      "title": "The Neuroscience of ADHD and Emotional Dysregulation",
-      "videoId": "qcryeu8g2fA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-15T14:36:46.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/qcryeu8g2fA/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-02T12:39:58.183Z",
+  "generatedAt": "2026-02-02T18:33:46.996Z",
   "videos": [
+    {
+      "id": "yt:video:GuJg9MAEZmA",
+      "title": "How Trauma Shows up in the Body",
+      "videoId": "GuJg9MAEZmA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-02T17:00:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/GuJg9MAEZmA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:5AvwnSkXSd4",
       "title": "Restore Safety in Your Nervous System",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-18T17:00:36.000Z",
       "thumbnail": "https://i.ytimg.com/vi/KESjuykpp8Y/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7f6Z_S-9q4s",
-      "title": "Creating Sustainable Change with ADHD",
-      "videoId": "7f6Z_S-9q4s",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-17T17:00:10.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7f6Z_S-9q4s/hqdefault.jpg",
       "tags": []
     }
   ],

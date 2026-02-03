@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-03T12:41:00.556Z",
+  "generatedAt": "2026-02-03T18:45:00.277Z",
   "videos": [
+    {
+      "id": "yt:video:B6P_LieckW4",
+      "title": "Removing Smart Phones Worked as Well as Antidepressants",
+      "videoId": "B6P_LieckW4",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-03T17:00:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/B6P_LieckW4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:GuJg9MAEZmA",
       "title": "How Trauma Shows up in the Body",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-19T17:01:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/TeTSkY09i0c/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:KESjuykpp8Y",
-      "title": "ADHD Sensory Filtering",
-      "videoId": "KESjuykpp8Y",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-18T17:00:36.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KESjuykpp8Y/hqdefault.jpg",
       "tags": []
     }
   ],

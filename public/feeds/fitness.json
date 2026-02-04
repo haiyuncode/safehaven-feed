@@ -1,16 +1,7 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-02-04T01:19:19.979Z",
+  "generatedAt": "2026-02-04T06:40:35.093Z",
   "videos": [
-    {
-      "id": "yt:video:Tjdx5MN73ks",
-      "title": "Michael Saylor: BITCOIN CRASH EXPLAINED! MASSIVE BTC DUMP & What's Next for Crypto?",
-      "videoId": "Tjdx5MN73ks",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-02-02T14:26:59.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Tjdx5MN73ks/hqdefault.jpg",
-      "tags": []
-    },
     {
       "id": "yt:video:8YTX-SPj9Ns",
       "title": "Increase PUNCHING POWER Longevity #boxing",
@@ -135,6 +126,15 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-12-20T17:51:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ZLv8RdCRqhA/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:81oxwW4Y1R4",
+      "title": "Staying still is HARD First time throwing a JAB | Try this #boxing #jab #mma",
+      "videoId": "81oxwW4Y1R4",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2025-12-19T19:33:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/81oxwW4Y1R4/hqdefault.jpg",
       "tags": []
     }
   ],

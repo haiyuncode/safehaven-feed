@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-04T12:40:58.909Z",
+  "generatedAt": "2026-02-04T18:38:10.109Z",
   "videos": [
+    {
+      "id": "yt:video:-VN-BuEEGNQ",
+      "title": "ADHD and Emotional Dysregulation",
+      "videoId": "-VN-BuEEGNQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-04T17:00:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-VN-BuEEGNQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:B6P_LieckW4",
       "title": "Removing Smart Phones Worked as Well as Antidepressants",
@@ -127,18 +136,33 @@
       "publishedAt": "2026-01-20T17:00:47.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Now08EfeEPk/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:TeTSkY09i0c",
-      "title": "When You Cope by Being Busy",
-      "videoId": "TeTSkY09i0c",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-19T17:01:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/TeTSkY09i0c/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/worry-vs-fear/?utm_source=rss&utm_medium=rss&utm_campaign=worry-vs-fear",
+      "title": "Worry vs. Fear: How to Know What You’re Really Feeling",
+      "url": "https://positivepsychology.com/worry-vs-fear/?utm_source=rss&utm_medium=rss&utm_campaign=worry-vs-fear",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-07T15:00:54.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/worry-vs-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=worry-vs-anxiety",
+      "title": "Worry vs. Anxiety: The Difference & Why It Matters",
+      "url": "https://positivepsychology.com/worry-vs-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=worry-vs-anxiety",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-06T15:00:38.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/coaching-styles/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-styles",
+      "title": "Coaching Styles: 10 Popular Approaches & When to Use Them",
+      "url": "https://positivepsychology.com/coaching-styles/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-styles",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-05T15:00:06.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/ketamine-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=ketamine-therapy",
       "title": "Ketamine Therapy: What Is It & How Does It Work?",
@@ -193,30 +217,6 @@
       "url": "https://positivepsychology.com/worry-and-health/?utm_source=rss&utm_medium=rss&utm_campaign=worry-and-health",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-11-13T15:00:45.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/why-i-worry/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-worry",
-      "title": "Why I Worry: The Hidden Causes Behind Constant Worry",
-      "url": "https://positivepsychology.com/why-i-worry/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-worry",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-12T15:00:25.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/coaching-template/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-template",
-      "title": "18 Life Coaching Templates for Results-Driven Sessions",
-      "url": "https://positivepsychology.com/coaching-template/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-template",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-11T15:00:12.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/gratitude-happiness-research/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-happiness-research",
-      "title": "Using Gratitude & Happiness in Trauma-Informed Therapy",
-      "url": "https://positivepsychology.com/gratitude-happiness-research/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-happiness-research",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-10T15:00:53.000Z",
       "tags": []
     }
   ]

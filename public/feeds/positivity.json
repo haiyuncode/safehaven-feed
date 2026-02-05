@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-05T12:42:18.190Z",
+  "generatedAt": "2026-02-05T18:38:31.766Z",
   "videos": [
+    {
+      "id": "yt:video:sTR9a0e3d1o",
+      "title": "How to Regulate Your Emotions- Label Your Stories",
+      "videoId": "sTR9a0e3d1o",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-05T14:01:22.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/sTR9a0e3d1o/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:-VN-BuEEGNQ",
       "title": "ADHD and Emotional Dysregulation",
@@ -127,18 +136,33 @@
       "publishedAt": "2026-01-21T17:00:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/489kxL-L8Yk/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:Now08EfeEPk",
-      "title": "ADHD and Biological Triggers",
-      "videoId": "Now08EfeEPk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-20T17:00:47.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Now08EfeEPk/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/heuristics/?utm_source=rss&utm_medium=rss&utm_campaign=heuristics",
+      "title": "Psychological Heuristics & Wellbeing: Shortcuts to Flourishing",
+      "url": "https://positivepsychology.com/heuristics/?utm_source=rss&utm_medium=rss&utm_campaign=heuristics",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-12T15:00:15.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/symptoms-of-severe-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=symptoms-of-severe-anxiety",
+      "title": "5 Signs & Symptoms of Severe Anxiety",
+      "url": "https://positivepsychology.com/symptoms-of-severe-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=symptoms-of-severe-anxiety",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-09T15:00:06.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/types-of-anxiety-disorders/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-anxiety-disorders",
+      "title": "Exploring 5 Different Types of Anxiety Disorders",
+      "url": "https://positivepsychology.com/types-of-anxiety-disorders/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-anxiety-disorders",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-08T15:00:06.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/worry-vs-fear/?utm_source=rss&utm_medium=rss&utm_campaign=worry-vs-fear",
       "title": "Worry vs. Fear: How to Know What You’re Really Feeling",
@@ -193,30 +217,6 @@
       "url": "https://positivepsychology.com/anxiety-symptoms-in-children/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-symptoms-in-children",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-11-18T15:00:33.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/chronic-overthinker/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinker",
-      "title": "5 Coping Strategies Every Chronic Overthinker Can Use Today",
-      "url": "https://positivepsychology.com/chronic-overthinker/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinker",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-17T15:00:33.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/chronic-overthinking/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinking",
-      "title": "Understanding the Cycle of Chronic Overthinking",
-      "url": "https://positivepsychology.com/chronic-overthinking/?utm_source=rss&utm_medium=rss&utm_campaign=chronic-overthinking",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-14T15:00:38.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/worry-and-health/?utm_source=rss&utm_medium=rss&utm_campaign=worry-and-health",
-      "title": "How Chronic Worry Undermines Your Health",
-      "url": "https://positivepsychology.com/worry-and-health/?utm_source=rss&utm_medium=rss&utm_campaign=worry-and-health",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-13T15:00:45.000Z",
       "tags": []
     }
   ]

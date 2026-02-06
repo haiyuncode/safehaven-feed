@@ -1,10 +1,10 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-06T12:40:36.066Z",
+  "generatedAt": "2026-02-06T18:37:58.402Z",
   "videos": [
     {
       "id": "yt:video:sTR9a0e3d1o",
-      "title": "Your Stories are Fueling your Emotions",
+      "title": "The Secret Fuel of your Emotional Reactivity",
       "videoId": "sTR9a0e3d1o",
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-05T14:01:22.000Z",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/self-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=self-abandonment",
+      "title": "Self-Abandonment: What It Is & How to Heal",
+      "url": "https://positivepsychology.com/self-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=self-abandonment",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-13T15:00:17.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/heuristics/?utm_source=rss&utm_medium=rss&utm_campaign=heuristics",
       "title": "Psychological Heuristics & Wellbeing: Shortcuts to Flourishing",
       "url": "https://positivepsychology.com/heuristics/?utm_source=rss&utm_medium=rss&utm_campaign=heuristics",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/childhood-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=childhood-anxiety",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-11-19T15:00:38.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/anxiety-symptoms-in-children/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-symptoms-in-children",
-      "title": "How to Spot Anxiety Symptoms in Children",
-      "url": "https://positivepsychology.com/anxiety-symptoms-in-children/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-symptoms-in-children",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-18T15:00:33.000Z",
       "tags": []
     }
   ]

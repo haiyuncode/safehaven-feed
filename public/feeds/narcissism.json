@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-02-06T12:40:36.798Z",
+  "generatedAt": "2026-02-06T18:37:59.165Z",
   "videos": [
+    {
+      "id": "yt:video:4AdYzMUmJAE",
+      "title": "Are You Being a Goldfish in a Toxic Relationship?",
+      "videoId": "4AdYzMUmJAE",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-02-06T16:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/4AdYzMUmJAE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:rHDOcvq95AA",
       "title": "The TIMELINE of the narcissistic relationship",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-01-07T16:00:21.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7rQ0UY-Ns6I/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:HhdePZ-j4vQ",
-      "title": "Narcissistic abuse vs. emotional abuse",
-      "videoId": "HhdePZ-j4vQ",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-01-05T16:00:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HhdePZ-j4vQ/hqdefault.jpg",
       "tags": []
     },
     {

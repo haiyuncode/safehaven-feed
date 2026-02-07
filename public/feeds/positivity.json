@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-07T12:31:42.531Z",
+  "generatedAt": "2026-02-07T18:24:18.087Z",
   "videos": [
+    {
+      "id": "yt:video:hzjuYX6_GyQ",
+      "title": "The Opposite of Motivating",
+      "videoId": "hzjuYX6_GyQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-07T17:01:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/hzjuYX6_GyQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:sTR9a0e3d1o",
       "title": "The Secret Fuel of your Emotional Reactivity",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-22T12:01:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ccJ8uucpqyc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:489kxL-L8Yk",
-      "title": "ADHD and Rejection Sensitivity Dysphoria",
-      "videoId": "489kxL-L8Yk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-21T17:00:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/489kxL-L8Yk/hqdefault.jpg",
       "tags": []
     }
   ],

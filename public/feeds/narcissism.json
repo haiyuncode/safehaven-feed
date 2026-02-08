@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-02-08T12:32:09.911Z",
+  "generatedAt": "2026-02-08T18:25:25.893Z",
   "videos": [
+    {
+      "id": "yt:video:OiqtUw3NcBk",
+      "title": "When Money Becomes A Weapon!",
+      "videoId": "OiqtUw3NcBk",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-02-08T16:00:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/OiqtUw3NcBk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:4AdYzMUmJAE",
       "title": "Are You Being a Goldfish in a Toxic Relationship?",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-01-09T16:01:18.000Z",
       "thumbnail": "https://i.ytimg.com/vi/nYRxcjBgwyA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7rQ0UY-Ns6I",
-      "title": "Narcissists in CRISIS MODE",
-      "videoId": "7rQ0UY-Ns6I",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-01-07T16:00:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7rQ0UY-Ns6I/hqdefault.jpg",
       "tags": []
     },
     {

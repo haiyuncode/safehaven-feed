@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-09T12:51:09.034Z",
+  "generatedAt": "2026-02-09T18:47:11.032Z",
   "videos": [
+    {
+      "id": "yt:video:UpfMWNyohHE",
+      "title": "How Trauma Shows up as Muscle Tension",
+      "videoId": "UpfMWNyohHE",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-09T17:00:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/UpfMWNyohHE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:HXdZo0Ojhh0",
       "title": "What is Medical Trauma?",
@@ -127,18 +136,25 @@
       "publishedAt": "2026-01-24T17:21:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7UJPvLrIhiM/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:rjW6GoXN5CY",
-      "title": "2 Ways to Regulate the Vagus Nerve",
-      "videoId": "rjW6GoXN5CY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-24T17:01:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/rjW6GoXN5CY/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/coaching-skills/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-skills",
+      "title": "Coaching Skills: 13 Core Competencies Great Coaches Need",
+      "url": "https://positivepsychology.com/coaching-skills/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-skills",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-15T15:00:01.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/anger-management/?utm_source=rss&utm_medium=rss&utm_campaign=anger-management",
+      "title": "Beyond Rage: What Anger Management Really Teaches Us",
+      "url": "https://positivepsychology.com/anger-management/?utm_source=rss&utm_medium=rss&utm_campaign=anger-management",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-14T15:00:07.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/self-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=self-abandonment",
       "title": "Self-Abandonment: What It Is & How to Heal",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/ketamine-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=ketamine-therapy",
       "source": "PositivePsychology.com",
       "publishedAt": "2025-11-21T15:00:39.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/cbt-cognitive-restructuring-cognitive-distortions/?utm_source=rss&utm_medium=rss&utm_campaign=cbt-cognitive-restructuring-cognitive-distortions",
-      "title": "Cognitive Restructuring: The Power of Reframing Thoughts",
-      "url": "https://positivepsychology.com/cbt-cognitive-restructuring-cognitive-distortions/?utm_source=rss&utm_medium=rss&utm_campaign=cbt-cognitive-restructuring-cognitive-distortions",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-20T15:00:21.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/childhood-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=childhood-anxiety",
-      "title": "Childhood Anxiety: How It Develops & What It Teaches Us",
-      "url": "https://positivepsychology.com/childhood-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=childhood-anxiety",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-19T15:00:38.000Z",
       "tags": []
     }
   ]

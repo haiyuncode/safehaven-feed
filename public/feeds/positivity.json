@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-10T12:55:11.618Z",
+  "generatedAt": "2026-02-10T18:56:14.213Z",
   "videos": [
+    {
+      "id": "yt:video:akUJmXaRt5M",
+      "title": "How You Bias Your Memory",
+      "videoId": "akUJmXaRt5M",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-10T17:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/akUJmXaRt5M/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:UpfMWNyohHE",
       "title": "How Trauma Shows up as Muscle Tension",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-25T17:00:29.000Z",
       "thumbnail": "https://i.ytimg.com/vi/JGIroDfycto/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7UJPvLrIhiM",
-      "title": "Just me sobbing",
-      "videoId": "7UJPvLrIhiM",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-24T17:21:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7UJPvLrIhiM/hqdefault.jpg",
       "tags": []
     }
   ],

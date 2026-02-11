@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-11T12:51:34.494Z",
+  "generatedAt": "2026-02-11T18:53:16.062Z",
   "videos": [
+    {
+      "id": "yt:video:Vg-BaLYJn74",
+      "title": "The Secret Fuel of Emotions",
+      "videoId": "Vg-BaLYJn74",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-11T17:01:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Vg-BaLYJn74/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:akUJmXaRt5M",
       "title": "How You Bias Your Memory",
@@ -127,18 +136,25 @@
       "publishedAt": "2026-01-26T17:00:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/HtYgrY-rgNI/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:JGIroDfycto",
-      "title": "How to Feel Loved",
-      "videoId": "JGIroDfycto",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-25T17:00:29.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/JGIroDfycto/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/social-work/?utm_source=rss&utm_medium=rss&utm_campaign=social-work",
+      "title": "Exploring Social Work: How Social Workers Change Lives",
+      "url": "https://positivepsychology.com/social-work/?utm_source=rss&utm_medium=rss&utm_campaign=social-work",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-19T15:00:49.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/eco-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=eco-anxiety",
+      "title": "How to Manage Eco-Anxiety With Positive Psychology",
+      "url": "https://positivepsychology.com/eco-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=eco-anxiety",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-16T15:00:25.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/coaching-skills/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-skills",
       "title": "Coaching Skills: 13 Core Competencies Great Coaches Need",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/worry-vs-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=worry-vs-anxiety",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-01-06T15:00:38.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/coaching-styles/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-styles",
-      "title": "Coaching Styles: 10 Popular Approaches & When to Use Them",
-      "url": "https://positivepsychology.com/coaching-styles/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-styles",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-01-05T15:00:06.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/ketamine-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=ketamine-therapy",
-      "title": "Ketamine Therapy: What Is It & How Does It Work?",
-      "url": "https://positivepsychology.com/ketamine-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=ketamine-therapy",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2025-11-21T15:00:39.000Z",
       "tags": []
     }
   ]

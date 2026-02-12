@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-12T12:46:38.397Z",
+  "generatedAt": "2026-02-12T18:52:42.653Z",
   "videos": [
+    {
+      "id": "yt:video:QvM2a7-4pvY",
+      "title": "Inner Critic Therapy Session w/ IFS founder Dick Schwartz (I may have cried a bit)",
+      "videoId": "QvM2a7-4pvY",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-12T14:00:40.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/QvM2a7-4pvY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Vg-BaLYJn74",
       "title": "The Secret Fuel of Emotions",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-27T17:01:20.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ry6Hz_lw1QQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:HtYgrY-rgNI",
-      "title": "How to Stop Comparing Yourself to Others",
-      "videoId": "HtYgrY-rgNI",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-26T17:00:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HtYgrY-rgNI/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-02-13T12:40:15.909Z",
+  "generatedAt": "2026-02-13T18:36:28.278Z",
   "videos": [
+    {
+      "id": "yt:video:WK81E6Kb0xo",
+      "title": "Cross Countey skiing can’t be that hard??? #olympics #challenge",
+      "videoId": "WK81E6Kb0xo",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-02-13T18:09:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/WK81E6Kb0xo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:zeSjdkzDoeo",
       "title": "20-Min Shadow Boxing Workout | Stay Lean and Melt Fat",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-12-25T16:30:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/O6vnQgZko88/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ZLv8RdCRqhA",
-      "title": "Did AJ want to end Jake? #boxing",
-      "videoId": "ZLv8RdCRqhA",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-12-20T17:51:23.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZLv8RdCRqhA/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-14T12:30:56.442Z",
+  "generatedAt": "2026-02-14T18:23:39.157Z",
   "videos": [
+    {
+      "id": "yt:video:1obLGMmUhz4",
+      "title": "Your Stories Fuel Your Emotions",
+      "videoId": "1obLGMmUhz4",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-14T17:00:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/1obLGMmUhz4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:QvM2a7-4pvY",
       "title": "Inner Critic Therapy Session w/ IFS founder Dick Schwartz (I may have cried a bit)",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-28T17:01:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/dJd1ZApQ7Ak/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ry6Hz_lw1QQ",
-      "title": "High Functioning Depression",
-      "videoId": "ry6Hz_lw1QQ",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-27T17:01:20.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ry6Hz_lw1QQ/hqdefault.jpg",
       "tags": []
     }
   ],

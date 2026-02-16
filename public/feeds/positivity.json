@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-16T12:43:54.263Z",
+  "generatedAt": "2026-02-16T18:33:02.900Z",
   "videos": [
+    {
+      "id": "yt:video:FPt19dcBHZE",
+      "title": "We Don’t React to Events…",
+      "videoId": "FPt19dcBHZE",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-16T17:00:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/FPt19dcBHZE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:h6NL6j0cgyA",
       "title": "ADHD and Emotional Stickiness",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-01-31T17:01:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/nykq2lh1iQQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:LffzIPZUuUg",
-      "title": "Tap into a deep sense of safety with this somatic exercise- The Robin w. Dr. Arielle Schwartz",
-      "videoId": "LffzIPZUuUg",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-01-29T12:00:38.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/LffzIPZUuUg/hqdefault.jpg",
       "tags": []
     }
   ],

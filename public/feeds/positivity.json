@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-17T06:49:20.103Z",
+  "generatedAt": "2026-02-17T12:43:28.830Z",
   "videos": [
     {
       "id": "yt:video:FPt19dcBHZE",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/stress-and-burnout-prevention-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=stress-and-burnout-prevention-anchor-cards",
+      "title": "How to Use Anchor Cards to Manage Stress & Prevent Burnout",
+      "url": "https://positivepsychology.com/stress-and-burnout-prevention-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=stress-and-burnout-prevention-anchor-cards",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-02-17T10:00:33.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/boundary-building-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=boundary-building-anchor-cards",
       "title": "How to Use Boundary-Building Anchor Cards",
       "url": "https://positivepsychology.com/boundary-building-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=boundary-building-anchor-cards",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/symptoms-of-severe-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=symptoms-of-severe-anxiety",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-01-09T15:00:06.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/types-of-anxiety-disorders/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-anxiety-disorders",
-      "title": "Exploring 5 Different Types of Anxiety Disorders",
-      "url": "https://positivepsychology.com/types-of-anxiety-disorders/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-anxiety-disorders",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-01-08T15:00:06.000Z",
       "tags": []
     }
   ]

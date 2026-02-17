@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-02-17T12:43:30.070Z",
+  "generatedAt": "2026-02-17T18:45:59.605Z",
   "videos": [
+    {
+      "id": "yt:video:JtSFPC22Tyw",
+      "title": "Learn Real Boxing Combos the Right Way (Beginner Guide)- Day 1",
+      "videoId": "JtSFPC22Tyw",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-02-17T16:00:28.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/JtSFPC22Tyw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:WK81E6Kb0xo",
       "title": "I tried this on a TREADMILL  #olympics #challenge",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2025-12-29T15:01:42.000Z",
       "thumbnail": "https://i.ytimg.com/vi/rx6enZ8-Uow/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:O6vnQgZko88",
-      "title": "Build Lightning Fast Hands and a Fight-Ready Body! (Heavy Bag & Shadow Boxing Flow)",
-      "videoId": "O6vnQgZko88",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-12-25T16:30:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/O6vnQgZko88/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-18T06:53:41.197Z",
+  "generatedAt": "2026-02-18T12:43:33.123Z",
   "videos": [
     {
       "id": "yt:video:-g4REC3J5W4",
@@ -156,6 +156,22 @@
       "tags": []
     },
     {
+      "id": "link:https://positivepsychology.com/guilt-trip/?utm_source=rss&utm_medium=rss&utm_campaign=guilt-trip",
+      "title": "How to Respond to a Guilt Trip",
+      "url": "https://positivepsychology.com/guilt-trip/?utm_source=rss&utm_medium=rss&utm_campaign=guilt-trip",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-23T15:00:47.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/guilt-tripping-meaning/?utm_source=rss&utm_medium=rss&utm_campaign=guilt-tripping-meaning",
+      "title": "What Is the Meaning of Guilt-Tripping?",
+      "url": "https://positivepsychology.com/guilt-tripping-meaning/?utm_source=rss&utm_medium=rss&utm_campaign=guilt-tripping-meaning",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-22T15:00:55.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/narrative-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=narrative-therapy",
       "title": "What Is Narrative Therapy? Techniques & Worksheets",
       "url": "https://positivepsychology.com/narrative-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=narrative-therapy",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/anger-management/?utm_source=rss&utm_medium=rss&utm_campaign=anger-management",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-01-14T15:00:07.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=self-abandonment",
-      "title": "Self-Abandonment: What It Is & How to Heal",
-      "url": "https://positivepsychology.com/self-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=self-abandonment",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-01-13T15:00:17.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/heuristics/?utm_source=rss&utm_medium=rss&utm_campaign=heuristics",
-      "title": "Psychological Heuristics & Wellbeing: Shortcuts to Flourishing",
-      "url": "https://positivepsychology.com/heuristics/?utm_source=rss&utm_medium=rss&utm_campaign=heuristics",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-01-12T15:00:15.000Z",
       "tags": []
     }
   ]

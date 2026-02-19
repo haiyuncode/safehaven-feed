@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-19T12:45:02.532Z",
+  "generatedAt": "2026-02-19T18:41:53.716Z",
   "videos": [
+    {
+      "id": "yt:video:uUUzNxyttLc",
+      "title": "How Chronic Pain Gets Stuck in the Nervous System",
+      "videoId": "uUUzNxyttLc",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-19T14:01:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/uUUzNxyttLc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:-g4REC3J5W4",
       "title": "ADHD, Emotions and Executive Function",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-02T17:00:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/GuJg9MAEZmA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:5AvwnSkXSd4",
-      "title": "Restore Safety in Your Nervous System",
-      "videoId": "5AvwnSkXSd4",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-01T17:00:14.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/5AvwnSkXSd4/hqdefault.jpg",
       "tags": []
     }
   ],

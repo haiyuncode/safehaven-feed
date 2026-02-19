@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-02-19T12:45:03.925Z",
+  "generatedAt": "2026-02-19T18:41:54.684Z",
   "videos": [
+    {
+      "id": "yt:video:XMlz_omeIpA",
+      "title": "Drill 5 KNOCKOUT Combos | Learn to Punch with good technique and bad intentions",
+      "videoId": "XMlz_omeIpA",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-02-19T15:15:07.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/XMlz_omeIpA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:JtSFPC22Tyw",
       "title": "Learn Real Boxing Combos the Right Way (Beginner Guide)- Day 1",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-01-01T17:00:34.000Z",
       "thumbnail": "https://i.ytimg.com/vi/KBmhCZiFgpw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:rx6enZ8-Uow",
-      "title": "30 Min Boxing Workout to Burn Fat Forever! (Stamina + Conditioning)",
-      "videoId": "rx6enZ8-Uow",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2025-12-29T15:01:42.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/rx6enZ8-Uow/hqdefault.jpg",
       "tags": []
     }
   ],

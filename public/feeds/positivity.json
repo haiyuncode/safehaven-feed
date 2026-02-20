@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-20T12:40:31.996Z",
+  "generatedAt": "2026-02-20T18:36:12.940Z",
   "videos": [
     {
       "id": "yt:video:uUUzNxyttLc",
@@ -156,6 +156,22 @@
       "tags": []
     },
     {
+      "id": "link:https://positivepsychology.com/how-to-digitally-detox/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-digitally-detox",
+      "title": "Disconnect to Reconnect: How to Digitally Detox",
+      "url": "https://positivepsychology.com/how-to-digitally-detox/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-digitally-detox",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-27T15:00:34.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/digital-detox/?utm_source=rss&utm_medium=rss&utm_campaign=digital-detox",
+      "title": "Digital Detox: 7 Benefits of Escaping Digital Noise",
+      "url": "https://positivepsychology.com/digital-detox/?utm_source=rss&utm_medium=rss&utm_campaign=digital-detox",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-26T15:00:33.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/guilt-trip/?utm_source=rss&utm_medium=rss&utm_campaign=guilt-trip",
       "title": "How to Respond to a Guilt Trip",
       "url": "https://positivepsychology.com/guilt-trip/?utm_source=rss&utm_medium=rss&utm_campaign=guilt-trip",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/eco-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=eco-anxiety",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-01-16T15:00:25.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/coaching-skills/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-skills",
-      "title": "Coaching Skills: 13 Core Competencies Great Coaches Need",
-      "url": "https://positivepsychology.com/coaching-skills/?utm_source=rss&utm_medium=rss&utm_campaign=coaching-skills",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-01-15T15:00:01.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/anger-management/?utm_source=rss&utm_medium=rss&utm_campaign=anger-management",
-      "title": "Beyond Rage: What Anger Management Really Teaches Us",
-      "url": "https://positivepsychology.com/anger-management/?utm_source=rss&utm_medium=rss&utm_campaign=anger-management",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-01-14T15:00:07.000Z",
       "tags": []
     }
   ]

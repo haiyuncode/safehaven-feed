@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-20T18:36:12.940Z",
+  "generatedAt": "2026-02-21T01:18:49.303Z",
   "videos": [
+    {
+      "id": "yt:video:Usz5rGgMyrs",
+      "title": "Thinking Patterns that Fuel Chronic Pain",
+      "videoId": "Usz5rGgMyrs",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-21T00:00:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Usz5rGgMyrs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:uUUzNxyttLc",
       "title": "How Chronic Pain Gets Stuck in the Nervous System",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-03T17:00:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/B6P_LieckW4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:GuJg9MAEZmA",
-      "title": "How Trauma Shows up in the Body",
-      "videoId": "GuJg9MAEZmA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-02T17:00:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/GuJg9MAEZmA/hqdefault.jpg",
       "tags": []
     }
   ],

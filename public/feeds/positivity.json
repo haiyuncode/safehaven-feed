@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-21T12:31:42.634Z",
+  "generatedAt": "2026-02-21T18:24:03.645Z",
   "videos": [
+    {
+      "id": "yt:video:J1HSUQ9R-_M",
+      "title": "Chronic Pain Management",
+      "videoId": "J1HSUQ9R-_M",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-21T17:00:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/J1HSUQ9R-_M/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Usz5rGgMyrs",
       "title": "Thinking Patterns that Fuel Chronic Pain",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-04T17:00:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/-VN-BuEEGNQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:B6P_LieckW4",
-      "title": "Removing Smart Phones Worked as Well as Antidepressants",
-      "videoId": "B6P_LieckW4",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-03T17:00:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/B6P_LieckW4/hqdefault.jpg",
       "tags": []
     }
   ],

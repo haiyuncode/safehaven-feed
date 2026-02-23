@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-23T12:44:51.979Z",
+  "generatedAt": "2026-02-23T18:53:42.116Z",
   "videos": [
     {
       "id": "yt:video:J1HSUQ9R-_M",
@@ -156,6 +156,22 @@
       "tags": []
     },
     {
+      "id": "link:https://positivepsychology.com/existential-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=existential-anxiety",
+      "title": "Existential Anxiety About Artificial Intelligence",
+      "url": "https://positivepsychology.com/existential-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=existential-anxiety",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-30T15:00:51.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/ai-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=ai-anxiety",
+      "title": "Understanding AI Anxiety and Its Societal Impact",
+      "url": "https://positivepsychology.com/ai-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=ai-anxiety",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-01-29T15:00:16.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/how-to-digitally-detox/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-digitally-detox",
       "title": "Disconnect to Reconnect: How to Digitally Detox",
       "url": "https://positivepsychology.com/how-to-digitally-detox/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-digitally-detox",
@@ -201,22 +217,6 @@
       "url": "https://positivepsychology.com/communication-skills/?utm_source=rss&utm_medium=rss&utm_campaign=communication-skills",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-01-20T15:00:06.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/social-work/?utm_source=rss&utm_medium=rss&utm_campaign=social-work",
-      "title": "Exploring Social Work: How Social Workers Change Lives",
-      "url": "https://positivepsychology.com/social-work/?utm_source=rss&utm_medium=rss&utm_campaign=social-work",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-01-19T15:00:49.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/eco-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=eco-anxiety",
-      "title": "How to Manage Eco-Anxiety With Positive Psychology",
-      "url": "https://positivepsychology.com/eco-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=eco-anxiety",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-01-16T15:00:25.000Z",
       "tags": []
     }
   ]

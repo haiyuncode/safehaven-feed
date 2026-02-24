@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-02-24T12:45:33.359Z",
+  "generatedAt": "2026-02-24T18:52:15.426Z",
   "videos": [
+    {
+      "id": "yt:video:9Yzke26tOXU",
+      "title": "Intense Shadow Boxing Sweat Session (No Equipment) | shadow Boxing footwork | Intense Combos",
+      "videoId": "9Yzke26tOXU",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-02-24T15:45:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/9Yzke26tOXU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:XMlz_omeIpA",
       "title": "Drill 5 KNOCKOUT Combos | POWER PUNCHER techniques",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-01-02T17:08:27.000Z",
       "thumbnail": "https://i.ytimg.com/vi/saXZO1Wkrh4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:KBmhCZiFgpw",
-      "title": "Controlled Aggression Quick heavy bag Calorie Burner boxing workout",
-      "videoId": "KBmhCZiFgpw",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-01T17:00:34.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KBmhCZiFgpw/hqdefault.jpg",
       "tags": []
     }
   ],

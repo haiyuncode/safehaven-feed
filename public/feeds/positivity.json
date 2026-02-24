@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-24T12:45:32.346Z",
+  "generatedAt": "2026-02-24T18:52:14.066Z",
   "videos": [
+    {
+      "id": "yt:video:rM2US9gtuTA",
+      "title": "Chronic Pain Messaging in the Brain",
+      "videoId": "rM2US9gtuTA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-24T17:01:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/rM2US9gtuTA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:J1HSUQ9R-_M",
       "title": "Chronic Pain Management",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-05T14:01:22.000Z",
       "thumbnail": "https://i.ytimg.com/vi/sTR9a0e3d1o/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:-VN-BuEEGNQ",
-      "title": "ADHD and Emotional Dysregulation",
-      "videoId": "-VN-BuEEGNQ",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-04T17:00:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/-VN-BuEEGNQ/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-02-25T12:44:45.079Z",
+  "generatedAt": "2026-02-25T18:55:17.699Z",
   "videos": [
+    {
+      "id": "yt:video:dUE03Dgdrv8",
+      "title": "The Narcissistic Parent Criticism Trap",
+      "videoId": "dUE03Dgdrv8",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-02-25T16:01:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/dUE03Dgdrv8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ScNKF0BzJgo",
       "title": "Do Narcissistic People Have a Fawn Response?",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-01-26T16:01:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/mgJuaAlRstE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:5VKNOoL1UrI",
-      "title": "Have you experienced financial betrayal?",
-      "videoId": "5VKNOoL1UrI",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-01-25T16:00:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/5VKNOoL1UrI/hqdefault.jpg",
       "tags": []
     },
     {

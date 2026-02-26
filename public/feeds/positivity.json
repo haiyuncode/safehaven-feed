@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-26T06:51:20.812Z",
+  "generatedAt": "2026-02-26T12:44:45.619Z",
   "videos": [
+    {
+      "id": "yt:video:-TEjND_EesE",
+      "title": "6 Keys to get WAY MORE out of Therapy",
+      "videoId": "-TEjND_EesE",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-26T12:00:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-TEjND_EesE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:rM2US9gtuTA",
       "title": "Chronic Pain Messaging in the Brain",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-07T17:01:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/hzjuYX6_GyQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:sTR9a0e3d1o",
-      "title": "The Secret Fuel of your Emotional Reactivity",
-      "videoId": "sTR9a0e3d1o",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-05T14:01:22.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/sTR9a0e3d1o/hqdefault.jpg",
       "tags": []
     }
   ],

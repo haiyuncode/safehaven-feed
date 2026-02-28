@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-02-28T12:29:43.946Z",
+  "generatedAt": "2026-02-28T18:22:34.072Z",
   "videos": [
+    {
+      "id": "yt:video:2Qd48FRuMdY",
+      "title": "Footwork for attack speed #boxing #mma footwork",
+      "videoId": "2Qd48FRuMdY",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-02-28T17:19:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/2Qd48FRuMdY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:oqR4h1QA074",
       "title": "10 Minute Heavy Bag Workout | boxing footwork with punches",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-01-08T16:45:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ZqN5GqweJ44/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Jrixkff1o6g",
-      "title": "45 degree PIVOTS #boxing Footwork",
-      "videoId": "Jrixkff1o6g",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-03T18:54:22.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Jrixkff1o6g/hqdefault.jpg",
       "tags": []
     }
   ],

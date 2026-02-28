@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-28T12:29:42.899Z",
+  "generatedAt": "2026-02-28T18:22:31.753Z",
   "videos": [
+    {
+      "id": "yt:video:7QKenZM5Xew",
+      "title": "The Biggest Waste of Time in Therapy",
+      "videoId": "7QKenZM5Xew",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-28T17:00:18.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/7QKenZM5Xew/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:-TEjND_EesE",
       "title": "6 Keys to get WAY MORE out of Therapy",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-08T17:00:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/HXdZo0Ojhh0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:hzjuYX6_GyQ",
-      "title": "The Opposite of Motivating",
-      "videoId": "hzjuYX6_GyQ",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-07T17:01:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/hzjuYX6_GyQ/hqdefault.jpg",
       "tags": []
     }
   ],

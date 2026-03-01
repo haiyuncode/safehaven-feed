@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-01T06:36:45.200Z",
+  "generatedAt": "2026-03-01T12:31:38.661Z",
   "videos": [
+    {
+      "id": "yt:video:olsFoC630Qk",
+      "title": "Being Safe vs Being Comfortable with Your Therapist",
+      "videoId": "olsFoC630Qk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-01T11:01:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/olsFoC630Qk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:h0aN9w9SY_E",
       "title": "I Still Don’t Believe My Chronic Pain is Gone",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-10T17:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/akUJmXaRt5M/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:UpfMWNyohHE",
-      "title": "How Trauma Shows up as Muscle Tension",
-      "videoId": "UpfMWNyohHE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-09T17:00:57.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/UpfMWNyohHE/hqdefault.jpg",
       "tags": []
     }
   ],

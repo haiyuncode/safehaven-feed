@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-02-28T18:22:31.753Z",
+  "generatedAt": "2026-03-01T01:41:51.799Z",
   "videos": [
+    {
+      "id": "yt:video:h0aN9w9SY_E",
+      "title": "I Still Don’t Believe My Chronic Pain is Gone",
+      "videoId": "h0aN9w9SY_E",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-02-28T23:00:50.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/h0aN9w9SY_E/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:7QKenZM5Xew",
       "title": "The Biggest Waste of Time in Therapy",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-09T17:00:57.000Z",
       "thumbnail": "https://i.ytimg.com/vi/UpfMWNyohHE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:HXdZo0Ojhh0",
-      "title": "What is Medical Trauma?",
-      "videoId": "HXdZo0Ojhh0",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-08T17:00:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HXdZo0Ojhh0/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-02T18:35:55.020Z",
+  "generatedAt": "2026-03-03T01:24:27.424Z",
   "videos": [
+    {
+      "id": "yt:video:WTeAk5X9W7U",
+      "title": "Master Uppercuts: Why You Must Scrape the Bag!",
+      "videoId": "WTeAk5X9W7U",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-02T20:15:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/WTeAk5X9W7U/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:2Qd48FRuMdY",
       "title": "Footwork for attack speed #boxing #mma footwork",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-01-09T15:45:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/S5t7ksLOcQg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ZqN5GqweJ44",
-      "title": "Daily Bone Density Jump Training for Longevity - Nate Bower Fitness",
-      "videoId": "ZqN5GqweJ44",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-08T16:45:04.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZqN5GqweJ44/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-03T12:38:13.563Z",
+  "generatedAt": "2026-03-03T18:37:37.170Z",
   "videos": [
+    {
+      "id": "yt:video:0TdluFvjBT8",
+      "title": "Chronic Pain is Real",
+      "videoId": "0TdluFvjBT8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-03T17:00:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/0TdluFvjBT8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:FRsPFIxYssE",
       "title": "Connection as a Biological Imperative",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-14T17:00:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/1obLGMmUhz4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:QvM2a7-4pvY",
-      "title": "Inner Critic Therapy Session w/ IFS founder Dick Schwartz (I may have cried a bit)",
-      "videoId": "QvM2a7-4pvY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-12T14:00:40.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/QvM2a7-4pvY/hqdefault.jpg",
       "tags": []
     }
   ],

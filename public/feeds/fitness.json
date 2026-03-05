@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-05T12:41:22.812Z",
+  "generatedAt": "2026-03-05T19:10:41.788Z",
   "videos": [
+    {
+      "id": "yt:video:_C12rSR0KJE",
+      "title": "Top 3 Boxing Combos - Explained by my Olympic coach | Boxing Tactics",
+      "videoId": "_C12rSR0KJE",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-05T17:00:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/_C12rSR0KJE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:WTeAk5X9W7U",
       "title": "Master Uppercuts: Why You Must Scrape the Bag!",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-01-11T17:38:30.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Y4qim1q4XpY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:S5t7ksLOcQg",
-      "title": "Slapping your hook | do this drill for knockout power and speed #boxing #mma",
-      "videoId": "S5t7ksLOcQg",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-09T15:45:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/S5t7ksLOcQg/hqdefault.jpg",
       "tags": []
     }
   ],

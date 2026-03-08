@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-07T18:23:21.933Z",
+  "generatedAt": "2026-03-08T01:23:11.674Z",
   "videos": [
+    {
+      "id": "yt:video:qAAukTX5VO4",
+      "title": "The Devastating Impact of Insomnia on Mood",
+      "videoId": "qAAukTX5VO4",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-07T23:01:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/qAAukTX5VO4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:kF4JN-8Wr5Y",
       "title": "Hormone Imbalances That Look Like Depression",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-17T17:00:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/-g4REC3J5W4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:FPt19dcBHZE",
-      "title": "We Don’t React to Events…",
-      "videoId": "FPt19dcBHZE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-16T17:00:20.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/FPt19dcBHZE/hqdefault.jpg",
       "tags": []
     }
   ],

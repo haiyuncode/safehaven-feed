@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-08T06:33:33.674Z",
+  "generatedAt": "2026-03-08T12:32:14.838Z",
   "videos": [
+    {
+      "id": "yt:video:17z_nTj0pu0",
+      "title": "Medications That Cause Depression",
+      "videoId": "17z_nTj0pu0",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-08T10:00:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/17z_nTj0pu0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:qAAukTX5VO4",
       "title": "The Devastating Impact of Insomnia on Mood",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-19T14:01:24.000Z",
       "thumbnail": "https://i.ytimg.com/vi/uUUzNxyttLc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:-g4REC3J5W4",
-      "title": "ADHD, Emotions and Executive Function",
-      "videoId": "-g4REC3J5W4",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-17T17:00:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/-g4REC3J5W4/hqdefault.jpg",
       "tags": []
     }
   ],

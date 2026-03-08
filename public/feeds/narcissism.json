@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-03-08T12:32:15.555Z",
+  "generatedAt": "2026-03-08T18:23:14.784Z",
   "videos": [
+    {
+      "id": "yt:video:3mVJdKsPURc",
+      "title": "Dr. Ramani talks to Jay Manuel about the ANTM docuseries",
+      "videoId": "3mVJdKsPURc",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-03-08T15:00:07.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3mVJdKsPURc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:vzvl8Wwfbl8",
       "title": "How Narcissists Seem Empathic at First",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-02-06T16:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/4AdYzMUmJAE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:rHDOcvq95AA",
-      "title": "The TIMELINE of the narcissistic relationship",
-      "videoId": "rHDOcvq95AA",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-02-04T16:01:19.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/rHDOcvq95AA/hqdefault.jpg",
       "tags": []
     },
     {

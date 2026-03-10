@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-10T12:41:44.981Z",
+  "generatedAt": "2026-03-10T18:37:19.938Z",
   "videos": [
+    {
+      "id": "yt:video:eztWGOTXgfY",
+      "title": "Master the HALF STEP | Outside attack footwork #boxing #mma",
+      "videoId": "eztWGOTXgfY",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-10T17:53:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/eztWGOTXgfY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:i-CJIRWd2co",
       "title": "Level Up Shadow BOXING HIIT Workout - Follow along Boxing Shred",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-01-18T16:30:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Ke_A19d7QwE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:75kokGymirE",
-      "title": "Power Puncher Heavy Bag Workout | test your grip strength and Vo2 Max | Boxing for Longevity",
-      "videoId": "75kokGymirE",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-18T16:30:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/75kokGymirE/hqdefault.jpg",
       "tags": []
     }
   ],

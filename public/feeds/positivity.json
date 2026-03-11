@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-11T06:41:47.923Z",
+  "generatedAt": "2026-03-11T12:41:28.993Z",
   "videos": [
     {
       "id": "yt:video:17z_nTj0pu0",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/difficult-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=difficult-conversations",
+      "title": "How to De-Escalate Difficult Conversations",
+      "url": "https://positivepsychology.com/difficult-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=difficult-conversations",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-03-11T10:00:50.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/conflict-resolution-worksheets/?utm_source=rss&utm_medium=rss&utm_campaign=conflict-resolution-worksheets",
       "title": "10 Free Conflict Resolution Worksheets for Couples",
       "url": "https://positivepsychology.com/conflict-resolution-worksheets/?utm_source=rss&utm_medium=rss&utm_campaign=conflict-resolution-worksheets",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/boundary-building-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=boundary-building-anchor-cards",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-02-16T10:00:23.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/mood-charts-track-your-mood/?utm_source=rss&utm_medium=rss&utm_campaign=mood-charts-track-your-mood",
-      "title": "15+ Mood Chart Templates & Mood Journals to Track Emotions",
-      "url": "https://positivepsychology.com/mood-charts-track-your-mood/?utm_source=rss&utm_medium=rss&utm_campaign=mood-charts-track-your-mood",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-02-13T10:00:25.000Z",
       "tags": []
     }
   ]

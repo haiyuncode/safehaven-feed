@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-03-11T12:41:29.860Z",
+  "generatedAt": "2026-03-11T18:43:56.382Z",
   "videos": [
+    {
+      "id": "yt:video:xkGS1WQxCjA",
+      "title": "The Narcissistic Parent Injury",
+      "videoId": "xkGS1WQxCjA",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-03-11T15:01:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/xkGS1WQxCjA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:AvnqANARM1I",
       "title": "Successful vs. Unsuccessful Narcissists: What’s the Difference?",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-02-09T16:00:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/0d7UXaLH7cs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:OiqtUw3NcBk",
-      "title": "When Money Becomes A Weapon!",
-      "videoId": "OiqtUw3NcBk",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-02-08T16:00:29.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/OiqtUw3NcBk/hqdefault.jpg",
       "tags": []
     },
     {

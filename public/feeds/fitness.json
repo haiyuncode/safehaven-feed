@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-11T18:43:56.795Z",
+  "generatedAt": "2026-03-12T01:17:52.133Z",
   "videos": [
+    {
+      "id": "yt:video:REB7L3VFHKU",
+      "title": "Effective Feint footwork speed #boxing",
+      "videoId": "REB7L3VFHKU",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-11T18:59:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/REB7L3VFHKU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:eztWGOTXgfY",
       "title": "Outside attack Boxing footwork #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-01-23T17:09:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/FTKjjZpEjQg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Ke_A19d7QwE",
-      "title": "MAX CARDIO Heavy Bag Workout Vo2 Protocol | Test your Boxing Fitness",
-      "videoId": "Ke_A19d7QwE",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-18T16:30:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Ke_A19d7QwE/hqdefault.jpg",
       "tags": []
     }
   ],

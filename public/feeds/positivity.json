@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-12T18:42:03.632Z",
+  "generatedAt": "2026-03-13T01:21:25.295Z",
   "videos": [
+    {
+      "id": "yt:video:lNgz8DGqDL0",
+      "title": "The Most Actionable Way to Improve Your Therapy",
+      "videoId": "lNgz8DGqDL0",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-12T22:01:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/lNgz8DGqDL0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:iB5simoqvm8",
       "title": "Healing Beam of Light Meditation for Energy, Warmth and Healing",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-21T17:00:27.000Z",
       "thumbnail": "https://i.ytimg.com/vi/J1HSUQ9R-_M/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Usz5rGgMyrs",
-      "title": "Thinking Patterns that Fuel Chronic Pain",
-      "videoId": "Usz5rGgMyrs",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-21T00:00:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Usz5rGgMyrs/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,25 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-13T18:31:02.530Z",
+  "generatedAt": "2026-03-14T01:19:32.289Z",
   "videos": [
+    {
+      "id": "yt:video:n_yAkI0kHRU",
+      "title": "What is Trauma Actually?",
+      "videoId": "n_yAkI0kHRU",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-13T22:00:52.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/n_yAkI0kHRU/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:8RhDmHTbAA8",
+      "title": "3 Nutrient Deficiencies that Look like Depression",
+      "videoId": "8RhDmHTbAA8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-13T20:00:07.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8RhDmHTbAA8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:lNgz8DGqDL0",
       "title": "The Most Actionable Way to Improve Your Therapy",
@@ -117,24 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-26T12:00:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/-TEjND_EesE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:rM2US9gtuTA",
-      "title": "Chronic Pain Messaging in the Brain",
-      "videoId": "rM2US9gtuTA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-24T17:01:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/rM2US9gtuTA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:J1HSUQ9R-_M",
-      "title": "Chronic Pain Management",
-      "videoId": "J1HSUQ9R-_M",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-21T17:00:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/J1HSUQ9R-_M/hqdefault.jpg",
       "tags": []
     }
   ],

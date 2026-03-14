@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-14T12:33:33.617Z",
+  "generatedAt": "2026-03-14T18:27:06.837Z",
   "videos": [
+    {
+      "id": "yt:video:FX2msz0r8Bg",
+      "title": "Chronic Pain Treatment",
+      "videoId": "FX2msz0r8Bg",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-14T16:00:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/FX2msz0r8Bg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:-wDc0xnhrvY",
       "title": "Why You Learned to Numb Out",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-28T23:00:50.000Z",
       "thumbnail": "https://i.ytimg.com/vi/h0aN9w9SY_E/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7QKenZM5Xew",
-      "title": "The Biggest Waste of Time in Therapy",
-      "videoId": "7QKenZM5Xew",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-28T17:00:18.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7QKenZM5Xew/hqdefault.jpg",
       "tags": []
     }
   ],

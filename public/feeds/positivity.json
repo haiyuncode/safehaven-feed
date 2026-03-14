@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-14T06:37:04.207Z",
+  "generatedAt": "2026-03-14T12:33:33.617Z",
   "videos": [
+    {
+      "id": "yt:video:-wDc0xnhrvY",
+      "title": "Why You Learned to Numb Out",
+      "videoId": "-wDc0xnhrvY",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-14T10:00:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-wDc0xnhrvY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:n_yAkI0kHRU",
       "title": "What is Trauma Actually?",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-02-28T17:00:18.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7QKenZM5Xew/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:-TEjND_EesE",
-      "title": "6 Keys to get WAY MORE out of Therapy",
-      "videoId": "-TEjND_EesE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-26T12:00:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/-TEjND_EesE/hqdefault.jpg",
       "tags": []
     }
   ],

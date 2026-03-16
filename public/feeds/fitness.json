@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-16T12:53:39.312Z",
+  "generatedAt": "2026-03-16T18:51:50.053Z",
   "videos": [
+    {
+      "id": "yt:video:08Hx0kp1CKE",
+      "title": "Left Hook technique to PREVENT injuries #boxing #mma #boxingtechnique",
+      "videoId": "08Hx0kp1CKE",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-16T15:46:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/08Hx0kp1CKE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:dGle-aT5VEw",
       "title": "Power Punches and Ploys Boxing Workout | Get full body FIT",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-01-31T17:15:41.000Z",
       "thumbnail": "https://i.ytimg.com/vi/8YTX-SPj9Ns/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:bC6WaL-VfQ0",
-      "title": "30-Minute Shadow Boxing Workout (Burn Fat & Build Power)",
-      "videoId": "bC6WaL-VfQ0",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-29T16:15:04.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/bC6WaL-VfQ0/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-16T12:53:37.532Z",
+  "generatedAt": "2026-03-16T18:51:48.447Z",
   "videos": [
+    {
+      "id": "yt:video:-yPK99GYhOM",
+      "title": "Breaking the Chronic Pain Cycle in Just 4 Weeks",
+      "videoId": "-yPK99GYhOM",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-16T16:00:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-yPK99GYhOM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:FX2msz0r8Bg",
       "title": "Chronic Pain Treatment",
@@ -127,18 +136,17 @@
       "publishedAt": "2026-03-01T11:01:11.000Z",
       "thumbnail": "https://i.ytimg.com/vi/olsFoC630Qk/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:h0aN9w9SY_E",
-      "title": "I Still Don’t Believe My Chronic Pain is Gone",
-      "videoId": "h0aN9w9SY_E",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-02-28T23:00:50.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/h0aN9w9SY_E/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/emotion-regulation-strategies/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-regulation-strategies",
+      "title": "Emotion Regulation Strategies: How to Choose What Works",
+      "url": "https://positivepsychology.com/emotion-regulation-strategies/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-regulation-strategies",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-03-16T10:00:07.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/conflict-repair-scripts/?utm_source=rss&utm_medium=rss&utm_campaign=conflict-repair-scripts",
       "title": "Conflict Repair Scripts That Preserve Connection",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/neuroscience-of-forgiveness/?utm_source=rss&utm_medium=rss&utm_campaign=neuroscience-of-forgiveness",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-02-25T10:00:33.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/yoga-for-seniors/?utm_source=rss&utm_medium=rss&utm_campaign=yoga-for-seniors",
-      "title": "Benefits of Gentle Yoga for Seniors",
-      "url": "https://positivepsychology.com/yoga-for-seniors/?utm_source=rss&utm_medium=rss&utm_campaign=yoga-for-seniors",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-02-24T10:00:05.000Z",
       "tags": []
     }
   ]

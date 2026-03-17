@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-17T06:54:49.276Z",
+  "generatedAt": "2026-03-17T12:52:55.158Z",
   "videos": [
     {
       "id": "yt:video:-yPK99GYhOM",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/practicelab-worksheets-vol2/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol2",
+      "title": "How PracticeLab Volume 2 Equips You for Client Challenges",
+      "url": "https://positivepsychology.com/practicelab-worksheets-vol2/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol2",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-03-17T10:00:20.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/emotion-regulation-strategies/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-regulation-strategies",
       "title": "Emotion Regulation Strategies: How to Choose What Works",
       "url": "https://positivepsychology.com/emotion-regulation-strategies/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-regulation-strategies",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-forgive/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-forgive",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-02-26T10:00:51.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/neuroscience-of-forgiveness/?utm_source=rss&utm_medium=rss&utm_campaign=neuroscience-of-forgiveness",
-      "title": "The Neuroscience of Forgiveness & 6 Common Barriers",
-      "url": "https://positivepsychology.com/neuroscience-of-forgiveness/?utm_source=rss&utm_medium=rss&utm_campaign=neuroscience-of-forgiveness",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-02-25T10:00:33.000Z",
       "tags": []
     }
   ]

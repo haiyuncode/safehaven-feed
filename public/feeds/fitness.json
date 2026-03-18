@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-17T18:51:23.065Z",
+  "generatedAt": "2026-03-18T01:27:01.109Z",
   "videos": [
+    {
+      "id": "yt:video:_Hp3-ZBsRo8",
+      "title": "Drill to Improve your right cross #boxing #mma",
+      "videoId": "_Hp3-ZBsRo8",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-17T19:23:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/_Hp3-ZBsRo8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:08Hx0kp1CKE",
       "title": "Left Hook technique to PREVENT injuries #boxing #mma #boxingtechnique",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-02-11T16:01:27.000Z",
       "thumbnail": "https://i.ytimg.com/vi/zeSjdkzDoeo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:8YTX-SPj9Ns",
-      "title": "Increase PUNCHING POWER Longevity #boxing",
-      "videoId": "8YTX-SPj9Ns",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-01-31T17:15:41.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/8YTX-SPj9Ns/hqdefault.jpg",
       "tags": []
     }
   ],

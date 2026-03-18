@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-18T12:53:10.847Z",
+  "generatedAt": "2026-03-18T18:49:51.417Z",
   "videos": [
+    {
+      "id": "yt:video:1lGXs_N5pf8",
+      "title": "Twist Your Right CROSS like this #boxing",
+      "videoId": "1lGXs_N5pf8",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-18T13:18:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/1lGXs_N5pf8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:_Hp3-ZBsRo8",
       "title": "Drill to Improve your right cross #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-02-13T18:09:59.000Z",
       "thumbnail": "https://i.ytimg.com/vi/WK81E6Kb0xo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:zeSjdkzDoeo",
-      "title": "20-Min Shadow Boxing Workout | Stay Lean and Melt Fat",
-      "videoId": "zeSjdkzDoeo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-02-11T16:01:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/zeSjdkzDoeo/hqdefault.jpg",
       "tags": []
     }
   ],

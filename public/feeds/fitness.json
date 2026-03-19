@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-19T12:43:57.294Z",
+  "generatedAt": "2026-03-19T18:44:57.245Z",
   "videos": [
+    {
+      "id": "yt:video:DdiFt58PsAg",
+      "title": "Why you should master the CROSS #boxing",
+      "videoId": "DdiFt58PsAg",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-19T14:45:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/DdiFt58PsAg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:1lGXs_N5pf8",
       "title": "Twist Your Right CROSS like this #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-02-17T16:00:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/JtSFPC22Tyw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:WK81E6Kb0xo",
-      "title": "I tried this on a TREADMILL  #olympics #challenge",
-      "videoId": "WK81E6Kb0xo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-02-13T18:09:59.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/WK81E6Kb0xo/hqdefault.jpg",
       "tags": []
     }
   ],

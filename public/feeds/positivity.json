@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-19T12:43:55.529Z",
+  "generatedAt": "2026-03-19T18:44:54.506Z",
   "videos": [
+    {
+      "id": "yt:video:QLgH5_mqX28",
+      "title": "How to Train yourself to be less Reactive or Impulsive",
+      "videoId": "QLgH5_mqX28",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-19T13:00:51.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/QLgH5_mqX28/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:k9zhyVWgD2U",
       "title": "With Trauma, the Wound is Relational",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-03T17:00:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/0TdluFvjBT8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:FRsPFIxYssE",
-      "title": "Connection as a Biological Imperative",
-      "videoId": "FRsPFIxYssE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-02T17:00:31.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/FRsPFIxYssE/hqdefault.jpg",
       "tags": []
     }
   ],

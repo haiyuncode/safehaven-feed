@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-20T12:39:59.557Z",
+  "generatedAt": "2026-03-20T18:37:03.944Z",
   "videos": [
+    {
+      "id": "yt:video:3mnA_j4oPww",
+      "title": "I do this for WE not just ME #boxing",
+      "videoId": "3mnA_j4oPww",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-20T16:42:42.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/3mnA_j4oPww/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:DdiFt58PsAg",
       "title": "Why your CROSS is Powerful #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-02-19T15:15:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/XMlz_omeIpA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:JtSFPC22Tyw",
-      "title": "Learn Real Boxing Combos the Right Way (Beginner Guide)- Day 1",
-      "videoId": "JtSFPC22Tyw",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-02-17T16:00:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/JtSFPC22Tyw/hqdefault.jpg",
       "tags": []
     }
   ],

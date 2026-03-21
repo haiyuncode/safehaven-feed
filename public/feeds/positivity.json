@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-21T12:32:11.358Z",
+  "generatedAt": "2026-03-21T18:25:50.052Z",
   "videos": [
+    {
+      "id": "yt:video:5sXLf6HBOsA",
+      "title": "Exploring Chronic Pain",
+      "videoId": "5sXLf6HBOsA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-21T16:00:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/5sXLf6HBOsA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ikATeccWY6U",
       "title": "How to Actually Change",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-07T23:01:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/qAAukTX5VO4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:kF4JN-8Wr5Y",
-      "title": "Hormone Imbalances That Look Like Depression",
-      "videoId": "kF4JN-8Wr5Y",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-07T17:00:58.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/kF4JN-8Wr5Y/hqdefault.jpg",
       "tags": []
     }
   ],

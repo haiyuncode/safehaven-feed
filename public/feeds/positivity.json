@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-20T18:37:02.638Z",
+  "generatedAt": "2026-03-21T01:17:31.364Z",
   "videos": [
+    {
+      "id": "yt:video:ikATeccWY6U",
+      "title": "How to Actually Change",
+      "videoId": "ikATeccWY6U",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-20T22:00:49.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ikATeccWY6U/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:vhgiO9sxDdc",
       "title": "What to Do with Triggers",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-07T17:00:58.000Z",
       "thumbnail": "https://i.ytimg.com/vi/kF4JN-8Wr5Y/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:4NSbDnfHP-o",
-      "title": "Hidden Medical Issues That Mimic Depression & Anxiety",
-      "videoId": "4NSbDnfHP-o",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-05T14:00:14.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/4NSbDnfHP-o/hqdefault.jpg",
       "tags": []
     }
   ],

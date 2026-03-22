@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-22T12:33:48.010Z",
+  "generatedAt": "2026-03-22T18:26:36.312Z",
   "videos": [
+    {
+      "id": "yt:video:ROHuTvoZIjU",
+      "title": "The Fawn State",
+      "videoId": "ROHuTvoZIjU",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-22T16:00:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ROHuTvoZIjU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:5sXLf6HBOsA",
       "title": "Exploring Chronic Pain",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-08T10:00:05.000Z",
       "thumbnail": "https://i.ytimg.com/vi/17z_nTj0pu0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:qAAukTX5VO4",
-      "title": "The Devastating Impact of Insomnia on Mood",
-      "videoId": "qAAukTX5VO4",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-07T23:01:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/qAAukTX5VO4/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-22T12:33:49.188Z",
+  "generatedAt": "2026-03-22T18:26:37.492Z",
   "videos": [
+    {
+      "id": "yt:video:noMQgs1A8Eo",
+      "title": "Advanced RIGHT CROSS Position #mma #Boxing",
+      "videoId": "noMQgs1A8Eo",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-22T16:34:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/noMQgs1A8Eo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:fkUeMWa7pCI",
       "title": "Tuck your CHIN | How to absorb a punch #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-02-26T15:01:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/oqR4h1QA074/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:9Yzke26tOXU",
-      "title": "Intense Shadow Boxing Sweat Session (No Equipment) | shadow Boxing footwork | Intense Combos",
-      "videoId": "9Yzke26tOXU",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-02-24T15:45:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/9Yzke26tOXU/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-03-22T12:33:48.862Z",
+  "generatedAt": "2026-03-22T18:26:37.169Z",
   "videos": [
+    {
+      "id": "yt:video:QifaKcWVulM",
+      "title": "A special announcement from Dr. Ramani!",
+      "videoId": "QifaKcWVulM",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-03-22T15:00:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/QifaKcWVulM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:vTX2QPADch4",
       "title": "Is Going No Contact with a Narcissist Really “Avoidance”?",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-02-23T16:00:41.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ScNKF0BzJgo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:oa2KNl5hBXY",
-      "title": "Why Does a Narcissist Bring Up Your Most Humiliating Moments?",
-      "videoId": "oa2KNl5hBXY",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-02-20T16:01:11.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/oa2KNl5hBXY/hqdefault.jpg",
       "tags": []
     },
     {

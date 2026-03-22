@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-21T18:25:51.096Z",
+  "generatedAt": "2026-03-22T01:27:05.307Z",
   "videos": [
+    {
+      "id": "yt:video:fkUeMWa7pCI",
+      "title": "Tuck your CHIN | How to absorb a punch #boxing",
+      "videoId": "fkUeMWa7pCI",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-21T22:53:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fkUeMWa7pCI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:3mnA_j4oPww",
       "title": "I do this for WE not just ME #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-02-24T15:45:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/9Yzke26tOXU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:XMlz_omeIpA",
-      "title": "Drill 5 KNOCKOUT Combos | POWER PUNCHER techniques",
-      "videoId": "XMlz_omeIpA",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-02-19T15:15:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/XMlz_omeIpA/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-03-23T12:47:54.592Z",
+  "generatedAt": "2026-03-23T18:41:58.409Z",
   "videos": [
+    {
+      "id": "yt:video:G9_qZvLQL9E",
+      "title": "The Death of Straightforwardness in Narcissistic Relationships",
+      "videoId": "G9_qZvLQL9E",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-03-23T15:00:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/G9_qZvLQL9E/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:QifaKcWVulM",
       "title": "A special announcement from Dr. Ramani!",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-02-25T16:01:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/dUE03Dgdrv8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ScNKF0BzJgo",
-      "title": "Do Narcissistic People Have a Fawn Response?",
-      "videoId": "ScNKF0BzJgo",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-02-23T16:00:41.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ScNKF0BzJgo/hqdefault.jpg",
       "tags": []
     },
     {

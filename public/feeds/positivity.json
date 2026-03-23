@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-23T12:47:52.295Z",
+  "generatedAt": "2026-03-23T18:41:57.148Z",
   "videos": [
+    {
+      "id": "yt:video:m-JN4jydMVQ",
+      "title": "How Trauma Makes us Reactive",
+      "videoId": "m-JN4jydMVQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-23T16:01:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/m-JN4jydMVQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ROHuTvoZIjU",
       "title": "The Fawn State",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-12T11:01:15.000Z",
       "thumbnail": "https://i.ytimg.com/vi/iB5simoqvm8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:17z_nTj0pu0",
-      "title": "Medications That Cause Depression",
-      "videoId": "17z_nTj0pu0",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-08T10:00:05.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/17z_nTj0pu0/hqdefault.jpg",
       "tags": []
     }
   ],

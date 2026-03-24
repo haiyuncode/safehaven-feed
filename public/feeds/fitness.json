@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-23T18:41:58.765Z",
+  "generatedAt": "2026-03-24T01:21:07.520Z",
   "videos": [
+    {
+      "id": "yt:video:BV2hU-PFiU8",
+      "title": "How to Land Body to Head Hooks inside #boxing #mma",
+      "videoId": "BV2hU-PFiU8",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-23T21:29:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/BV2hU-PFiU8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:noMQgs1A8Eo",
       "title": "Advanced RIGHT CROSS Position #mma #Boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-02-28T17:19:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/2Qd48FRuMdY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:oqR4h1QA074",
-      "title": "12 Minute Heavy Bag Workout | boxing footwork with punches",
-      "videoId": "oqR4h1QA074",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-02-26T15:01:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/oqR4h1QA074/hqdefault.jpg",
       "tags": []
     }
   ],

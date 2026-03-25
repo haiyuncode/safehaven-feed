@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-25T12:51:14.763Z",
+  "generatedAt": "2026-03-25T18:45:35.395Z",
   "videos": [
+    {
+      "id": "yt:video:29Mtl2yxjWY",
+      "title": "Get fit faster | 10 Minute Interval Boxing workout",
+      "videoId": "29Mtl2yxjWY",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-25T14:45:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/29Mtl2yxjWY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:kB9f6A_Edlk",
       "title": "Boxing SPEED, POWER or ACCURACY? #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-05T17:00:55.000Z",
       "thumbnail": "https://i.ytimg.com/vi/_C12rSR0KJE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:WTeAk5X9W7U",
-      "title": "Master Uppercuts: Why You Must Scrape the Bag!",
-      "videoId": "WTeAk5X9W7U",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-02T20:15:20.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/WTeAk5X9W7U/hqdefault.jpg",
       "tags": []
     }
   ],

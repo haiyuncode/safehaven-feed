@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-25T12:51:12.600Z",
+  "generatedAt": "2026-03-25T18:45:33.632Z",
   "videos": [
+    {
+      "id": "yt:video:Q_QZG612KkA",
+      "title": "How Neglect Changes the Brain",
+      "videoId": "Q_QZG612KkA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-25T16:00:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Q_QZG612KkA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:QbwiVvvRvXE",
       "title": "Getting Stuck in a Trauma Cycle",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-13T20:00:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/8RhDmHTbAA8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:lNgz8DGqDL0",
-      "title": "The Most Actionable Way to Improve Your Therapy",
-      "videoId": "lNgz8DGqDL0",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-12T22:01:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/lNgz8DGqDL0/hqdefault.jpg",
       "tags": []
     }
   ],

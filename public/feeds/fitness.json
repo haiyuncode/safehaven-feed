@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-24T18:52:20.628Z",
+  "generatedAt": "2026-03-25T01:25:31.555Z",
   "videos": [
+    {
+      "id": "yt:video:kB9f6A_Edlk",
+      "title": "Boxing SPEED, POWER or ACCURACY? #boxing #mma",
+      "videoId": "kB9f6A_Edlk",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-24T20:01:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/kB9f6A_Edlk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:BV2hU-PFiU8",
       "title": "How to Land Body to Head Hooks inside #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-02T20:15:20.000Z",
       "thumbnail": "https://i.ytimg.com/vi/WTeAk5X9W7U/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:2Qd48FRuMdY",
-      "title": "Footwork for attack speed #boxing #mma footwork",
-      "videoId": "2Qd48FRuMdY",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-02-28T17:19:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/2Qd48FRuMdY/hqdefault.jpg",
       "tags": []
     }
   ],

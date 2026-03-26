@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-26T06:59:06.989Z",
+  "generatedAt": "2026-03-26T12:56:46.644Z",
   "videos": [
+    {
+      "id": "yt:video:B8XW3UGXeOs",
+      "title": "Social Anxiety Skills That Actually Help w/  Dr.  Deborah Dobson",
+      "videoId": "B8XW3UGXeOs",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-26T12:12:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/B8XW3UGXeOs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Q_QZG612KkA",
       "title": "How Neglect Changes the Brain",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-13T22:00:52.000Z",
       "thumbnail": "https://i.ytimg.com/vi/n_yAkI0kHRU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:8RhDmHTbAA8",
-      "title": "3 Nutrient Deficiencies that Look like Depression",
-      "videoId": "8RhDmHTbAA8",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-13T20:00:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/8RhDmHTbAA8/hqdefault.jpg",
       "tags": []
     }
   ],

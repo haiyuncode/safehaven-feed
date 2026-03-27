@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-27T12:44:58.975Z",
+  "generatedAt": "2026-03-27T18:45:42.356Z",
   "videos": [
+    {
+      "id": "yt:video:YT57pwFCiaU",
+      "title": "Why Your Rear HOOK feels tight #boxing #mma",
+      "videoId": "YT57pwFCiaU",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-27T16:24:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/YT57pwFCiaU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:29Mtl2yxjWY",
       "title": "Get fit faster | 10 Minute Interval Boxing workout",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-09T12:15:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/i-CJIRWd2co/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:_C12rSR0KJE",
-      "title": "Boxing Combos You Need to Master - Learn to box faster - Olympic-Level",
-      "videoId": "_C12rSR0KJE",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-05T17:00:55.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/_C12rSR0KJE/hqdefault.jpg",
       "tags": []
     }
   ],

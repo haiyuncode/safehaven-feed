@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-28T12:36:44.849Z",
+  "generatedAt": "2026-03-28T18:29:49.516Z",
   "videos": [
+    {
+      "id": "yt:video:UKaFzji9uf8",
+      "title": "You Don’t Have to Believe Your Thoughts",
+      "videoId": "UKaFzji9uf8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-28T16:00:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/UKaFzji9uf8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:T7m_oKFEQyI",
       "title": "The Secret Fuel of Social Anxiety",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-16T16:00:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/-yPK99GYhOM/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:FX2msz0r8Bg",
-      "title": "Chronic Pain Treatment",
-      "videoId": "FX2msz0r8Bg",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-14T16:00:21.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/FX2msz0r8Bg/hqdefault.jpg",
       "tags": []
     }
   ],

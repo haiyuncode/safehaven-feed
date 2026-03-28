@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-28T06:49:38.108Z",
+  "generatedAt": "2026-03-28T12:36:44.849Z",
   "videos": [
+    {
+      "id": "yt:video:T7m_oKFEQyI",
+      "title": "The Secret Fuel of Social Anxiety",
+      "videoId": "T7m_oKFEQyI",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-28T10:01:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/T7m_oKFEQyI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:vrvAC2zzSxk",
       "title": "You're Not going to Make Me Do Exposure Therapy, are You?",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-14T16:00:21.000Z",
       "thumbnail": "https://i.ytimg.com/vi/FX2msz0r8Bg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:-wDc0xnhrvY",
-      "title": "Why You Learned to Numb Out",
-      "videoId": "-wDc0xnhrvY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-14T10:00:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/-wDc0xnhrvY/hqdefault.jpg",
       "tags": []
     }
   ],

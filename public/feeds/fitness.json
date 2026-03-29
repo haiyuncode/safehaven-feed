@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-29T12:37:30.410Z",
+  "generatedAt": "2026-03-29T18:30:54.345Z",
   "videos": [
+    {
+      "id": "yt:video:CFvJkry-LOE",
+      "title": "WHY Your PUNCH accuracy matters #boxing #mma",
+      "videoId": "CFvJkry-LOE",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-29T14:37:56.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CFvJkry-LOE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:YT57pwFCiaU",
       "title": "Why Your Rear HOOK feels tight #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-10T17:53:58.000Z",
       "thumbnail": "https://i.ytimg.com/vi/eztWGOTXgfY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:i-CJIRWd2co",
-      "title": "Level Up Shadow BOXING HIIT Workout - Follow along Boxing Shred",
-      "videoId": "i-CJIRWd2co",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-09T12:15:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/i-CJIRWd2co/hqdefault.jpg",
       "tags": []
     }
   ],

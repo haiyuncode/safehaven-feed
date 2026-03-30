@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-30T07:17:35.537Z",
+  "generatedAt": "2026-03-30T13:00:27.775Z",
   "videos": [
     {
       "id": "yt:video:1iAMtXYr9DA",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/resilience-group-curriculum/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-group-curriculum",
+      "title": "6-Week Resilience Group Curriculum for Practitioners",
+      "url": "https://positivepsychology.com/resilience-group-curriculum/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-group-curriculum",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-03-30T09:00:10.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/impostor-syndrome-and-self-esteem/?utm_source=rss&utm_medium=rss&utm_campaign=impostor-syndrome-and-self-esteem",
       "title": "Impostor Syndrome and Self-Esteem: How They Relate",
       "url": "https://positivepsychology.com/impostor-syndrome-and-self-esteem/?utm_source=rss&utm_medium=rss&utm_campaign=impostor-syndrome-and-self-esteem",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/conflict-repair-scripts/?utm_source=rss&utm_medium=rss&utm_campaign=conflict-repair-scripts",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-03-12T10:00:36.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/difficult-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=difficult-conversations",
-      "title": "How to De-Escalate Difficult Conversations",
-      "url": "https://positivepsychology.com/difficult-conversations/?utm_source=rss&utm_medium=rss&utm_campaign=difficult-conversations",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-03-11T10:00:50.000Z",
       "tags": []
     }
   ]

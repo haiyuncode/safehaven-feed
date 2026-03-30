@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-03-30T13:00:28.874Z",
+  "generatedAt": "2026-03-30T18:51:01.803Z",
   "videos": [
+    {
+      "id": "yt:video:sgWNvXeAh2k",
+      "title": "The Accountability Test for Narcissism",
+      "videoId": "sgWNvXeAh2k",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-03-30T15:01:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/sgWNvXeAh2k/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:rQspLCv-XTw",
       "title": "Sane Washing Narcissistic Behavior",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-08T15:00:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/3mVJdKsPURc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:vzvl8Wwfbl8",
-      "title": "How Narcissists Seem Empathic at First",
-      "videoId": "vzvl8Wwfbl8",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-06T16:01:34.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/vzvl8Wwfbl8/hqdefault.jpg",
       "tags": []
     },
     {

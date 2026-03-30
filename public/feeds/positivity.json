@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-30T13:00:27.775Z",
+  "generatedAt": "2026-03-30T18:51:00.376Z",
   "videos": [
+    {
+      "id": "yt:video:fsXF0WinEa0",
+      "title": "How to Get Out of Freeze",
+      "videoId": "fsXF0WinEa0",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-30T16:00:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fsXF0WinEa0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:1iAMtXYr9DA",
       "title": "Dealing with Physical Symptoms of Anxiety",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-18T16:01:18.000Z",
       "thumbnail": "https://i.ytimg.com/vi/k9zhyVWgD2U/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:epwq6llJilw",
-      "title": "Rewire Chronic Pain",
-      "videoId": "epwq6llJilw",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-17T16:00:57.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/epwq6llJilw/hqdefault.jpg",
       "tags": []
     }
   ],

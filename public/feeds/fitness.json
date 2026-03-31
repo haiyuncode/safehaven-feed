@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-03-30T18:51:02.334Z",
+  "generatedAt": "2026-03-31T01:46:12.716Z",
   "videos": [
+    {
+      "id": "yt:video:HtfnV3pHZyk",
+      "title": "Rear Overhand vs Rear HOOK #boxing",
+      "videoId": "HtfnV3pHZyk",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-03-30T21:32:22.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HtfnV3pHZyk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:CFvJkry-LOE",
       "title": "WHY Your PUNCH accuracy matters #boxing #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-11T18:59:59.000Z",
       "thumbnail": "https://i.ytimg.com/vi/REB7L3VFHKU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:eztWGOTXgfY",
-      "title": "Outside attack Boxing footwork #boxing #mma",
-      "videoId": "eztWGOTXgfY",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-10T17:53:58.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/eztWGOTXgfY/hqdefault.jpg",
       "tags": []
     }
   ],

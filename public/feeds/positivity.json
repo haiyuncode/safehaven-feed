@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-03-31T12:58:55.686Z",
+  "generatedAt": "2026-03-31T18:51:36.821Z",
   "videos": [
+    {
+      "id": "yt:video:oni4xBdx4rk",
+      "title": "You Can’t Just Try Harder to Be Less Reactive",
+      "videoId": "oni4xBdx4rk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-03-31T16:01:01.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/oni4xBdx4rk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:fsXF0WinEa0",
       "title": "How to Get Out of Freeze",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-19T13:00:51.000Z",
       "thumbnail": "https://i.ytimg.com/vi/QLgH5_mqX28/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:k9zhyVWgD2U",
-      "title": "With Trauma, the Wound is Relational",
-      "videoId": "k9zhyVWgD2U",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-18T16:01:18.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/k9zhyVWgD2U/hqdefault.jpg",
       "tags": []
     }
   ],

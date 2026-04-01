@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-01T13:01:19.990Z",
+  "generatedAt": "2026-04-01T18:50:34.865Z",
   "videos": [
+    {
+      "id": "yt:video:2uva0UzBns4",
+      "title": "What It Really Feels Like to Love a Narcissist",
+      "videoId": "2uva0UzBns4",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-01T15:00:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/2uva0UzBns4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:sgWNvXeAh2k",
       "title": "The Accountability Test for Narcissism",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-09T15:00:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/AvnqANARM1I/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:3mVJdKsPURc",
-      "title": "Dr. Ramani talks to Jay Manuel about the ANTM docuseries",
-      "videoId": "3mVJdKsPURc",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-08T15:00:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/3mVJdKsPURc/hqdefault.jpg",
       "tags": []
     },
     {

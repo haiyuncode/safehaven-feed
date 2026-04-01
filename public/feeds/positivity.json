@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-01T07:10:48.529Z",
+  "generatedAt": "2026-04-01T13:01:19.085Z",
   "videos": [
     {
       "id": "yt:video:oni4xBdx4rk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/recognition-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=recognition-at-work",
+      "title": "Recognition at Work & How to Ask for Feedback",
+      "url": "https://positivepsychology.com/recognition-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=recognition-at-work",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-04-01T09:00:43.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/resilience-group-curriculum/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-group-curriculum",
       "title": "6-Week Resilience Group Curriculum for Practitioners",
       "url": "https://positivepsychology.com/resilience-group-curriculum/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-group-curriculum",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/emotion-regulation-strategies/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-regulation-strategies",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-03-16T10:00:07.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/conflict-repair-scripts/?utm_source=rss&utm_medium=rss&utm_campaign=conflict-repair-scripts",
-      "title": "Conflict Repair Scripts That Preserve Connection",
-      "url": "https://positivepsychology.com/conflict-repair-scripts/?utm_source=rss&utm_medium=rss&utm_campaign=conflict-repair-scripts",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-03-12T10:00:36.000Z",
       "tags": []
     }
   ]

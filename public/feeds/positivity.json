@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-02T12:54:43.685Z",
+  "generatedAt": "2026-04-02T18:44:22.709Z",
   "videos": [
+    {
+      "id": "yt:video:H-LGg14XiXc",
+      "title": "3 Essential Strategies for Managing Burnout for Modern Knowledge Workers",
+      "videoId": "H-LGg14XiXc",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-02T13:00:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/H-LGg14XiXc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:gpI8fA2ZTpI",
       "title": "Medical Trauma is Re-Traumatizing",
@@ -127,18 +136,17 @@
       "publishedAt": "2026-03-20T22:00:49.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ikATeccWY6U/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:vhgiO9sxDdc",
-      "title": "What to Do with Triggers",
-      "videoId": "vhgiO9sxDdc",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-20T18:00:56.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/vhgiO9sxDdc/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/identity-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=identity-at-work",
+      "title": "Your Identity at Work: Why It Matters & How It Changes",
+      "url": "https://positivepsychology.com/identity-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=identity-at-work",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-04-02T09:00:24.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/recognition-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=recognition-at-work",
       "title": "Recognition at Work & How to Ask for Feedback",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/practicelab-worksheets-vol2/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol2",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-03-17T10:00:20.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/emotion-regulation-strategies/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-regulation-strategies",
-      "title": "Emotion Regulation Strategies: How to Choose What Works",
-      "url": "https://positivepsychology.com/emotion-regulation-strategies/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-regulation-strategies",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-03-16T10:00:07.000Z",
       "tags": []
     }
   ]

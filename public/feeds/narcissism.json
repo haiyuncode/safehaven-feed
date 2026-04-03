@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-03T12:44:32.076Z",
+  "generatedAt": "2026-04-03T18:36:47.225Z",
   "videos": [
+    {
+      "id": "yt:video:Tu3D8R9WfG8",
+      "title": "Narcissists and the Myth of Compromise",
+      "videoId": "Tu3D8R9WfG8",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-03T15:00:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Tu3D8R9WfG8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:2uva0UzBns4",
       "title": "What It Really Feels Like to Love a Narcissist",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-11T15:01:56.000Z",
       "thumbnail": "https://i.ytimg.com/vi/xkGS1WQxCjA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:AvnqANARM1I",
-      "title": "Successful vs. Unsuccessful Narcissists: What’s the Difference?",
-      "videoId": "AvnqANARM1I",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-09T15:00:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/AvnqANARM1I/hqdefault.jpg",
       "tags": []
     },
     {

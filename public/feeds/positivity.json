@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-03T12:44:30.961Z",
+  "generatedAt": "2026-04-03T18:36:46.115Z",
   "videos": [
+    {
+      "id": "yt:video:NGr1f5io0Lo",
+      "title": "CPTSD and Relational Reactivity",
+      "videoId": "NGr1f5io0Lo",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-03T16:00:38.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/NGr1f5io0Lo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:H-LGg14XiXc",
       "title": "3 Essential Strategies for Managing Burnout for Modern Knowledge Workers",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-21T16:00:12.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5sXLf6HBOsA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ikATeccWY6U",
-      "title": "How to Actually Change",
-      "videoId": "ikATeccWY6U",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-20T22:00:49.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ikATeccWY6U/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-04T12:37:18.282Z",
+  "generatedAt": "2026-04-04T18:30:47.349Z",
   "videos": [
+    {
+      "id": "yt:video:wrjbfstdtmE",
+      "title": "What does LOVE have to do with narcissistic relationships?",
+      "videoId": "wrjbfstdtmE",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-04T15:01:37.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wrjbfstdtmE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Tu3D8R9WfG8",
       "title": "Narcissists and the Myth of Compromise",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-13T15:01:25.000Z",
       "thumbnail": "https://i.ytimg.com/vi/nUEa5iVcSJU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:xkGS1WQxCjA",
-      "title": "The Narcissistic Parent Injury",
-      "videoId": "xkGS1WQxCjA",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-11T15:01:56.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/xkGS1WQxCjA/hqdefault.jpg",
       "tags": []
     },
     {

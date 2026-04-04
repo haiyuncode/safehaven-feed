@@ -1,7 +1,25 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-04-04T12:37:18.654Z",
+  "generatedAt": "2026-04-04T18:30:47.930Z",
   "videos": [
+    {
+      "id": "yt:video:pfyQz-9c8kg",
+      "title": "Fat Loss PUNCHING BAG BOXING Workout",
+      "videoId": "pfyQz-9c8kg",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-04-04T16:01:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/pfyQz-9c8kg/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:t3oeG1sR9a4",
+      "title": "Sounds of Boxing | Shadow boxing and heavy bag movement #boxing #mma",
+      "videoId": "t3oeG1sR9a4",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-04-04T13:47:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/t3oeG1sR9a4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:HtfnV3pHZyk",
       "title": "Rear Overhand vs Rear HOOK #boxing",
@@ -117,24 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-16T15:46:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/08Hx0kp1CKE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:dGle-aT5VEw",
-      "title": "Power Punches and Plyo's Boxing Workout | Get full body FIT",
-      "videoId": "dGle-aT5VEw",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-15T16:50:15.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/dGle-aT5VEw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:REB7L3VFHKU",
-      "title": "Effective Feint footwork speed #boxing",
-      "videoId": "REB7L3VFHKU",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-11T18:59:59.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/REB7L3VFHKU/hqdefault.jpg",
       "tags": []
     }
   ],

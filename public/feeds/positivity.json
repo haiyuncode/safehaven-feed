@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-05T12:39:39.465Z",
+  "generatedAt": "2026-04-05T18:32:34.303Z",
   "videos": [
+    {
+      "id": "yt:video:ka7um66uT0I",
+      "title": "PTSD Can Seem to Come Out of the Blue",
+      "videoId": "ka7um66uT0I",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-05T16:01:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ka7um66uT0I/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:TU1-WrlBxHM",
       "title": "What is Anxious Attachment",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-23T16:01:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/m-JN4jydMVQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ROHuTvoZIjU",
-      "title": "The Fawn State",
-      "videoId": "ROHuTvoZIjU",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-22T16:00:39.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ROHuTvoZIjU/hqdefault.jpg",
       "tags": []
     }
   ],

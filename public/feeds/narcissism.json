@@ -1,6 +1,6 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-06T18:46:09.250Z",
+  "generatedAt": "2026-04-07T01:46:42.386Z",
   "videos": [
     {
       "id": "yt:video:GTRToaWdWPQ",
@@ -9,15 +9,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-04-06T15:00:22.000Z",
       "thumbnail": "https://i.ytimg.com/vi/GTRToaWdWPQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:wrjbfstdtmE",
-      "title": "What does LOVE have to do with narcissistic relationships?",
-      "videoId": "wrjbfstdtmE",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-04-04T15:01:37.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/wrjbfstdtmE/hqdefault.jpg",
       "tags": []
     },
     {
@@ -135,6 +126,15 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-15T15:00:35.000Z",
       "thumbnail": "https://i.ytimg.com/vi/KeT82CS2PbM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:nUEa5iVcSJU",
+      "title": "Dr. Gabor Maté’s Wisdom about Radical Acceptance in Narcissistic Relationships",
+      "videoId": "nUEa5iVcSJU",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-03-13T15:01:25.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/nUEa5iVcSJU/hqdefault.jpg",
       "tags": []
     },
     {

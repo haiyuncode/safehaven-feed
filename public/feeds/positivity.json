@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-07T13:03:02.413Z",
+  "generatedAt": "2026-04-07T18:52:54.945Z",
   "videos": [
+    {
+      "id": "yt:video:-NXvKkiM45I",
+      "title": "Routine Cleaning Triggers PTSD",
+      "videoId": "-NXvKkiM45I",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-07T16:00:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-NXvKkiM45I/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:gMV2ZhM6aBA",
       "title": "How to Trick Your Brain into Actually Changing",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-25T16:00:39.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Q_QZG612KkA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:QbwiVvvRvXE",
-      "title": "Getting Stuck in a Trauma Cycle",
-      "videoId": "QbwiVvvRvXE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-24T16:00:45.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/QbwiVvvRvXE/hqdefault.jpg",
       "tags": []
     }
   ],

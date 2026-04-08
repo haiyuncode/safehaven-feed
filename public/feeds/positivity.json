@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-08T13:04:24.020Z",
+  "generatedAt": "2026-04-08T19:04:55.494Z",
   "videos": [
+    {
+      "id": "yt:video:Yf0THNUw_qU",
+      "title": "Gradual Exposure of PTSD Sensations",
+      "videoId": "Yf0THNUw_qU",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-08T16:00:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Yf0THNUw_qU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:-NXvKkiM45I",
       "title": "Routine Cleaning Triggers PTSD",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-26T12:12:35.000Z",
       "thumbnail": "https://i.ytimg.com/vi/B8XW3UGXeOs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Q_QZG612KkA",
-      "title": "How Neglect Changes the Brain",
-      "videoId": "Q_QZG612KkA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-25T16:00:39.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Q_QZG612KkA/hqdefault.jpg",
       "tags": []
     }
   ],

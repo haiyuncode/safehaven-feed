@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-04-09T13:04:56.439Z",
+  "generatedAt": "2026-04-09T18:52:55.904Z",
   "videos": [
+    {
+      "id": "yt:video:Yq4mOLFwjwo",
+      "title": "Perfect PACE - 10 Minute Heavy Bag Workout - Beginner to intermediate",
+      "videoId": "Yq4mOLFwjwo",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-04-09T15:01:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Yq4mOLFwjwo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:pfyQz-9c8kg",
       "title": "Fat Loss PUNCHING BAG BOXING Workout",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-17T19:23:15.000Z",
       "thumbnail": "https://i.ytimg.com/vi/_Hp3-ZBsRo8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:08Hx0kp1CKE",
-      "title": "Left Hook technique to PREVENT injuries #boxing #mma #boxingtechnique",
-      "videoId": "08Hx0kp1CKE",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-16T15:46:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/08Hx0kp1CKE/hqdefault.jpg",
       "tags": []
     }
   ],

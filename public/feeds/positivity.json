@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-09T07:12:33.090Z",
+  "generatedAt": "2026-04-09T13:04:54.262Z",
   "videos": [
     {
       "id": "yt:video:Yf0THNUw_qU",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/heal-your-attachment-style/?utm_source=rss&utm_medium=rss&utm_campaign=heal-your-attachment-style",
+      "title": "10 Tips to Heal Your Attachment Style",
+      "url": "https://positivepsychology.com/heal-your-attachment-style/?utm_source=rss&utm_medium=rss&utm_campaign=heal-your-attachment-style",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-04-09T09:00:24.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/anxious-avoidant-loop/?utm_source=rss&utm_medium=rss&utm_campaign=anxious-avoidant-loop",
       "title": "How Couples Can Overcome the Anxious–Avoidant Loop",
       "url": "https://positivepsychology.com/anxious-avoidant-loop/?utm_source=rss&utm_medium=rss&utm_campaign=anxious-avoidant-loop",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/healthy-vs-fragile-self-esteem/?utm_source=rss&utm_medium=rss&utm_campaign=healthy-vs-fragile-self-esteem",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-03-23T10:00:06.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/mindfulness-for-sleep/?utm_source=rss&utm_medium=rss&utm_campaign=mindfulness-for-sleep",
-      "title": "Mindfulness for Sleep: When Your Mind Won’t Slow Down",
-      "url": "https://positivepsychology.com/mindfulness-for-sleep/?utm_source=rss&utm_medium=rss&utm_campaign=mindfulness-for-sleep",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-03-19T10:00:21.000Z",
       "tags": []
     }
   ]

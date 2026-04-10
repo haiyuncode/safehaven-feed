@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-10T12:52:54.926Z",
+  "generatedAt": "2026-04-10T18:41:04.892Z",
   "videos": [
+    {
+      "id": "yt:video:I6eCau9qxZs",
+      "title": "These Are Your Options in a Narcissistic Relationship",
+      "videoId": "I6eCau9qxZs",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-10T15:00:36.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/I6eCau9qxZs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:G1g5nCPf5a4",
       "title": "Self-Care Recovery after a Narcissistic Relationship",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-16T15:01:33.000Z",
       "thumbnail": "https://i.ytimg.com/vi/txpMoxv82hk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:KeT82CS2PbM",
-      "title": "What REALLY happened in that room?",
-      "videoId": "KeT82CS2PbM",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-15T15:00:35.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KeT82CS2PbM/hqdefault.jpg",
       "tags": []
     },
     {

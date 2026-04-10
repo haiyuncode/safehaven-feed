@@ -1,7 +1,25 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-10T12:52:53.923Z",
+  "generatedAt": "2026-04-10T18:41:03.983Z",
   "videos": [
+    {
+      "id": "yt:video:NxXz3T-jPpo",
+      "title": "Self Help Won’t Heal You",
+      "videoId": "NxXz3T-jPpo",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-10T16:00:45.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/NxXz3T-jPpo/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:HtRApNGfw9Y",
+      "title": "Love Vs Attunement",
+      "videoId": "HtRApNGfw9Y",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-10T16:00:36.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HtRApNGfw9Y/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:a_ZlNKDWRwE",
       "title": "How to Heal Attachment Wounds - Anxious or Avoidant Attachment Styles w/ Jessica Baum",
@@ -117,24 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-28T16:00:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/UKaFzji9uf8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:T7m_oKFEQyI",
-      "title": "The Secret Fuel of Social Anxiety",
-      "videoId": "T7m_oKFEQyI",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-28T10:01:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/T7m_oKFEQyI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:vrvAC2zzSxk",
-      "title": "You're Not going to Make Me Do Exposure Therapy, are You?",
-      "videoId": "vrvAC2zzSxk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-27T16:01:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/vrvAC2zzSxk/hqdefault.jpg",
       "tags": []
     }
   ],

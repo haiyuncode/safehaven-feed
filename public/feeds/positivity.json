@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-11T12:38:58.797Z",
+  "generatedAt": "2026-04-11T18:33:07.098Z",
   "videos": [
+    {
+      "id": "yt:video:csD_sUN-9qE",
+      "title": "Is Anxiety Causing Your Burnout?",
+      "videoId": "csD_sUN-9qE",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-11T16:01:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/csD_sUN-9qE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:BkZe1voC7DQ",
       "title": "Loving Kids Isn’t Enough",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-30T16:00:59.000Z",
       "thumbnail": "https://i.ytimg.com/vi/fsXF0WinEa0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:1iAMtXYr9DA",
-      "title": "Dealing with Physical Symptoms of Anxiety",
-      "videoId": "1iAMtXYr9DA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-29T16:00:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/1iAMtXYr9DA/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-12T07:05:12.511Z",
+  "generatedAt": "2026-04-12T12:42:53.768Z",
   "videos": [
+    {
+      "id": "yt:video:iwdUG1_u5lo",
+      "title": "The Secret Fuel of Burnout",
+      "videoId": "iwdUG1_u5lo",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-12T10:01:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/iwdUG1_u5lo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:csD_sUN-9qE",
       "title": "Is Anxiety Causing Your Burnout?",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-03-31T16:01:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/oni4xBdx4rk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:fsXF0WinEa0",
-      "title": "How to Get Out of Freeze",
-      "videoId": "fsXF0WinEa0",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-03-30T16:00:59.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/fsXF0WinEa0/hqdefault.jpg",
       "tags": []
     }
   ],

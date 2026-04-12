@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-12T12:42:55.865Z",
+  "generatedAt": "2026-04-12T18:36:30.214Z",
   "videos": [
+    {
+      "id": "yt:video:r0DgFGwq3yU",
+      "title": "A special message from Dr. Ramani...",
+      "videoId": "r0DgFGwq3yU",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-12T15:01:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/r0DgFGwq3yU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:I6eCau9qxZs",
       "title": "These Are Your Options in a Narcissistic Relationship",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-16T15:01:33.000Z",
       "thumbnail": "https://i.ytimg.com/vi/txpMoxv82hk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:KeT82CS2PbM",
-      "title": "What REALLY happened in that room?",
-      "videoId": "KeT82CS2PbM",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-15T15:00:35.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KeT82CS2PbM/hqdefault.jpg",
       "tags": []
     },
     {

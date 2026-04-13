@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-13T07:50:44.421Z",
+  "generatedAt": "2026-04-13T13:06:45.817Z",
   "videos": [
     {
       "id": "yt:video:b0dCz8ZH66U",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/session-blueprint-series/?utm_source=rss&utm_medium=rss&utm_campaign=session-blueprint-series",
+      "title": "How the Session Blueprint Series Aids Structured Client Work",
+      "url": "https://positivepsychology.com/session-blueprint-series/?utm_source=rss&utm_medium=rss&utm_campaign=session-blueprint-series",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-04-13T09:00:23.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/heal-your-attachment-style/?utm_source=rss&utm_medium=rss&utm_campaign=heal-your-attachment-style",
       "title": "10 Tips to Heal Your Attachment Style",
       "url": "https://positivepsychology.com/heal-your-attachment-style/?utm_source=rss&utm_medium=rss&utm_campaign=heal-your-attachment-style",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/coping-cards/?utm_source=rss&utm_medium=rss&utm_campaign=coping-cards",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-03-24T10:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/healthy-vs-fragile-self-esteem/?utm_source=rss&utm_medium=rss&utm_campaign=healthy-vs-fragile-self-esteem",
-      "title": "Healthy vs. Fragile Self-Esteem: Why Distinction Matters",
-      "url": "https://positivepsychology.com/healthy-vs-fragile-self-esteem/?utm_source=rss&utm_medium=rss&utm_campaign=healthy-vs-fragile-self-esteem",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-03-23T10:00:06.000Z",
       "tags": []
     }
   ]

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-13T13:06:47.384Z",
+  "generatedAt": "2026-04-13T19:04:01.438Z",
   "videos": [
+    {
+      "id": "yt:video:WwozbxPKz6o",
+      "title": "What Is Reverse Gaslighting?",
+      "videoId": "WwozbxPKz6o",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-13T15:00:59.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/WwozbxPKz6o/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:r0DgFGwq3yU",
       "title": "A special message from Dr. Ramani...",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-18T15:01:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/kvTU74EpsUI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:txpMoxv82hk",
-      "title": "Why Narcissists Keep You in Crisis Mode",
-      "videoId": "txpMoxv82hk",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-16T15:01:33.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/txpMoxv82hk/hqdefault.jpg",
       "tags": []
     },
     {

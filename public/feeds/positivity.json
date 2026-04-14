@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-14T13:08:24.866Z",
+  "generatedAt": "2026-04-14T19:01:52.190Z",
   "videos": [
+    {
+      "id": "yt:video:pEuOEN4h2ro",
+      "title": "Coping vs Recovery from PTSD",
+      "videoId": "pEuOEN4h2ro",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-14T16:01:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/pEuOEN4h2ro/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:9uAMq45i9Zw",
       "title": "The Real Reason You’re Burnt Out (and how to fix it)",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-03T16:00:38.000Z",
       "thumbnail": "https://i.ytimg.com/vi/NGr1f5io0Lo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:H-LGg14XiXc",
-      "title": "3 Essential Strategies for Managing Burnout for Modern Knowledge Workers",
-      "videoId": "H-LGg14XiXc",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-02T13:00:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/H-LGg14XiXc/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-15T13:06:33.524Z",
+  "generatedAt": "2026-04-15T19:04:09.477Z",
   "videos": [
+    {
+      "id": "yt:video:oaHa2mkaFN8",
+      "title": "Relationships After Trauma",
+      "videoId": "oaHa2mkaFN8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-15T16:01:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/oaHa2mkaFN8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:pEuOEN4h2ro",
       "title": "Coping vs Recovery from PTSD",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-04T10:00:41.000Z",
       "thumbnail": "https://i.ytimg.com/vi/TU1-WrlBxHM/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:NGr1f5io0Lo",
-      "title": "CPTSD and Relational Reactivity",
-      "videoId": "NGr1f5io0Lo",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-03T16:00:38.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/NGr1f5io0Lo/hqdefault.jpg",
       "tags": []
     }
   ],

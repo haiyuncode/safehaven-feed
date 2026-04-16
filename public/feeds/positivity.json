@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-16T07:20:57.226Z",
+  "generatedAt": "2026-04-16T13:14:03.277Z",
   "videos": [
     {
       "id": "yt:video:oaHa2mkaFN8",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/self-criticism-to-self-acceptance/?utm_source=rss&utm_medium=rss&utm_campaign=self-criticism-to-self-acceptance",
+      "title": "Moving From Self-Criticism to Self-Acceptance: An ACT Guide",
+      "url": "https://positivepsychology.com/self-criticism-to-self-acceptance/?utm_source=rss&utm_medium=rss&utm_campaign=self-criticism-to-self-acceptance",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-04-16T09:00:04.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/self-acceptance-act/?utm_source=rss&utm_medium=rss&utm_campaign=self-acceptance-act",
       "title": "How to Practice Self-Acceptance With ACT",
       "url": "https://positivepsychology.com/self-acceptance-act/?utm_source=rss&utm_medium=rss&utm_campaign=self-acceptance-act",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/resilience-group-curriculum/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-group-curriculum",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-03-30T09:00:10.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/impostor-syndrome-and-self-esteem/?utm_source=rss&utm_medium=rss&utm_campaign=impostor-syndrome-and-self-esteem",
-      "title": "Impostor Syndrome and Self-Esteem: How They Relate",
-      "url": "https://positivepsychology.com/impostor-syndrome-and-self-esteem/?utm_source=rss&utm_medium=rss&utm_campaign=impostor-syndrome-and-self-esteem",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-03-26T10:00:06.000Z",
       "tags": []
     }
   ]

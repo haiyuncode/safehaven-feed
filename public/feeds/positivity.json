@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-16T13:14:03.277Z",
+  "generatedAt": "2026-04-16T19:01:45.956Z",
   "videos": [
+    {
+      "id": "yt:video:HeNRMr8uJbI",
+      "title": "Meditation for Chronic Pain- Somatic Tracking Exercise to Replace Fear with Curiosity",
+      "videoId": "HeNRMr8uJbI",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-16T13:16:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HeNRMr8uJbI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:oaHa2mkaFN8",
       "title": "Relationships After Trauma",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-05T16:01:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ka7um66uT0I/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:TU1-WrlBxHM",
-      "title": "What is Anxious Attachment",
-      "videoId": "TU1-WrlBxHM",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-04T10:00:41.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/TU1-WrlBxHM/hqdefault.jpg",
       "tags": []
     }
   ],

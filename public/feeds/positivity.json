@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-18T12:42:33.775Z",
+  "generatedAt": "2026-04-18T18:36:09.379Z",
   "videos": [
+    {
+      "id": "yt:video:GxJbXQ-0hVc",
+      "title": "Chronic Pain is the First Thing I Think About",
+      "videoId": "GxJbXQ-0hVc",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-18T16:00:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/GxJbXQ-0hVc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:tpNWmzcM9ss",
       "title": "The Pain-Fear Cycle of Chronic Pain",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-09T13:00:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/a_ZlNKDWRwE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Yf0THNUw_qU",
-      "title": "Gradual Exposure of PTSD Sensations",
-      "videoId": "Yf0THNUw_qU",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-08T16:00:57.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Yf0THNUw_qU/hqdefault.jpg",
       "tags": []
     }
   ],

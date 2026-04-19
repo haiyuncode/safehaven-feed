@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-04-19T12:42:32.808Z",
+  "generatedAt": "2026-04-19T18:37:28.156Z",
   "videos": [
+    {
+      "id": "yt:video:lIn_nhrCAZU",
+      "title": "Lift the CHIN | Inside uppercut technique #boxing #boxingtraining",
+      "videoId": "lIn_nhrCAZU",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-04-19T15:07:28.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/lIn_nhrCAZU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Yq4mOLFwjwo",
       "title": "Perfect PACE - 10 Minute Heavy Bag Workout - Beginner to intermediate",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-18T13:18:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/1lGXs_N5pf8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:_Hp3-ZBsRo8",
-      "title": "Drill to Improve your right cross #boxing #mma",
-      "videoId": "_Hp3-ZBsRo8",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-17T19:23:15.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/_Hp3-ZBsRo8/hqdefault.jpg",
       "tags": []
     }
   ],

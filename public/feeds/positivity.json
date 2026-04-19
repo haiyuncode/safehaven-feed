@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-19T12:42:31.313Z",
+  "generatedAt": "2026-04-19T18:37:26.962Z",
   "videos": [
+    {
+      "id": "yt:video:NNzZBwzBnek",
+      "title": "64% of People with Back Problems Don't Have Chronic Pain",
+      "videoId": "NNzZBwzBnek",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-19T16:00:36.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/NNzZBwzBnek/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:tQ9BWrsTyZk",
       "title": "Reversing the Pain-Fear Cycle",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-10T16:00:45.000Z",
       "thumbnail": "https://i.ytimg.com/vi/NxXz3T-jPpo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:HtRApNGfw9Y",
-      "title": "Love Vs Attunement",
-      "videoId": "HtRApNGfw9Y",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-10T16:00:36.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HtRApNGfw9Y/hqdefault.jpg",
       "tags": []
     }
   ],

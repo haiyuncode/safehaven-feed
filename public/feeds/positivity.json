@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-19T07:08:43.661Z",
+  "generatedAt": "2026-04-19T12:42:31.313Z",
   "videos": [
+    {
+      "id": "yt:video:tQ9BWrsTyZk",
+      "title": "Reversing the Pain-Fear Cycle",
+      "videoId": "tQ9BWrsTyZk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-19T10:01:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/tQ9BWrsTyZk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:GxJbXQ-0hVc",
       "title": "Chronic Pain is the First Thing I Think About",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-10T16:00:36.000Z",
       "thumbnail": "https://i.ytimg.com/vi/HtRApNGfw9Y/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:a_ZlNKDWRwE",
-      "title": "How to Heal Attachment Wounds - Anxious or Avoidant Attachment Styles w/ Jessica Baum",
-      "videoId": "a_ZlNKDWRwE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-09T13:00:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/a_ZlNKDWRwE/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-20T07:53:57.010Z",
+  "generatedAt": "2026-04-20T13:12:00.112Z",
   "videos": [
     {
       "id": "yt:video:NNzZBwzBnek",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/avoidant-attachment-style-in-adults/?utm_source=rss&utm_medium=rss&utm_campaign=avoidant-attachment-style-in-adults",
+      "title": "Avoidant Attachment Style in Adults: Signs & Interventions",
+      "url": "https://positivepsychology.com/avoidant-attachment-style-in-adults/?utm_source=rss&utm_medium=rss&utm_campaign=avoidant-attachment-style-in-adults",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-04-20T09:00:41.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/self-criticism-to-self-acceptance/?utm_source=rss&utm_medium=rss&utm_campaign=self-criticism-to-self-acceptance",
       "title": "Moving From Self-Criticism to Self-Acceptance: An ACT Guide",
       "url": "https://positivepsychology.com/self-criticism-to-self-acceptance/?utm_source=rss&utm_medium=rss&utm_campaign=self-criticism-to-self-acceptance",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/recognition-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=recognition-at-work",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-04-01T09:00:43.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/resilience-group-curriculum/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-group-curriculum",
-      "title": "6-Week Resilience Group Curriculum for Practitioners",
-      "url": "https://positivepsychology.com/resilience-group-curriculum/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-group-curriculum",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-03-30T09:00:10.000Z",
       "tags": []
     }
   ]

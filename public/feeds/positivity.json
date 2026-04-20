@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-20T13:12:00.112Z",
+  "generatedAt": "2026-04-20T18:54:40.857Z",
   "videos": [
+    {
+      "id": "yt:video:kxm8VdwSBkU",
+      "title": "Pain is Real Regardless of Origin",
+      "videoId": "kxm8VdwSBkU",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-20T16:01:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/kxm8VdwSBkU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:NNzZBwzBnek",
       "title": "64% of People with Back Problems Don't Have Chronic Pain",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-11T10:00:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/BkZe1voC7DQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:NxXz3T-jPpo",
-      "title": "Self Help Won’t Heal You",
-      "videoId": "NxXz3T-jPpo",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-10T16:00:45.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/NxXz3T-jPpo/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-20T13:12:01.573Z",
+  "generatedAt": "2026-04-20T18:54:41.910Z",
   "videos": [
+    {
+      "id": "yt:video:V8mkV4N64c0",
+      "title": "The Quiet Way Narcissists Take Your Joy",
+      "videoId": "V8mkV4N64c0",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-20T15:00:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/V8mkV4N64c0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:XkZsRT-y5TA",
       "title": "You Are Asking the Wrong Questions About Narcissists",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-23T22:27:54.000Z",
       "thumbnail": "https://i.ytimg.com/vi/RrayVeh4f7E/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:G9_qZvLQL9E",
-      "title": "The Death of Straightforwardness in Narcissistic Relationships",
-      "videoId": "G9_qZvLQL9E",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-23T15:00:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/G9_qZvLQL9E/hqdefault.jpg",
       "tags": []
     },
     {

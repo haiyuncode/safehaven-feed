@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-21T13:06:11.534Z",
+  "generatedAt": "2026-04-21T19:00:59.368Z",
   "videos": [
+    {
+      "id": "yt:video:MhSQt4wy348",
+      "title": "The Cycle of Chronic Pain",
+      "videoId": "MhSQt4wy348",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-21T16:00:43.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/MhSQt4wy348/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:kxm8VdwSBkU",
       "title": "Pain is Real Regardless of Origin",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-11T16:01:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/csD_sUN-9qE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:BkZe1voC7DQ",
-      "title": "Loving Kids Isn’t Enough",
-      "videoId": "BkZe1voC7DQ",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-11T10:00:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/BkZe1voC7DQ/hqdefault.jpg",
       "tags": []
     }
   ],

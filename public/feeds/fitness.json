@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-04-22T13:09:11.892Z",
+  "generatedAt": "2026-04-22T19:02:24.652Z",
   "videos": [
+    {
+      "id": "yt:video:2JytUx7Flrs",
+      "title": "Boxing Hand Wrap Tutorial: Pro vs. Amateur Methods (Step-by-Step)",
+      "videoId": "2JytUx7Flrs",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-04-22T16:00:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/2JytUx7Flrs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:lIn_nhrCAZU",
       "title": "Lift the CHIN | Inside uppercut technique #boxing #boxingtraining",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-19T14:45:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/DdiFt58PsAg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:1lGXs_N5pf8",
-      "title": "WHY Your Right CROSS CUTS Skin #boxing #mma",
-      "videoId": "1lGXs_N5pf8",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-18T13:18:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/1lGXs_N5pf8/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-23T13:08:01.125Z",
+  "generatedAt": "2026-04-23T18:58:06.800Z",
   "videos": [
+    {
+      "id": "yt:video:yX36qvx5eVw",
+      "title": "Drop your answer in the comments!",
+      "videoId": "yX36qvx5eVw",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-23T16:44:48.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/yX36qvx5eVw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:zdZiQhveBPw",
       "title": "Dr. Ramani shares a deeply personal story about reverse gaslighting",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-03-27T15:01:05.000Z",
       "thumbnail": "https://i.ytimg.com/vi/rQspLCv-XTw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ZGUKjPDNsqw",
-      "title": "THIS is what makes a narcissist",
-      "videoId": "ZGUKjPDNsqw",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-03-25T15:01:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZGUKjPDNsqw/hqdefault.jpg",
       "tags": []
     },
     {

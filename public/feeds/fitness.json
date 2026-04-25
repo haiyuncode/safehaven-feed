@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-04-25T12:44:02.159Z",
+  "generatedAt": "2026-04-25T18:38:50.119Z",
   "videos": [
+    {
+      "id": "yt:video:jBQqeyzzLpQ",
+      "title": "Why PRO Boxers are built different #boxing",
+      "videoId": "jBQqeyzzLpQ",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-04-25T18:26:43.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jBQqeyzzLpQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:2JytUx7Flrs",
       "title": "Boxing Hand Wrap Tutorial: Pro vs. Amateur Methods (Step-by-Step)",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-20T16:42:42.000Z",
       "thumbnail": "https://i.ytimg.com/vi/3mnA_j4oPww/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:DdiFt58PsAg",
-      "title": "Why your CROSS is Powerful #boxing",
-      "videoId": "DdiFt58PsAg",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-19T14:45:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/DdiFt58PsAg/hqdefault.jpg",
       "tags": []
     }
   ],

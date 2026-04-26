@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-04-26T12:47:22.648Z",
+  "generatedAt": "2026-04-26T18:39:57.169Z",
   "videos": [
+    {
+      "id": "yt:video:zPeebyVUT_g",
+      "title": "Why The CROSS ❌ PATTERN matters when wrapping your hands #boxing",
+      "videoId": "zPeebyVUT_g",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-04-26T12:39:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/zPeebyVUT_g/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:q8WuP261KFs",
       "title": "Professional Hand wrapping Feels Dangerous #boxing  #mma",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-22T16:34:45.000Z",
       "thumbnail": "https://i.ytimg.com/vi/noMQgs1A8Eo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:fkUeMWa7pCI",
-      "title": "Tuck your CHIN | How to absorb a punch #boxing",
-      "videoId": "fkUeMWa7pCI",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-21T22:53:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/fkUeMWa7pCI/hqdefault.jpg",
       "tags": []
     }
   ],

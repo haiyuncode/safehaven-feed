@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-04-25T18:38:50.119Z",
+  "generatedAt": "2026-04-26T02:00:15.304Z",
   "videos": [
+    {
+      "id": "yt:video:q8WuP261KFs",
+      "title": "Professional Hand wrapping Feels Dangerous #boxing  #mma",
+      "videoId": "q8WuP261KFs",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-04-25T20:30:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/q8WuP261KFs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:jBQqeyzzLpQ",
       "title": "Why PRO Boxers are built different #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-21T22:53:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/fkUeMWa7pCI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:3mnA_j4oPww",
-      "title": "I do this for WE not just ME #boxing",
-      "videoId": "3mnA_j4oPww",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-20T16:42:42.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/3mnA_j4oPww/hqdefault.jpg",
       "tags": []
     }
   ],

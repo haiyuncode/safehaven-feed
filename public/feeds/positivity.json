@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-27T08:08:46.092Z",
+  "generatedAt": "2026-04-27T13:22:17.362Z",
   "videos": [
     {
       "id": "yt:video:-dC1M-EKrLA",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/positive-psychology-measures/?utm_source=rss&utm_medium=rss&utm_campaign=positive-psychology-measures",
+      "title": "Positive Psychology Measures: How to Choose and Use Them",
+      "url": "https://positivepsychology.com/positive-psychology-measures/?utm_source=rss&utm_medium=rss&utm_campaign=positive-psychology-measures",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-04-27T09:00:37.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/positive-social-media/?utm_source=rss&utm_medium=rss&utm_campaign=positive-social-media",
       "title": "Positive Social Media: How to Use It for Connection",
       "url": "https://positivepsychology.com/positive-social-media/?utm_source=rss&utm_medium=rss&utm_campaign=positive-social-media",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/anxious-avoidant-loop/?utm_source=rss&utm_medium=rss&utm_campaign=anxious-avoidant-loop",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-04-08T09:00:14.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/trauma-informed-resilience-building/?utm_source=rss&utm_medium=rss&utm_campaign=trauma-informed-resilience-building",
-      "title": "Trauma-Informed Resilience-Building: A Safe Guide",
-      "url": "https://positivepsychology.com/trauma-informed-resilience-building/?utm_source=rss&utm_medium=rss&utm_campaign=trauma-informed-resilience-building",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-04-06T09:00:19.000Z",
       "tags": []
     }
   ]

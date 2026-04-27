@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-27T13:22:17.362Z",
+  "generatedAt": "2026-04-27T19:06:17.772Z",
   "videos": [
+    {
+      "id": "yt:video:oq3AzTHDNjw",
+      "title": "Your Triggers are Your Teachers",
+      "videoId": "oq3AzTHDNjw",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-04-27T16:01:31.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/oq3AzTHDNjw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:-dC1M-EKrLA",
       "title": "What is Reparenting?",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-14T16:01:24.000Z",
       "thumbnail": "https://i.ytimg.com/vi/pEuOEN4h2ro/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:9uAMq45i9Zw",
-      "title": "The Real Reason You’re Burnt Out (and how to fix it)",
-      "videoId": "9uAMq45i9Zw",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-13T16:00:14.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/9uAMq45i9Zw/hqdefault.jpg",
       "tags": []
     }
   ],

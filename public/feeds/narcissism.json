@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-04-28T08:10:38.221Z",
+  "generatedAt": "2026-04-28T19:22:31.113Z",
   "videos": [
+    {
+      "id": "yt:video:K2UsZq3PIxU",
+      "title": "April 26, 2026",
+      "videoId": "K2UsZq3PIxU",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-04-28T16:00:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/K2UsZq3PIxU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:wdNStzqODBI",
       "title": "Do Narcissists Make You Age Faster? Science Says… #narcisisticabuse #narcisist",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-04-10T15:00:36.000Z",
       "thumbnail": "https://i.ytimg.com/vi/I6eCau9qxZs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:G1g5nCPf5a4",
-      "title": "Self-Care Recovery after a Narcissistic Relationship",
-      "videoId": "G1g5nCPf5a4",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-04-08T15:00:29.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/G1g5nCPf5a4/hqdefault.jpg",
       "tags": []
     },
     {

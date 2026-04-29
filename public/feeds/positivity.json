@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-04-29T08:03:48.188Z",
+  "generatedAt": "2026-04-29T13:27:20.664Z",
   "videos": [
     {
       "id": "yt:video:oq3AzTHDNjw",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/self-control-in-families/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-in-families",
+      "title": "Stress, Sleep & Self-Control in Families: Avoiding Meltdowns",
+      "url": "https://positivepsychology.com/self-control-in-families/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-in-families",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-04-29T09:00:39.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/positive-psychology-measures/?utm_source=rss&utm_medium=rss&utm_campaign=positive-psychology-measures",
       "title": "Positive Psychology Measures: How to Choose and Use Them",
       "url": "https://positivepsychology.com/positive-psychology-measures/?utm_source=rss&utm_medium=rss&utm_campaign=positive-psychology-measures",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/heal-your-attachment-style/?utm_source=rss&utm_medium=rss&utm_campaign=heal-your-attachment-style",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-04-09T09:00:24.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/anxious-avoidant-loop/?utm_source=rss&utm_medium=rss&utm_campaign=anxious-avoidant-loop",
-      "title": "How Couples Can Overcome the Anxious–Avoidant Loop",
-      "url": "https://positivepsychology.com/anxious-avoidant-loop/?utm_source=rss&utm_medium=rss&utm_campaign=anxious-avoidant-loop",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-04-08T09:00:14.000Z",
       "tags": []
     }
   ]

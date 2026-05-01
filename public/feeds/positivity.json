@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-01T13:01:15.672Z",
+  "generatedAt": "2026-05-01T19:00:05.509Z",
   "videos": [
+    {
+      "id": "yt:video:ZgTgqrCts4c",
+      "title": "How to Change People who Don’t Want to Change",
+      "videoId": "ZgTgqrCts4c",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-01T16:01:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZgTgqrCts4c/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:bz-_x5z_c7M",
       "title": "How to Actually Stop Worrying",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-17T16:01:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/f_YgxlyANDk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:HeNRMr8uJbI",
-      "title": "Meditation for Chronic Pain- Somatic Tracking Exercise to Replace Fear with Curiosity",
-      "videoId": "HeNRMr8uJbI",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-16T13:16:12.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HeNRMr8uJbI/hqdefault.jpg",
       "tags": []
     }
   ],

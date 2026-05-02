@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-02T12:52:34.495Z",
+  "generatedAt": "2026-05-02T18:46:15.050Z",
   "videos": [
+    {
+      "id": "yt:video:TgX2W3Gc5BA",
+      "title": "When Your Therapist isn’t a Good Fit",
+      "videoId": "TgX2W3Gc5BA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-02T16:00:43.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/TgX2W3Gc5BA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:GqfgF49PvhQ",
       "title": "Everyone Has Intrusive Thoughts",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-18T10:01:31.000Z",
       "thumbnail": "https://i.ytimg.com/vi/tpNWmzcM9ss/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:yLh9My3826g",
-      "title": "How to Be Less Impulsive",
-      "videoId": "yLh9My3826g",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-17T16:01:48.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/yLh9My3826g/hqdefault.jpg",
       "tags": []
     }
   ],

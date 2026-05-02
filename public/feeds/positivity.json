@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-02T07:21:37.029Z",
+  "generatedAt": "2026-05-02T12:52:34.495Z",
   "videos": [
+    {
+      "id": "yt:video:GqfgF49PvhQ",
+      "title": "Everyone Has Intrusive Thoughts",
+      "videoId": "GqfgF49PvhQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-02T10:00:35.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/GqfgF49PvhQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ZgTgqrCts4c",
       "title": "How to Change People who Don’t Want to Change",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-17T16:01:48.000Z",
       "thumbnail": "https://i.ytimg.com/vi/yLh9My3826g/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:f_YgxlyANDk",
-      "title": "Pain is Not Always Dangerous",
-      "videoId": "f_YgxlyANDk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-17T16:01:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/f_YgxlyANDk/hqdefault.jpg",
       "tags": []
     }
   ],

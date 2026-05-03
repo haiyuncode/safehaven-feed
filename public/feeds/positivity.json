@@ -1,7 +1,25 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-03T07:50:41.007Z",
+  "generatedAt": "2026-05-03T12:52:16.368Z",
   "videos": [
+    {
+      "id": "yt:video:UAOT8qpTgmM",
+      "title": "How to Stop Overanalyzing",
+      "videoId": "UAOT8qpTgmM",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-03T10:00:43.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/UAOT8qpTgmM/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:0xkvaiR-qzY",
+      "title": "When Therapy Makes it Worse",
+      "videoId": "0xkvaiR-qzY",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-03T10:00:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/0xkvaiR-qzY/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:TgX2W3Gc5BA",
       "title": "When Your Therapist isn’t a Good Fit",
@@ -117,24 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-19T10:01:24.000Z",
       "thumbnail": "https://i.ytimg.com/vi/tQ9BWrsTyZk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:GxJbXQ-0hVc",
-      "title": "Chronic Pain is the First Thing I Think About",
-      "videoId": "GxJbXQ-0hVc",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-18T16:00:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/GxJbXQ-0hVc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:tpNWmzcM9ss",
-      "title": "The Pain-Fear Cycle of Chronic Pain",
-      "videoId": "tpNWmzcM9ss",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-18T10:01:31.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/tpNWmzcM9ss/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-05-04T13:26:07.194Z",
+  "generatedAt": "2026-05-04T19:17:18.509Z",
   "videos": [
+    {
+      "id": "yt:video:AcWw5KE-BNg",
+      "title": "The Narcissist’s Text Wall (WATCH OUT)",
+      "videoId": "AcWw5KE-BNg",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-05-04T15:00:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/AcWw5KE-BNg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:VTz7njzGFlk",
       "title": "The New Narcissism Film Everyone Needs to See",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-04-23T16:44:48.000Z",
       "thumbnail": "https://i.ytimg.com/vi/yX36qvx5eVw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:zdZiQhveBPw",
-      "title": "Dr. Ramani shares a deeply personal story about reverse gaslighting",
-      "videoId": "zdZiQhveBPw",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-04-22T20:52:12.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/zdZiQhveBPw/hqdefault.jpg",
       "tags": []
     },
     {

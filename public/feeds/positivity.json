@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-04T08:20:28.929Z",
+  "generatedAt": "2026-05-04T13:26:05.673Z",
   "videos": [
     {
       "id": "yt:video:UAOT8qpTgmM",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/self-control/?utm_source=rss&utm_medium=rss&utm_campaign=self-control",
+      "title": "Self-Control & Discipline in Families: Teaching Self-Regulation",
+      "url": "https://positivepsychology.com/self-control/?utm_source=rss&utm_medium=rss&utm_campaign=self-control",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-05-04T09:00:07.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/self-control-vs-obedience/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-vs-obedience",
       "title": "Self-Control vs. Obedience: Helping Children Build Skills",
       "url": "https://positivepsychology.com/self-control-vs-obedience/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-vs-obedience",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/remote-engagement/?utm_source=rss&utm_medium=rss&utm_campaign=remote-engagement",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-04-14T09:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/session-blueprint-series/?utm_source=rss&utm_medium=rss&utm_campaign=session-blueprint-series",
-      "title": "How the Session Blueprint Series Aids Structured Client Work",
-      "url": "https://positivepsychology.com/session-blueprint-series/?utm_source=rss&utm_medium=rss&utm_campaign=session-blueprint-series",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-04-13T09:00:23.000Z",
       "tags": []
     }
   ]

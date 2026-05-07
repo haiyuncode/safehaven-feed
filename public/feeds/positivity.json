@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-07T08:20:56.642Z",
+  "generatedAt": "2026-05-07T13:46:37.615Z",
   "videos": [
+    {
+      "id": "yt:video:FM7b-_YpK0s",
+      "title": "Micro Habits to Regulate Depression or Trauma (Shutdown Response)",
+      "videoId": "FM7b-_YpK0s",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-07T11:56:25.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/FM7b-_YpK0s/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:py-m4AvTgoM",
       "title": "Rewiring Stuck Brain Patterns",
@@ -127,18 +136,17 @@
       "publishedAt": "2026-04-20T16:01:12.000Z",
       "thumbnail": "https://i.ytimg.com/vi/kxm8VdwSBkU/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:NNzZBwzBnek",
-      "title": "64% of People with Back Problems Don't Have Chronic Pain",
-      "videoId": "NNzZBwzBnek",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-19T16:00:36.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/NNzZBwzBnek/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/digital-etiquette/?utm_source=rss&utm_medium=rss&utm_campaign=digital-etiquette",
+      "title": "Digital Etiquette for Wellbeing: Communicate Better Online",
+      "url": "https://positivepsychology.com/digital-etiquette/?utm_source=rss&utm_medium=rss&utm_campaign=digital-etiquette",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-05-07T09:00:37.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/digital-boundaries/?utm_source=rss&utm_medium=rss&utm_campaign=digital-boundaries",
       "title": "Digital Boundaries That Stick: Healthy Online Habits",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/avoidant-attachment-style-in-adults/?utm_source=rss&utm_medium=rss&utm_campaign=avoidant-attachment-style-in-adults",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-04-20T09:00:41.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-criticism-to-self-acceptance/?utm_source=rss&utm_medium=rss&utm_campaign=self-criticism-to-self-acceptance",
-      "title": "Moving From Self-Criticism to Self-Acceptance: An ACT Guide",
-      "url": "https://positivepsychology.com/self-criticism-to-self-acceptance/?utm_source=rss&utm_medium=rss&utm_campaign=self-criticism-to-self-acceptance",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-04-16T09:00:04.000Z",
       "tags": []
     }
   ]

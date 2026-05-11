@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-11T02:28:40.318Z",
+  "generatedAt": "2026-05-11T09:26:55.192Z",
   "videos": [
     {
       "id": "yt:video:FM7b-_YpK0s",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/self-compassion-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=self-compassion-anchor-cards",
+      "title": "How to Use Self-Compassion Anchor Cards",
+      "url": "https://positivepsychology.com/self-compassion-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=self-compassion-anchor-cards",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-05-11T09:00:40.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/digital-etiquette/?utm_source=rss&utm_medium=rss&utm_campaign=digital-etiquette",
       "title": "Digital Etiquette for Wellbeing: Communicate Better Online",
       "url": "https://positivepsychology.com/digital-etiquette/?utm_source=rss&utm_medium=rss&utm_campaign=digital-etiquette",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/digital-wellbeing/?utm_source=rss&utm_medium=rss&utm_campaign=digital-wellbeing",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-04-22T09:00:58.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/avoidant-attachment-style-in-adults/?utm_source=rss&utm_medium=rss&utm_campaign=avoidant-attachment-style-in-adults",
-      "title": "Avoidant Attachment Style in Adults: Signs & Interventions",
-      "url": "https://positivepsychology.com/avoidant-attachment-style-in-adults/?utm_source=rss&utm_medium=rss&utm_campaign=avoidant-attachment-style-in-adults",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-04-20T09:00:41.000Z",
       "tags": []
     }
   ]

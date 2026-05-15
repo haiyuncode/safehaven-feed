@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-15T13:47:15.586Z",
+  "generatedAt": "2026-05-15T19:19:51.573Z",
   "videos": [
+    {
+      "id": "yt:video:uOFdLC2Bkno",
+      "title": "Stuck in Trauma Loops",
+      "videoId": "uOFdLC2Bkno",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-15T16:01:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/uOFdLC2Bkno/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:FM7b-_YpK0s",
       "title": "7 Micro Habits to Regulate Depression or Trauma (Shutdown Response)",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-21T16:00:43.000Z",
       "thumbnail": "https://i.ytimg.com/vi/MhSQt4wy348/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:kxm8VdwSBkU",
-      "title": "Pain is Real Regardless of Origin",
-      "videoId": "kxm8VdwSBkU",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-20T16:01:12.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/kxm8VdwSBkU/hqdefault.jpg",
       "tags": []
     }
   ],

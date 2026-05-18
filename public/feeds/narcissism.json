@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-05-18T14:56:47.463Z",
+  "generatedAt": "2026-05-18T19:27:22.866Z",
   "videos": [
+    {
+      "id": "yt:video:bbudelNA30U",
+      "title": "The Dark Side of Unconditional Love",
+      "videoId": "bbudelNA30U",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-05-18T15:00:55.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/bbudelNA30U/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:xBQCwhcOacY",
       "title": "The Shame of Staying with a Narcissist",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-05-06T15:01:55.000Z",
       "thumbnail": "https://i.ytimg.com/vi/zodui7DtOdc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:GjO0kQqJBes",
-      "title": "If you decide to stay with a narcissist, YOU NEED TO HEAR THUS",
-      "videoId": "GjO0kQqJBes",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-05-05T16:00:22.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/GjO0kQqJBes/hqdefault.jpg",
       "tags": []
     },
     {

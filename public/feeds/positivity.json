@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-18T14:56:46.584Z",
+  "generatedAt": "2026-05-18T19:27:21.834Z",
   "videos": [
     {
       "id": "yt:video:5gfc978c_2g",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/co-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=co-parenting",
+      "title": "Co-Parenting That Works: Building an Alliance",
+      "url": "https://positivepsychology.com/co-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=co-parenting",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-05-18T09:00:00.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/strength-stack/?utm_source=rss&utm_medium=rss&utm_campaign=strength-stack",
       "title": "How to Build a Personal Strength Stack",
       "url": "https://positivepsychology.com/strength-stack/?utm_source=rss&utm_medium=rss&utm_campaign=strength-stack",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/self-control-vs-obedience/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-vs-obedience",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-04-30T09:00:06.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-control-in-families/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-in-families",
-      "title": "Stress, Sleep & Self-Control in Families: Avoiding Meltdowns",
-      "url": "https://positivepsychology.com/self-control-in-families/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-in-families",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-04-29T09:00:39.000Z",
       "tags": []
     }
   ]

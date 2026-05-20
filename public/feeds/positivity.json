@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-20T08:55:10.175Z",
+  "generatedAt": "2026-05-20T14:41:57.935Z",
   "videos": [
     {
       "id": "yt:video:5gfc978c_2g",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/schema-informed-reset-plan/?utm_source=rss&utm_medium=rss&utm_campaign=schema-informed-reset-plan",
+      "title": "Overreacting? Use This 5-Step Schema-Informed Reset Plan",
+      "url": "https://positivepsychology.com/schema-informed-reset-plan/?utm_source=rss&utm_medium=rss&utm_campaign=schema-informed-reset-plan",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-05-20T09:00:55.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/co-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=co-parenting",
       "title": "Co-Parenting That Works: Building an Alliance",
       "url": "https://positivepsychology.com/co-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=co-parenting",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/self-control/?utm_source=rss&utm_medium=rss&utm_campaign=self-control",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-05-04T09:00:07.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-control-vs-obedience/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-vs-obedience",
-      "title": "Self-Control vs. Obedience: Helping Children Build Skills",
-      "url": "https://positivepsychology.com/self-control-vs-obedience/?utm_source=rss&utm_medium=rss&utm_campaign=self-control-vs-obedience",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-04-30T09:00:06.000Z",
       "tags": []
     }
   ]

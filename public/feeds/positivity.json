@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-21T08:59:44.779Z",
+  "generatedAt": "2026-05-21T14:46:40.585Z",
   "videos": [
+    {
+      "id": "yt:video:jvLQFwgPfc0",
+      "title": "Why Anxious People Shouldn’t Use Deep Breathing",
+      "videoId": "jvLQFwgPfc0",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-21T13:01:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jvLQFwgPfc0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:5gfc978c_2g",
       "title": "Playing Uno Reverse Card on Panic Attacks",
@@ -127,18 +136,17 @@
       "publishedAt": "2026-04-23T13:00:05.000Z",
       "thumbnail": "https://i.ytimg.com/vi/28BkdLXQA-c/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:bPvGRTgTaFY",
-      "title": "Is Chronic Pain Just in My Head?",
-      "videoId": "bPvGRTgTaFY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-22T16:01:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/bPvGRTgTaFY/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/schema-pattern-finder/?utm_source=rss&utm_medium=rss&utm_campaign=schema-pattern-finder",
+      "title": "Schema Pattern Finder: Make Sense of Emotional Patterns",
+      "url": "https://positivepsychology.com/schema-pattern-finder/?utm_source=rss&utm_medium=rss&utm_campaign=schema-pattern-finder",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-05-21T09:00:16.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/schema-informed-reset-plan/?utm_source=rss&utm_medium=rss&utm_campaign=schema-informed-reset-plan",
       "title": "Overreacting? Use This 5-Step Schema-Informed Reset Plan",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/counseling-books/?utm_source=rss&utm_medium=rss&utm_campaign=counseling-books",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-05-05T09:00:45.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-control/?utm_source=rss&utm_medium=rss&utm_campaign=self-control",
-      "title": "Self-Control & Discipline in Families: Teaching Self-Regulation",
-      "url": "https://positivepsychology.com/self-control/?utm_source=rss&utm_medium=rss&utm_campaign=self-control",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-04T09:00:07.000Z",
       "tags": []
     }
   ]

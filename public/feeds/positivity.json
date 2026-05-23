@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-23T08:07:49.941Z",
+  "generatedAt": "2026-05-23T13:06:37.752Z",
   "videos": [
+    {
+      "id": "yt:video:klGXmnBQqKw",
+      "title": "The Biology of Trauma",
+      "videoId": "klGXmnBQqKw",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-23T10:00:48.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/klGXmnBQqKw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:_Fj0kjyX9xQ",
       "title": "Setting Boundaries with Emotionally Immature People",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-04-27T16:01:31.000Z",
       "thumbnail": "https://i.ytimg.com/vi/oq3AzTHDNjw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:-dC1M-EKrLA",
-      "title": "What is Reparenting?",
-      "videoId": "-dC1M-EKrLA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-04-24T16:00:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/-dC1M-EKrLA/hqdefault.jpg",
       "tags": []
     }
   ],

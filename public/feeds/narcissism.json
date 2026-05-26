@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-05-26T14:49:55.723Z",
+  "generatedAt": "2026-05-26T19:58:49.290Z",
   "videos": [
+    {
+      "id": "yt:video:2GppLyAnZ2k",
+      "title": "Has this happened to you??!",
+      "videoId": "2GppLyAnZ2k",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-05-26T15:00:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/2GppLyAnZ2k/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:q1F4KglCV6s",
       "title": "This may have happened to you…",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-05-11T16:36:22.000Z",
       "thumbnail": "https://i.ytimg.com/vi/eJkDJZkrC30/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:6GNq8v73eWU",
-      "title": "The “Delusion” That Controls Narcissists",
-      "videoId": "6GNq8v73eWU",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-05-11T15:00:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/6GNq8v73eWU/hqdefault.jpg",
       "tags": []
     },
     {

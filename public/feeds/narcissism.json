@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-05-26T02:32:08.642Z",
+  "generatedAt": "2026-05-26T09:38:44.169Z",
   "videos": [
+    {
+      "id": "yt:video:q1F4KglCV6s",
+      "title": "This may have happened to you…",
+      "videoId": "q1F4KglCV6s",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-05-25T19:45:49.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/q1F4KglCV6s/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Uq_AMQEnbd0",
       "title": "How to Get a Narcissist to Leave (The Truth)",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-05-11T15:00:09.000Z",
       "thumbnail": "https://i.ytimg.com/vi/6GNq8v73eWU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7n-R5F7s964",
-      "title": "Healing After Heartbreak: A Conversation with Valerie Bertinelli",
-      "videoId": "7n-R5F7s964",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-05-09T15:00:12.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7n-R5F7s964/hqdefault.jpg",
       "tags": []
     },
     {

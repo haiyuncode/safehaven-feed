@@ -1,7 +1,25 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-05-27T14:58:58.054Z",
+  "generatedAt": "2026-05-27T20:03:47.939Z",
   "videos": [
+    {
+      "id": "yt:video:CYrjcTyn850",
+      "title": "Dr. Ramani shares about a toxic encounter…",
+      "videoId": "CYrjcTyn850",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-05-27T16:00:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CYrjcTyn850/hqdefault.jpg",
+      "tags": []
+    },
+    {
+      "id": "yt:video:YIz7jkjxKWg",
+      "title": "The Myth About Enduring Narcissistic Relationships",
+      "videoId": "YIz7jkjxKWg",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-05-27T15:00:37.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/YIz7jkjxKWg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:2GppLyAnZ2k",
       "title": "Has this happened to you??!",
@@ -117,24 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-05-13T15:01:14.000Z",
       "thumbnail": "https://i.ytimg.com/vi/imbcGnfh_s4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:MPcgUuqTPFc",
-      "title": "Should you try to think differently about your narcissistic relationship?",
-      "videoId": "MPcgUuqTPFc",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-05-12T15:00:40.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/MPcgUuqTPFc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:eJkDJZkrC30",
-      "title": "Are narcissists delusional? #narcissisticabuse",
-      "videoId": "eJkDJZkrC30",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-05-11T16:36:22.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/eJkDJZkrC30/hqdefault.jpg",
       "tags": []
     },
     {

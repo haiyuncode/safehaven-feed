@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-05-28T09:49:28.440Z",
+  "generatedAt": "2026-05-28T15:32:48.550Z",
   "videos": [
+    {
+      "id": "yt:video:l9RrCKNXYZs",
+      "title": "Is ghosting always narcissistic?",
+      "videoId": "l9RrCKNXYZs",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-05-28T15:00:25.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/l9RrCKNXYZs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:CYrjcTyn850",
       "title": "Dr. Ramani shares about a toxic encounter…",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-05-13T16:00:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/0uwV7OZUoak/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:imbcGnfh_s4",
-      "title": "How to Protect Your Mental Health Around Toxic People",
-      "videoId": "imbcGnfh_s4",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-05-13T15:01:14.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/imbcGnfh_s4/hqdefault.jpg",
       "tags": []
     },
     {

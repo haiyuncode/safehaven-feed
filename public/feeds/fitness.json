@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-05-28T15:32:48.928Z",
+  "generatedAt": "2026-05-28T20:08:24.094Z",
   "videos": [
+    {
+      "id": "yt:video:pJZ4i72dbSk",
+      "title": "20 MINUTE Heavy BAG HIIT - 5 ROUNDS to Get Shredded Like a PRO Boxer",
+      "videoId": "pJZ4i72dbSk",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-05-28T16:30:28.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/pJZ4i72dbSk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:zPeebyVUT_g",
       "title": "Why The CROSS ❌ PATTERN matters when wrapping your hands #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-23T21:29:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/BV2hU-PFiU8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:noMQgs1A8Eo",
-      "title": "Advanced RIGHT CROSS Position #mma #Boxing",
-      "videoId": "noMQgs1A8Eo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-22T16:34:45.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/noMQgs1A8Eo/hqdefault.jpg",
       "tags": []
     }
   ],

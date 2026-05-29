@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-29T14:44:51.268Z",
+  "generatedAt": "2026-05-29T20:10:08.797Z",
   "videos": [
+    {
+      "id": "yt:video:rkCfHl6aeI4",
+      "title": "What is Nervous System Dysregulation",
+      "videoId": "rkCfHl6aeI4",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-29T16:00:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/rkCfHl6aeI4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:jB193ejIK_M",
       "title": "I *Don’t* Have ADHD",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-01T16:01:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/ZgTgqrCts4c/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:bz-_x5z_c7M",
-      "title": "How to Actually Stop Worrying",
-      "videoId": "bz-_x5z_c7M",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-01T10:01:07.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/bz-_x5z_c7M/hqdefault.jpg",
       "tags": []
     }
   ],

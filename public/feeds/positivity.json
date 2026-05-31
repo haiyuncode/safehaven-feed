@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-05-31T08:35:54.211Z",
+  "generatedAt": "2026-05-31T13:20:16.650Z",
   "videos": [
+    {
+      "id": "yt:video:lfhHqxyALMk",
+      "title": "How Childhood Trauma Shows up as an Adult",
+      "videoId": "lfhHqxyALMk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-05-31T10:00:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/lfhHqxyALMk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:NvCHIzLV0iM",
       "title": "The Biggest Panic Attack",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-03T10:00:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/0xkvaiR-qzY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:TgX2W3Gc5BA",
-      "title": "When Your Therapist isn’t a Good Fit",
-      "videoId": "TgX2W3Gc5BA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-02T16:00:43.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/TgX2W3Gc5BA/hqdefault.jpg",
       "tags": []
     }
   ],

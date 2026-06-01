@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-01T11:12:29.127Z",
+  "generatedAt": "2026-06-01T17:21:29.226Z",
   "videos": [
+    {
+      "id": "yt:video:nf10qeBkPFk",
+      "title": "Unethical Therapy",
+      "videoId": "nf10qeBkPFk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-01T16:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/nf10qeBkPFk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:lfhHqxyALMk",
       "title": "How Childhood Trauma Shows up as an Adult",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-03T10:00:43.000Z",
       "thumbnail": "https://i.ytimg.com/vi/UAOT8qpTgmM/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:0xkvaiR-qzY",
-      "title": "When Therapy Makes it Worse",
-      "videoId": "0xkvaiR-qzY",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-03T10:00:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/0xkvaiR-qzY/hqdefault.jpg",
       "tags": []
     }
   ],

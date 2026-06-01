@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-06-01T11:12:30.348Z",
+  "generatedAt": "2026-06-01T17:21:31.542Z",
   "videos": [
+    {
+      "id": "yt:video:SpVvG_IxpNI",
+      "title": "Boxing drill of the cross | Train for distance and PUNCHING Power #boxingtraining",
+      "videoId": "SpVvG_IxpNI",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-06-01T14:30:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/SpVvG_IxpNI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:pJZ4i72dbSk",
       "title": "20 MINUTE Heavy BAG HIIT - 5 ROUNDS to Get Shredded Like a PRO Boxer",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-24T20:01:45.000Z",
       "thumbnail": "https://i.ytimg.com/vi/kB9f6A_Edlk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:BV2hU-PFiU8",
-      "title": "How to Land Body to Head Hooks inside #boxing #mma",
-      "videoId": "BV2hU-PFiU8",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-23T21:29:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/BV2hU-PFiU8/hqdefault.jpg",
       "tags": []
     }
   ],

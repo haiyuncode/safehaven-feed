@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-02T10:07:57.063Z",
+  "generatedAt": "2026-06-02T16:06:26.413Z",
   "videos": [
     {
       "id": "yt:video:nf10qeBkPFk",
@@ -140,6 +140,38 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/does-schema-therapy-work/?utm_source=rss&utm_medium=rss&utm_campaign=does-schema-therapy-work",
+      "title": "Does Schema Therapy Work? Evidence & Progress",
+      "url": "https://positivepsychology.com/does-schema-therapy-work/?utm_source=rss&utm_medium=rss&utm_campaign=does-schema-therapy-work",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-02T09:00:58.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/schema-therapy-tools/?utm_source=rss&utm_medium=rss&utm_campaign=schema-therapy-tools",
+      "title": "Applying Schema Therapy Tools to 5 Clinical Presentations",
+      "url": "https://positivepsychology.com/schema-therapy-tools/?utm_source=rss&utm_medium=rss&utm_campaign=schema-therapy-tools",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-01T09:00:04.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/emotional-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-patterns",
+      "title": "How Early Needs Shape Emotional Patterns in Adults",
+      "url": "https://positivepsychology.com/emotional-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-patterns",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-05-28T09:00:20.000Z",
+      "tags": []
+    },
+    {
+      "id": "link:https://positivepsychology.com/negative-self-talk/?utm_source=rss&utm_medium=rss&utm_campaign=negative-self-talk",
+      "title": "Schema-Informed Responses to Negative Self-Talk & Shame",
+      "url": "https://positivepsychology.com/negative-self-talk/?utm_source=rss&utm_medium=rss&utm_campaign=negative-self-talk",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-05-27T09:00:29.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/what-is-schema-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-schema-therapy",
       "title": "Schema Therapy: A Practitioner’s Pillar Guide",
       "url": "https://positivepsychology.com/what-is-schema-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-schema-therapy",
@@ -185,38 +217,6 @@
       "url": "https://positivepsychology.com/strength-stack/?utm_source=rss&utm_medium=rss&utm_campaign=strength-stack",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-05-14T09:00:36.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/how-to-use-your-strengths/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-your-strengths",
-      "title": "How to Use Your Strengths Without Burning Out",
-      "url": "https://positivepsychology.com/how-to-use-your-strengths/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-your-strengths",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-13T09:00:01.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/positive-parenting-styles/?utm_source=rss&utm_medium=rss&utm_campaign=positive-parenting-styles",
-      "title": "Positive Parenting Styles: An Integrative Map for Practitioners",
-      "url": "https://positivepsychology.com/positive-parenting-styles/?utm_source=rss&utm_medium=rss&utm_campaign=positive-parenting-styles",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-12T09:00:04.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-compassion-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=self-compassion-anchor-cards",
-      "title": "How to Use Self-Compassion Anchor Cards",
-      "url": "https://positivepsychology.com/self-compassion-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=self-compassion-anchor-cards",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-11T09:00:40.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/digital-etiquette/?utm_source=rss&utm_medium=rss&utm_campaign=digital-etiquette",
-      "title": "Digital Etiquette for Wellbeing: Communicate Better Online",
-      "url": "https://positivepsychology.com/digital-etiquette/?utm_source=rss&utm_medium=rss&utm_campaign=digital-etiquette",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-07T09:00:37.000Z",
       "tags": []
     }
   ]

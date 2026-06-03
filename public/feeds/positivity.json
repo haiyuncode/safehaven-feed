@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-03T10:45:31.106Z",
+  "generatedAt": "2026-06-03T16:21:08.519Z",
   "videos": [
     {
       "id": "yt:video:nf10qeBkPFk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/permissive-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=permissive-parenting",
+      "title": "Permissive Parenting: 5 Signs You’re Being Too Lenient",
+      "url": "https://positivepsychology.com/permissive-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=permissive-parenting",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-03T09:00:17.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/does-schema-therapy-work/?utm_source=rss&utm_medium=rss&utm_campaign=does-schema-therapy-work",
       "title": "Does Schema Therapy Work? Evidence & Progress",
       "url": "https://positivepsychology.com/does-schema-therapy-work/?utm_source=rss&utm_medium=rss&utm_campaign=does-schema-therapy-work",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/co-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=co-parenting",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-05-18T09:00:00.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/strength-stack/?utm_source=rss&utm_medium=rss&utm_campaign=strength-stack",
-      "title": "How to Build a Personal Strength Stack",
-      "url": "https://positivepsychology.com/strength-stack/?utm_source=rss&utm_medium=rss&utm_campaign=strength-stack",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-14T09:00:36.000Z",
       "tags": []
     }
   ]

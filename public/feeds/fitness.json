@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-06-03T02:58:34.391Z",
+  "generatedAt": "2026-06-03T10:45:33.240Z",
   "videos": [
+    {
+      "id": "yt:video:n72380E0dbg",
+      "title": "Inside Boxing drill | How to do a Rear Uppercut #boxing",
+      "videoId": "n72380E0dbg",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-06-02T22:47:14.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/n72380E0dbg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:SpVvG_IxpNI",
       "title": "Boxing drill of the cross | Train for distance and PUNCHING Power #boxingtraining",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-25T14:45:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/29Mtl2yxjWY/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:kB9f6A_Edlk",
-      "title": "Boxing SPEED, POWER or ACCURACY? #boxing #mma",
-      "videoId": "kB9f6A_Edlk",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-24T20:01:45.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/kB9f6A_Edlk/hqdefault.jpg",
       "tags": []
     }
   ],

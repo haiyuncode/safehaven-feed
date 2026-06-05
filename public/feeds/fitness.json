@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-06-04T19:55:39.679Z",
+  "generatedAt": "2026-06-05T02:41:10.900Z",
   "videos": [
+    {
+      "id": "yt:video:jyjqb_IXQQ0",
+      "title": "#1 Double hook Mistake | quick FIX shown #boxing",
+      "videoId": "jyjqb_IXQQ0",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-06-04T22:50:41.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jyjqb_IXQQ0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:n72380E0dbg",
       "title": "Inside Boxing drill | How to do a Rear Uppercut #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-27T16:24:57.000Z",
       "thumbnail": "https://i.ytimg.com/vi/YT57pwFCiaU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:29Mtl2yxjWY",
-      "title": "Get fit faster | 10 Minute Interval Boxing workout",
-      "videoId": "29Mtl2yxjWY",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-25T14:45:01.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/29Mtl2yxjWY/hqdefault.jpg",
       "tags": []
     }
   ],

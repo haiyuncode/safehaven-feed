@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-06T08:25:33.563Z",
+  "generatedAt": "2026-06-06T13:14:09.826Z",
   "videos": [
+    {
+      "id": "yt:video:cwAuNWFJd0Q",
+      "title": "Stress is Very Different From Trauma",
+      "videoId": "cwAuNWFJd0Q",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-06T10:00:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/cwAuNWFJd0Q/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:jKbmrIjtOe4",
       "title": "Reactive People’s Greatest Fear",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-07T11:56:25.000Z",
       "thumbnail": "https://i.ytimg.com/vi/FM7b-_YpK0s/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:py-m4AvTgoM",
-      "title": "Rewiring Stuck Brain Patterns",
-      "videoId": "py-m4AvTgoM",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-04T16:01:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/py-m4AvTgoM/hqdefault.jpg",
       "tags": []
     }
   ],

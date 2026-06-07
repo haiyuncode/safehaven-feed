@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-07T13:25:37.689Z",
+  "generatedAt": "2026-06-07T19:09:11.640Z",
   "videos": [
+    {
+      "id": "yt:video:vYOjNabFgPA",
+      "title": "Dealing with Regrets",
+      "videoId": "vYOjNabFgPA",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-07T16:00:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/vYOjNabFgPA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:cwAuNWFJd0Q",
       "title": "Stress is Very Different From Trauma",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-15T16:01:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/uOFdLC2Bkno/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:FM7b-_YpK0s",
-      "title": "7 Micro Habits to Regulate Depression or Trauma (Shutdown Response)",
-      "videoId": "FM7b-_YpK0s",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-07T11:56:25.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/FM7b-_YpK0s/hqdefault.jpg",
       "tags": []
     }
   ],

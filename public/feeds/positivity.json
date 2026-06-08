@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-08T15:33:44.192Z",
+  "generatedAt": "2026-06-08T20:03:54.753Z",
   "videos": [
+    {
+      "id": "yt:video:MotCNV7R6l0",
+      "title": "Improve the Quality of Your Sleep",
+      "videoId": "MotCNV7R6l0",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-08T16:00:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/MotCNV7R6l0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:vYOjNabFgPA",
       "title": "Dealing with Regrets",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-16T16:00:10.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5gfc978c_2g/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:uOFdLC2Bkno",
-      "title": "Stuck in Trauma Loops",
-      "videoId": "uOFdLC2Bkno",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-15T16:01:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/uOFdLC2Bkno/hqdefault.jpg",
       "tags": []
     }
   ],

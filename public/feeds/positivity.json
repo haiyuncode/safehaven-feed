@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-08T10:21:04.452Z",
+  "generatedAt": "2026-06-08T15:33:44.192Z",
   "videos": [
     {
       "id": "yt:video:vYOjNabFgPA",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/self-actualization/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization",
+      "title": "Self-Actualization in Positive Psychology: Meaning & Pathways",
+      "url": "https://positivepsychology.com/self-actualization/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-08T09:00:22.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/parenting-boundary-playbook/?utm_source=rss&utm_medium=rss&utm_campaign=parenting-boundary-playbook",
       "title": "Warm but Firm: A Positive Parenting Boundary Playbook",
       "url": "https://positivepsychology.com/parenting-boundary-playbook/?utm_source=rss&utm_medium=rss&utm_campaign=parenting-boundary-playbook",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/schema-pattern-finder/?utm_source=rss&utm_medium=rss&utm_campaign=schema-pattern-finder",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-05-21T09:00:16.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/schema-informed-reset-plan/?utm_source=rss&utm_medium=rss&utm_campaign=schema-informed-reset-plan",
-      "title": "Overreacting? Use This 5-Step Schema-Informed Reset Plan",
-      "url": "https://positivepsychology.com/schema-informed-reset-plan/?utm_source=rss&utm_medium=rss&utm_campaign=schema-informed-reset-plan",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-20T09:00:55.000Z",
       "tags": []
     }
   ]

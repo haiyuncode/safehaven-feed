@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-10T02:41:17.765Z",
+  "generatedAt": "2026-06-10T09:42:20.103Z",
   "videos": [
     {
       "id": "yt:video:MotCNV7R6l0",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/how-to-get-through-hard-times/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-through-hard-times",
+      "title": "7-Day Resilience Reset: How to Get Through Hard Times",
+      "url": "https://positivepsychology.com/how-to-get-through-hard-times/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-through-hard-times",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-10T09:00:11.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/self-actualization/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization",
       "title": "Self-Actualization in Positive Psychology: Meaning & Pathways",
       "url": "https://positivepsychology.com/self-actualization/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/positive-relationships-anchor-cards/?utm_source=rss&utm_medium=rss&utm_campaign=positive-relationships-anchor-cards",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-05-25T09:00:12.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/schema-pattern-finder/?utm_source=rss&utm_medium=rss&utm_campaign=schema-pattern-finder",
-      "title": "Schema Pattern Finder: Make Sense of Emotional Patterns",
-      "url": "https://positivepsychology.com/schema-pattern-finder/?utm_source=rss&utm_medium=rss&utm_campaign=schema-pattern-finder",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-21T09:00:16.000Z",
       "tags": []
     }
   ]

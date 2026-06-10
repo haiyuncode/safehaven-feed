@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-06-10T14:57:38.004Z",
+  "generatedAt": "2026-06-10T20:16:04.786Z",
   "videos": [
+    {
+      "id": "yt:video:Hg-gKfCNibI",
+      "title": "Boxing training to burn max calories | Burn 400 Calories Fast With Explosive Boxing HIIT",
+      "videoId": "Hg-gKfCNibI",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-06-10T15:45:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Hg-gKfCNibI/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:jyjqb_IXQQ0",
       "title": "#1 Double hook Mistake | quick FIX shown #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-29T14:37:56.000Z",
       "thumbnail": "https://i.ytimg.com/vi/CFvJkry-LOE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:YT57pwFCiaU",
-      "title": "Why Your Rear HOOK feels tight #boxing #mma",
-      "videoId": "YT57pwFCiaU",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-27T16:24:57.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/YT57pwFCiaU/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-11T10:10:02.771Z",
+  "generatedAt": "2026-06-11T15:39:50.896Z",
   "videos": [
+    {
+      "id": "yt:video:HxwXjnai2Bs",
+      "title": "What to do when life overwhelms you",
+      "videoId": "HxwXjnai2Bs",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-11T12:48:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HxwXjnai2Bs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:MotCNV7R6l0",
       "title": "Improve the Quality of Your Sleep",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-21T13:01:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jvLQFwgPfc0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:5gfc978c_2g",
-      "title": "Playing Uno Reverse Card on Panic Attacks",
-      "videoId": "5gfc978c_2g",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-16T16:00:10.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/5gfc978c_2g/hqdefault.jpg",
       "tags": []
     }
   ],

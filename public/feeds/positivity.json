@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-12T14:39:56.865Z",
+  "generatedAt": "2026-06-12T19:57:06.007Z",
   "videos": [
+    {
+      "id": "yt:video:0y6ifraB21I",
+      "title": "Reframe Emotional Crisis as an Opportunity to Grow",
+      "videoId": "0y6ifraB21I",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-12T16:00:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/0y6ifraB21I/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:HxwXjnai2Bs",
       "title": "What to do when life overwhelms you",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-22T16:01:01.000Z",
       "thumbnail": "https://i.ytimg.com/vi/_Fj0kjyX9xQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:jvLQFwgPfc0",
-      "title": "Why Anxious People Shouldn’t Use Deep Breathing",
-      "videoId": "jvLQFwgPfc0",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-21T13:01:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/jvLQFwgPfc0/hqdefault.jpg",
       "tags": []
     }
   ],

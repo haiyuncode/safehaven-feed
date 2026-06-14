@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-14T09:20:54.023Z",
+  "generatedAt": "2026-06-14T13:44:07.456Z",
   "videos": [
+    {
+      "id": "yt:video:O1h3Tnzlg2Y",
+      "title": "Reframe and Get Curious",
+      "videoId": "O1h3Tnzlg2Y",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-14T10:00:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/O1h3Tnzlg2Y/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:XtSppw6nSoE",
       "title": "How am I Getting Out of Overwhelm",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-25T16:01:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/teTiPlmXqJU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:klGXmnBQqKw",
-      "title": "The Biology of Trauma",
-      "videoId": "klGXmnBQqKw",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-23T10:00:48.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/klGXmnBQqKw/hqdefault.jpg",
       "tags": []
     }
   ],

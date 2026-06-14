@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-06-14T13:44:08.733Z",
+  "generatedAt": "2026-06-14T19:13:12.946Z",
   "videos": [
+    {
+      "id": "yt:video:rvLTYXfGlnk",
+      "title": "UNCUT | A Raw, Continuous Follow along Shadow Boxing Workout | No Equipment | High Calorie Burn",
+      "videoId": "rvLTYXfGlnk",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-06-14T15:45:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/rvLTYXfGlnk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Hg-gKfCNibI",
       "title": "Boxing training to burn max calories | Burn 400 Calories Fast With Explosive Boxing HIIT",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-03-30T21:32:22.000Z",
       "thumbnail": "https://i.ytimg.com/vi/HtfnV3pHZyk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:CFvJkry-LOE",
-      "title": "Overhand cross Technique Explained #boxing #mma",
-      "videoId": "CFvJkry-LOE",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-29T14:37:56.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/CFvJkry-LOE/hqdefault.jpg",
       "tags": []
     }
   ],

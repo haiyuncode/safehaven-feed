@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-16T02:57:14.709Z",
+  "generatedAt": "2026-06-16T10:56:52.394Z",
   "videos": [
     {
       "id": "yt:video:O1h3Tnzlg2Y",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/practicelab-worksheets-vol3/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol3",
+      "title": "How PracticeLab Volume 3 Improves Your Tool Kit",
+      "url": "https://positivepsychology.com/practicelab-worksheets-vol3/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol3",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-16T09:00:41.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/best-assessments/?utm_source=rss&utm_medium=rss&utm_campaign=best-assessments",
       "title": "How to Pick the Best Assessments for Your Clients",
       "url": "https://positivepsychology.com/best-assessments/?utm_source=rss&utm_medium=rss&utm_campaign=best-assessments",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/emotional-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-patterns",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-05-28T09:00:20.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/negative-self-talk/?utm_source=rss&utm_medium=rss&utm_campaign=negative-self-talk",
-      "title": "Schema-Informed Responses to Negative Self-Talk & Shame",
-      "url": "https://positivepsychology.com/negative-self-talk/?utm_source=rss&utm_medium=rss&utm_campaign=negative-self-talk",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-27T09:00:29.000Z",
       "tags": []
     }
   ]

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-17T02:54:22.826Z",
+  "generatedAt": "2026-06-17T10:28:16.374Z",
   "videos": [
     {
       "id": "yt:video:O1h3Tnzlg2Y",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/identity-vs-role-confusion/?utm_source=rss&utm_medium=rss&utm_campaign=identity-vs-role-confusion",
+      "title": "Identity vs. Role Confusion: Unsure About Who You Are?",
+      "url": "https://positivepsychology.com/identity-vs-role-confusion/?utm_source=rss&utm_medium=rss&utm_campaign=identity-vs-role-confusion",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-17T09:00:22.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/practicelab-worksheets-vol3/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol3",
       "title": "How PracticeLab Volume 3 Improves Your Tool Kit",
       "url": "https://positivepsychology.com/practicelab-worksheets-vol3/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol3",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/schema-therapy-tools/?utm_source=rss&utm_medium=rss&utm_campaign=schema-therapy-tools",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-01T09:00:04.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/emotional-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-patterns",
-      "title": "How Early Needs Shape Emotional Patterns in Adults",
-      "url": "https://positivepsychology.com/emotional-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-patterns",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-05-28T09:00:20.000Z",
       "tags": []
     }
   ]

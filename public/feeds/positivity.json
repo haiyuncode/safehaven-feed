@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-18T02:49:17.073Z",
+  "generatedAt": "2026-06-18T10:09:03.630Z",
   "videos": [
     {
       "id": "yt:video:O1h3Tnzlg2Y",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/loss-of-identity/?utm_source=rss&utm_medium=rss&utm_campaign=loss-of-identity",
+      "title": "Loss of Identity: How to Reconnect With Your True Self",
+      "url": "https://positivepsychology.com/loss-of-identity/?utm_source=rss&utm_medium=rss&utm_campaign=loss-of-identity",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-18T09:00:34.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/identity-vs-role-confusion/?utm_source=rss&utm_medium=rss&utm_campaign=identity-vs-role-confusion",
       "title": "Identity vs. Role Confusion: Unsure About Who You Are?",
       "url": "https://positivepsychology.com/identity-vs-role-confusion/?utm_source=rss&utm_medium=rss&utm_campaign=identity-vs-role-confusion",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/does-schema-therapy-work/?utm_source=rss&utm_medium=rss&utm_campaign=does-schema-therapy-work",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-02T09:00:58.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/schema-therapy-tools/?utm_source=rss&utm_medium=rss&utm_campaign=schema-therapy-tools",
-      "title": "Applying Schema Therapy Tools to 5 Clinical Presentations",
-      "url": "https://positivepsychology.com/schema-therapy-tools/?utm_source=rss&utm_medium=rss&utm_campaign=schema-therapy-tools",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-01T09:00:04.000Z",
       "tags": []
     }
   ]

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-19T14:46:23.979Z",
+  "generatedAt": "2026-06-19T19:28:34.433Z",
   "videos": [
+    {
+      "id": "yt:video:fSslWl1xajw",
+      "title": "Medical Treatments for Overthinking",
+      "videoId": "fSslWl1xajw",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-19T16:00:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fSslWl1xajw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:O1h3Tnzlg2Y",
       "title": "Reframe and Get Curious",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-29T10:00:15.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jB193ejIK_M/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:teTiPlmXqJU",
-      "title": "When You Have Panic Attacks",
-      "videoId": "teTiPlmXqJU",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-25T16:01:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/teTiPlmXqJU/hqdefault.jpg",
       "tags": []
     }
   ],

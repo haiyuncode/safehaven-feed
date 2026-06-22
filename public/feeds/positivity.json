@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-22T11:38:09.748Z",
+  "generatedAt": "2026-06-22T16:40:28.320Z",
   "videos": [
+    {
+      "id": "yt:video:1NM3Z3quMn4",
+      "title": "If You’re Stuck in FREEZE",
+      "videoId": "1NM3Z3quMn4",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-22T16:00:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/1NM3Z3quMn4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:7addghpVaJI",
       "title": "How to Stop Feeling Overwhelmed",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-05-30T16:00:12.000Z",
       "thumbnail": "https://i.ytimg.com/vi/NvCHIzLV0iM/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:bRvqM2SJWdI",
-      "title": "Watching Your Own Trauma Response",
-      "videoId": "bRvqM2SJWdI",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-30T10:00:14.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/bRvqM2SJWdI/hqdefault.jpg",
       "tags": []
     }
   ],

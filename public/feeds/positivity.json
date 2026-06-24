@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-24T08:55:20.394Z",
+  "generatedAt": "2026-06-24T14:10:58.599Z",
   "videos": [
     {
       "id": "yt:video:1NM3Z3quMn4",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/self-concept-vs-self-image/?utm_source=rss&utm_medium=rss&utm_campaign=self-concept-vs-self-image",
+      "title": "Self-Concept vs. Self-Image: What’s the Difference?",
+      "url": "https://positivepsychology.com/self-concept-vs-self-image/?utm_source=rss&utm_medium=rss&utm_campaign=self-concept-vs-self-image",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-24T09:00:24.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/anxiety-tools/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-tools",
       "title": "Anxiety Tools: How to Choose the Right Interventions",
       "url": "https://positivepsychology.com/anxiety-tools/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-tools",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/parenting-boundary-playbook/?utm_source=rss&utm_medium=rss&utm_campaign=parenting-boundary-playbook",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-04T09:00:56.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/permissive-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=permissive-parenting",
-      "title": "Permissive Parenting: 5 Signs You’re Being Too Lenient",
-      "url": "https://positivepsychology.com/permissive-parenting/?utm_source=rss&utm_medium=rss&utm_campaign=permissive-parenting",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-03T09:00:17.000Z",
       "tags": []
     }
   ]

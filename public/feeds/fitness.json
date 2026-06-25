@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-06-25T14:08:06.626Z",
+  "generatedAt": "2026-06-25T19:47:33.326Z",
   "videos": [
+    {
+      "id": "yt:video:BfiX_mRtl2Y",
+      "title": "Daily Sweat boxing workout | throw BOXING COMBOS on the bag | One Take",
+      "videoId": "BfiX_mRtl2Y",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-06-25T15:30:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/BfiX_mRtl2Y/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:rvLTYXfGlnk",
       "title": "UNCUT | A Raw, Continuous Follow along Shadow Boxing Workout | No Equipment | High Calorie Burn",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-04-04T13:47:27.000Z",
       "thumbnail": "https://i.ytimg.com/vi/t3oeG1sR9a4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:HtfnV3pHZyk",
-      "title": "Rear Overhand vs Rear HOOK #boxing",
-      "videoId": "HtfnV3pHZyk",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-03-30T21:32:22.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HtfnV3pHZyk/hqdefault.jpg",
       "tags": []
     }
   ],

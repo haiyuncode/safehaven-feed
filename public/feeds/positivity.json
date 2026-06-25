@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-25T08:49:34.930Z",
+  "generatedAt": "2026-06-25T14:08:04.936Z",
   "videos": [
+    {
+      "id": "yt:video:AyP4wujnb0g",
+      "title": "4 Things Emotionally Stable People DON'T Do",
+      "videoId": "AyP4wujnb0g",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-25T13:00:16.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/AyP4wujnb0g/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:1NM3Z3quMn4",
       "title": "If You’re Stuck in FREEZE",
@@ -127,18 +136,17 @@
       "publishedAt": "2026-05-31T10:00:15.000Z",
       "thumbnail": "https://i.ytimg.com/vi/lfhHqxyALMk/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:NvCHIzLV0iM",
-      "title": "The Biggest Panic Attack",
-      "videoId": "NvCHIzLV0iM",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-30T16:00:12.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/NvCHIzLV0iM/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/how-to-find-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-yourself",
+      "title": "How to Find Yourself When You Feel Lost",
+      "url": "https://positivepsychology.com/how-to-find-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-yourself",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-25T09:00:59.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/self-concept-vs-self-image/?utm_source=rss&utm_medium=rss&utm_campaign=self-concept-vs-self-image",
       "title": "Self-Concept vs. Self-Image: What’s the Difference?",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/self-actualization/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-08T09:00:22.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/parenting-boundary-playbook/?utm_source=rss&utm_medium=rss&utm_campaign=parenting-boundary-playbook",
-      "title": "Warm but Firm: A Positive Parenting Boundary Playbook",
-      "url": "https://positivepsychology.com/parenting-boundary-playbook/?utm_source=rss&utm_medium=rss&utm_campaign=parenting-boundary-playbook",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-04T09:00:56.000Z",
       "tags": []
     }
   ]

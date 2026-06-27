@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-27T13:16:10.218Z",
+  "generatedAt": "2026-06-27T19:06:37.509Z",
   "videos": [
+    {
+      "id": "yt:video:LfMDtHORt9M",
+      "title": "How to Get Out of Freeze Response",
+      "videoId": "LfMDtHORt9M",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-27T16:00:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/LfMDtHORt9M/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:AyP4wujnb0g",
       "title": "4 Essential Habits for Emotional Regulation",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-01T16:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/nf10qeBkPFk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:lfhHqxyALMk",
-      "title": "How Childhood Trauma Shows up as an Adult",
-      "videoId": "lfhHqxyALMk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-05-31T10:00:15.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/lfhHqxyALMk/hqdefault.jpg",
       "tags": []
     }
   ],

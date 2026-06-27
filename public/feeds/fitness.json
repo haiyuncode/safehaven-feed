@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-06-27T13:16:11.794Z",
+  "generatedAt": "2026-06-27T19:06:38.898Z",
   "videos": [
+    {
+      "id": "yt:video:QHrDzKN60Ys",
+      "title": "FAST hand inside BOXING DRILL | #boxingtraining",
+      "videoId": "QHrDzKN60Ys",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-06-27T15:17:16.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/QHrDzKN60Ys/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:BfiX_mRtl2Y",
       "title": "Daily Sweat boxing workout | throw BOXING COMBOS on the bag | One Take",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-04-04T16:01:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/pfyQz-9c8kg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:t3oeG1sR9a4",
-      "title": "Sounds of Boxing | Shadow boxing and heavy bag movement #boxing #mma",
-      "videoId": "t3oeG1sR9a4",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-04-04T13:47:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/t3oeG1sR9a4/hqdefault.jpg",
       "tags": []
     }
   ],

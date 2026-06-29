@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-06-29T15:33:34.157Z",
+  "generatedAt": "2026-06-29T19:45:48.015Z",
   "videos": [
+    {
+      "id": "yt:video:wUZwBSafjsQ",
+      "title": "The Best Kind of Movement for Depression",
+      "videoId": "wUZwBSafjsQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-06-29T16:00:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wUZwBSafjsQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:LfMDtHORt9M",
       "title": "How to Get Out of Freeze Response",
@@ -127,18 +136,17 @@
       "publishedAt": "2026-06-05T16:00:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jKbmrIjtOe4/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:nf10qeBkPFk",
-      "title": "Unethical Therapy",
-      "videoId": "nf10qeBkPFk",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-01T16:00:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/nf10qeBkPFk/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/sense-of-self-psychology/?utm_source=rss&utm_medium=rss&utm_campaign=sense-of-self-psychology",
+      "title": "Exploring a Client’s Sense of Self in Psychology: A Framework",
+      "url": "https://positivepsychology.com/sense-of-self-psychology/?utm_source=rss&utm_medium=rss&utm_campaign=sense-of-self-psychology",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-06-29T09:00:57.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/how-to-find-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-yourself",
       "title": "How to Find Yourself When You Feel Lost",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-get-through-hard-times/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-through-hard-times",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-10T09:00:11.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-actualization/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization",
-      "title": "Self-Actualization in Positive Psychology: Meaning & Pathways",
-      "url": "https://positivepsychology.com/self-actualization/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-08T09:00:22.000Z",
       "tags": []
     }
   ]

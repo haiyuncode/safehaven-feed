@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-01T14:13:54.480Z",
+  "generatedAt": "2026-07-01T19:41:48.133Z",
   "videos": [
     {
       "id": "yt:video:wUZwBSafjsQ",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/history-of-mindfulness/?utm_source=rss&utm_medium=rss&utm_campaign=history-of-mindfulness",
+      "title": "The Origins and History of Mindfulness",
+      "url": "https://positivepsychology.com/history-of-mindfulness/?utm_source=rss&utm_medium=rss&utm_campaign=history-of-mindfulness",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-01T09:00:12.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/sense-of-self-psychology/?utm_source=rss&utm_medium=rss&utm_campaign=sense-of-self-psychology",
       "title": "Exploring a Client’s Sense of Self in Psychology: A Framework",
       "url": "https://positivepsychology.com/sense-of-self-psychology/?utm_source=rss&utm_medium=rss&utm_campaign=sense-of-self-psychology",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/cope-with-grief/?utm_source=rss&utm_medium=rss&utm_campaign=cope-with-grief",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-11T09:00:35.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/how-to-get-through-hard-times/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-through-hard-times",
-      "title": "7-Day Resilience Reset: How to Get Through Hard Times",
-      "url": "https://positivepsychology.com/how-to-get-through-hard-times/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-through-hard-times",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-10T09:00:11.000Z",
       "tags": []
     }
   ]

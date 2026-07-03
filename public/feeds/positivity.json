@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-03T13:46:48.501Z",
+  "generatedAt": "2026-07-03T19:05:41.935Z",
   "videos": [
+    {
+      "id": "yt:video:CTRXVtKLQ30",
+      "title": "Why You Feel Depressed",
+      "videoId": "CTRXVtKLQ30",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-07-03T16:00:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CTRXVtKLQ30/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:wUZwBSafjsQ",
       "title": "The Best Kind of Movement for Depression",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-06T10:00:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/cwAuNWFJd0Q/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:jKbmrIjtOe4",
-      "title": "Reactive People’s Greatest Fear",
-      "videoId": "jKbmrIjtOe4",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-05T16:00:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/jKbmrIjtOe4/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-07-03T13:46:50.004Z",
+  "generatedAt": "2026-07-03T19:05:43.480Z",
   "videos": [
+    {
+      "id": "yt:video:JZo-Zrx-k08",
+      "title": "The Red Line in Narcissistic Relationships",
+      "videoId": "JZo-Zrx-k08",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-07-03T15:00:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/JZo-Zrx-k08/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ivpzza44Vvg",
       "title": "4 SHOCKING gaslighting tricks that leave you questioning your reality",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-06-17T15:00:25.000Z",
       "thumbnail": "https://i.ytimg.com/vi/hUpC0vamg-g/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:31IyV9lfuIs",
-      "title": "Why Narcissistic Jealousy Hits Different",
-      "videoId": "31IyV9lfuIs",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-06-15T15:00:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/31IyV9lfuIs/hqdefault.jpg",
       "tags": []
     },
     {

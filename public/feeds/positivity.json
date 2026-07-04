@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-04T08:26:16.024Z",
+  "generatedAt": "2026-07-04T13:05:02.608Z",
   "videos": [
+    {
+      "id": "yt:video:80hWYKtJWMo",
+      "title": "Change Your Environment",
+      "videoId": "80hWYKtJWMo",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-07-04T10:00:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/80hWYKtJWMo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:CTRXVtKLQ30",
       "title": "Why You Feel Depressed",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-07T16:00:29.000Z",
       "thumbnail": "https://i.ytimg.com/vi/vYOjNabFgPA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:cwAuNWFJd0Q",
-      "title": "Stress is Very Different From Trauma",
-      "videoId": "cwAuNWFJd0Q",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-06T10:00:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/cwAuNWFJd0Q/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-05T08:42:34.887Z",
+  "generatedAt": "2026-07-05T13:13:51.609Z",
   "videos": [
+    {
+      "id": "yt:video:KRqep0GjuzQ",
+      "title": "How to Regulate Your Nervous System with Connection",
+      "videoId": "KRqep0GjuzQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-07-05T10:00:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/KRqep0GjuzQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:80hWYKtJWMo",
       "title": "Change Your Environment",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-08T16:00:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/MotCNV7R6l0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:vYOjNabFgPA",
-      "title": "Dealing with Regrets",
-      "videoId": "vYOjNabFgPA",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-07T16:00:29.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/vYOjNabFgPA/hqdefault.jpg",
       "tags": []
     }
   ],

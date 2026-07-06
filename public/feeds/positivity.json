@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-06T02:27:44.216Z",
+  "generatedAt": "2026-07-06T09:59:33.352Z",
   "videos": [
     {
       "id": "yt:video:KRqep0GjuzQ",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/self-actualization-framework/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization-framework",
+      "title": "Self-Actualization Framework: 5 Foundations for Growth",
+      "url": "https://positivepsychology.com/self-actualization-framework/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization-framework",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-06T09:00:33.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/mindfulness-books/?utm_source=rss&utm_medium=rss&utm_campaign=mindfulness-books",
       "title": "The Best Mindfulness Books for Your Goals",
       "url": "https://positivepsychology.com/mindfulness-books/?utm_source=rss&utm_medium=rss&utm_campaign=mindfulness-books",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/practicelab-worksheets-vol3/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol3",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-16T09:00:41.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/best-assessments/?utm_source=rss&utm_medium=rss&utm_campaign=best-assessments",
-      "title": "How to Pick the Best Assessments for Your Clients",
-      "url": "https://positivepsychology.com/best-assessments/?utm_source=rss&utm_medium=rss&utm_campaign=best-assessments",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-15T09:00:25.000Z",
       "tags": []
     }
   ]

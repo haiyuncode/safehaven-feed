@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-08T13:45:14.226Z",
+  "generatedAt": "2026-07-08T19:11:09.144Z",
   "videos": [
     {
       "id": "yt:video:KRqep0GjuzQ",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/psychological-independence/?utm_source=rss&utm_medium=rss&utm_campaign=psychological-independence",
+      "title": "Psychological Independence: What It Is & How to Build It",
+      "url": "https://positivepsychology.com/psychological-independence/?utm_source=rss&utm_medium=rss&utm_campaign=psychological-independence",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-08T09:00:08.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/self-actualization-framework/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization-framework",
       "title": "Self-Actualization Framework: 5 Foundations for Growth",
       "url": "https://positivepsychology.com/self-actualization-framework/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization-framework",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/identity-vs-role-confusion/?utm_source=rss&utm_medium=rss&utm_campaign=identity-vs-role-confusion",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-17T09:00:22.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/practicelab-worksheets-vol3/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol3",
-      "title": "How PracticeLab Volume 3 Improves Your Tool Kit",
-      "url": "https://positivepsychology.com/practicelab-worksheets-vol3/?utm_source=rss&utm_medium=rss&utm_campaign=practicelab-worksheets-vol3",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-16T09:00:41.000Z",
       "tags": []
     }
   ]

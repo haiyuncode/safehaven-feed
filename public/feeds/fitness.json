@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-07-07T19:43:56.017Z",
+  "generatedAt": "2026-07-08T01:56:57.318Z",
   "videos": [
+    {
+      "id": "yt:video:TRGiPEEI41E",
+      "title": "TIPS for CLEANER left HOOKS in #Boxing",
+      "videoId": "TRGiPEEI41E",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-07-07T23:52:16.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/TRGiPEEI41E/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:QHrDzKN60Ys",
       "title": "FAST hand inside BOXING DRILL | #boxingtraining",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-04-09T15:01:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Yq4mOLFwjwo/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:pfyQz-9c8kg",
-      "title": "Fat Loss PUNCHING BAG BOXING Workout",
-      "videoId": "pfyQz-9c8kg",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-04-04T16:01:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/pfyQz-9c8kg/hqdefault.jpg",
       "tags": []
     }
   ],

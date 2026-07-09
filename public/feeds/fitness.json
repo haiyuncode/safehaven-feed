@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-07-09T14:36:50.542Z",
+  "generatedAt": "2026-07-09T19:25:32.254Z",
   "videos": [
+    {
+      "id": "yt:video:YyoalTtA0Ts",
+      "title": "Summer Fat burning Shred | Boxing workout for Weight management",
+      "videoId": "YyoalTtA0Ts",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-07-09T15:00:08.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/YyoalTtA0Ts/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:TRGiPEEI41E",
       "title": "TIPS for CLEANER left HOOKS in #Boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-04-19T15:07:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/lIn_nhrCAZU/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Yq4mOLFwjwo",
-      "title": "Perfect PACE - 10 Minute Heavy Bag Workout - Beginner to intermediate",
-      "videoId": "Yq4mOLFwjwo",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-04-09T15:01:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Yq4mOLFwjwo/hqdefault.jpg",
       "tags": []
     }
   ],

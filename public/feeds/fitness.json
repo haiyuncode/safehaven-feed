@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-07-10T19:17:48.415Z",
+  "generatedAt": "2026-07-11T01:55:26.384Z",
   "videos": [
+    {
+      "id": "yt:video:Fo1YjCJ8oaw",
+      "title": "Boxing combos with footwork and conditioning #boxing",
+      "videoId": "Fo1YjCJ8oaw",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-07-11T00:16:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Fo1YjCJ8oaw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:YyoalTtA0Ts",
       "title": "Summer Fat burning Shred | Boxing workout for Weight management",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-04-22T16:00:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/2JytUx7Flrs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:lIn_nhrCAZU",
-      "title": "Lift the CHIN | Inside uppercut technique #boxing #boxingtraining",
-      "videoId": "lIn_nhrCAZU",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-04-19T15:07:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/lIn_nhrCAZU/hqdefault.jpg",
       "tags": []
     }
   ],

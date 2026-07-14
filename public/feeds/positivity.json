@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-14T07:49:23.202Z",
+  "generatedAt": "2026-07-14T13:14:25.982Z",
   "videos": [
     {
       "id": "yt:video:TOdmVMepGkA",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/emotion-identification/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-identification",
+      "title": "Emotion Identification: A Daily Practice for Better Self-Awareness",
+      "url": "https://positivepsychology.com/emotion-identification/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-identification",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-14T09:00:12.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/assess-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=assess-resilience",
       "title": "How to Assess Resilience: The Protective Factors Framework",
       "url": "https://positivepsychology.com/assess-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=assess-resilience",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/self-concept-vs-self-image/?utm_source=rss&utm_medium=rss&utm_campaign=self-concept-vs-self-image",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-24T09:00:24.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/anxiety-tools/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-tools",
-      "title": "Anxiety Tools: How to Choose the Right Interventions",
-      "url": "https://positivepsychology.com/anxiety-tools/?utm_source=rss&utm_medium=rss&utm_campaign=anxiety-tools",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-22T09:00:19.000Z",
       "tags": []
     }
   ]

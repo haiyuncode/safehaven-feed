@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-15T07:53:13.604Z",
+  "generatedAt": "2026-07-15T13:18:10.476Z",
   "videos": [
     {
       "id": "yt:video:TOdmVMepGkA",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/how-to-be-more-resilient/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-more-resilient",
+      "title": "How to Be More Resilient in Everyday Life",
+      "url": "https://positivepsychology.com/how-to-be-more-resilient/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-more-resilient",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-15T09:00:08.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/emotion-identification/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-identification",
       "title": "Emotion Identification: A Daily Practice for Better Self-Awareness",
       "url": "https://positivepsychology.com/emotion-identification/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-identification",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-find-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-yourself",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-25T09:00:59.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-concept-vs-self-image/?utm_source=rss&utm_medium=rss&utm_campaign=self-concept-vs-self-image",
-      "title": "Self-Concept vs. Self-Image: What’s the Difference?",
-      "url": "https://positivepsychology.com/self-concept-vs-self-image/?utm_source=rss&utm_medium=rss&utm_campaign=self-concept-vs-self-image",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-24T09:00:24.000Z",
       "tags": []
     }
   ]

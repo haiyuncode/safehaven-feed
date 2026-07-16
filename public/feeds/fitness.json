@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-07-16T13:24:59.790Z",
+  "generatedAt": "2026-07-16T18:58:47.131Z",
   "videos": [
+    {
+      "id": "yt:video:A4iPtIARM9Q",
+      "title": "20 Minute Build up Boxing Flow | Body weight Shadow Boxing Workout | Boxing To Shred Fat",
+      "videoId": "A4iPtIARM9Q",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-07-16T15:45:33.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/A4iPtIARM9Q/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Fo1YjCJ8oaw",
       "title": "Boxing combos with footwork and conditioning #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-04-25T18:26:43.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jBQqeyzzLpQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:2JytUx7Flrs",
-      "title": "Boxing Hand Wrap Tutorial: Pro vs. Amateur Methods (Step-by-Step)",
-      "videoId": "2JytUx7Flrs",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-04-22T16:00:04.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/2JytUx7Flrs/hqdefault.jpg",
       "tags": []
     }
   ],

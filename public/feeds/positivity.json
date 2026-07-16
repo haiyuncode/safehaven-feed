@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-16T07:58:53.151Z",
+  "generatedAt": "2026-07-16T13:24:58.428Z",
   "videos": [
     {
       "id": "yt:video:TOdmVMepGkA",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/signs-of-a-resilient-person/?utm_source=rss&utm_medium=rss&utm_campaign=signs-of-a-resilient-person",
+      "title": "What Are the Signs of a Resilient Person?",
+      "url": "https://positivepsychology.com/signs-of-a-resilient-person/?utm_source=rss&utm_medium=rss&utm_campaign=signs-of-a-resilient-person",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-16T09:00:18.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/how-to-be-more-resilient/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-more-resilient",
       "title": "How to Be More Resilient in Everyday Life",
       "url": "https://positivepsychology.com/how-to-be-more-resilient/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-more-resilient",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/sense-of-self-psychology/?utm_source=rss&utm_medium=rss&utm_campaign=sense-of-self-psychology",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-06-29T09:00:57.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/how-to-find-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-yourself",
-      "title": "How to Find Yourself When You Feel Lost",
-      "url": "https://positivepsychology.com/how-to-find-yourself/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-yourself",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-25T09:00:59.000Z",
       "tags": []
     }
   ]

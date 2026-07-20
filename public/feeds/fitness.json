@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-07-20T13:50:59.949Z",
+  "generatedAt": "2026-07-20T19:27:42.926Z",
   "videos": [
+    {
+      "id": "yt:video:01pnoGfU9fA",
+      "title": "IMPROVE punch ACCURACY instantly like this #boxing",
+      "videoId": "01pnoGfU9fA",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-07-20T18:35:53.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/01pnoGfU9fA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:A4iPtIARM9Q",
       "title": "20 Minute Build up Boxing Flow | Body weight Shadow Boxing Workout | Boxing To Shred Fat",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-04-25T20:30:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/q8WuP261KFs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:jBQqeyzzLpQ",
-      "title": "Why PRO Boxers are built different #boxing",
-      "videoId": "jBQqeyzzLpQ",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-04-25T18:26:43.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/jBQqeyzzLpQ/hqdefault.jpg",
       "tags": []
     }
   ],

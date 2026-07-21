@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-21T01:55:33.517Z",
+  "generatedAt": "2026-07-21T08:11:00.726Z",
   "videos": [
     {
       "id": "yt:video:TOdmVMepGkA",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/positive-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mental-health",
+      "title": "Positive Mental Health: The 19-Dimension Taxonomy",
+      "url": "https://positivepsychology.com/positive-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mental-health",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-20T09:00:39.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/signs-of-a-resilient-person/?utm_source=rss&utm_medium=rss&utm_campaign=signs-of-a-resilient-person",
       "title": "What Are the Signs of a Resilient Person?",
       "url": "https://positivepsychology.com/signs-of-a-resilient-person/?utm_source=rss&utm_medium=rss&utm_campaign=signs-of-a-resilient-person",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/history-of-mindfulness/?utm_source=rss&utm_medium=rss&utm_campaign=history-of-mindfulness",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-01T09:00:12.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/sense-of-self-psychology/?utm_source=rss&utm_medium=rss&utm_campaign=sense-of-self-psychology",
-      "title": "Exploring a Client’s Sense of Self in Psychology: A Framework",
-      "url": "https://positivepsychology.com/sense-of-self-psychology/?utm_source=rss&utm_medium=rss&utm_campaign=sense-of-self-psychology",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-06-29T09:00:57.000Z",
       "tags": []
     }
   ]

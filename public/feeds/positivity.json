@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-21T08:11:00.726Z",
+  "generatedAt": "2026-07-21T13:21:01.026Z",
   "videos": [
+    {
+      "id": "yt:video:lOpma22SiXk",
+      "title": "This Thinking Pattern Makes Everything Feel Worse - Overgeneralization-  Emotion Regulation 2/30",
+      "videoId": "lOpma22SiXk",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-07-21T13:00:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/lOpma22SiXk/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:TOdmVMepGkA",
       "title": "How to make yourself do stuff when you're paralyzed with overwhelm",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-12T16:00:19.000Z",
       "thumbnail": "https://i.ytimg.com/vi/0y6ifraB21I/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:HxwXjnai2Bs",
-      "title": "What to do when life overwhelms you",
-      "videoId": "HxwXjnai2Bs",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-11T12:48:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/HxwXjnai2Bs/hqdefault.jpg",
       "tags": []
     }
   ],

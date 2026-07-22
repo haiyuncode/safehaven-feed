@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-07-21T19:06:13.565Z",
+  "generatedAt": "2026-07-22T01:54:17.703Z",
   "videos": [
+    {
+      "id": "yt:video:wpo2AqbyNSM",
+      "title": "How to Punch the Heavy Bag | Left Hook Fist alignment #Boxing",
+      "videoId": "wpo2AqbyNSM",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-07-21T22:00:32.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/wpo2AqbyNSM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:01pnoGfU9fA",
       "title": "Agility ladder to train  ACCURACY #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-04-26T12:39:26.000Z",
       "thumbnail": "https://i.ytimg.com/vi/zPeebyVUT_g/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:q8WuP261KFs",
-      "title": "Professional Hand wrapping Feels Dangerous #boxing  #mma",
-      "videoId": "q8WuP261KFs",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-04-25T20:30:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/q8WuP261KFs/hqdefault.jpg",
       "tags": []
     }
   ],

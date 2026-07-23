@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-23T08:15:11.176Z",
+  "generatedAt": "2026-07-23T13:28:26.812Z",
   "videos": [
     {
       "id": "yt:video:lOpma22SiXk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/positive-mindset-heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mindset-heart-health",
+      "title": "How a Positive Mindset Can Strengthen Your Heart",
+      "url": "https://positivepsychology.com/positive-mindset-heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mindset-heart-health",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-23T09:00:29.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=heart-health",
       "title": "Stress and Heart Health: Simple Ways to Protect Your Heart",
       "url": "https://positivepsychology.com/heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=heart-health",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/self-actualization-framework/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization-framework",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-06T09:00:33.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/mindfulness-books/?utm_source=rss&utm_medium=rss&utm_campaign=mindfulness-books",
-      "title": "The Best Mindfulness Books for Your Goals",
-      "url": "https://positivepsychology.com/mindfulness-books/?utm_source=rss&utm_medium=rss&utm_campaign=mindfulness-books",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-02T09:00:24.000Z",
       "tags": []
     }
   ]

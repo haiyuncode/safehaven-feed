@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-07-24T13:21:11.829Z",
+  "generatedAt": "2026-07-24T19:14:24.448Z",
   "videos": [
+    {
+      "id": "yt:video:Ga7SILwDZKQ",
+      "title": "L-STEP Tactics | do this after the step #boxingfootwork",
+      "videoId": "Ga7SILwDZKQ",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-07-24T14:52:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ga7SILwDZKQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:wpo2AqbyNSM",
       "title": "How to Punch the Heavy Bag | Left Hook Fist alignment #Boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-05-28T16:30:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/pJZ4i72dbSk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:zPeebyVUT_g",
-      "title": "Why The CROSS ❌ PATTERN matters when wrapping your hands #boxing",
-      "videoId": "zPeebyVUT_g",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-04-26T12:39:26.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/zPeebyVUT_g/hqdefault.jpg",
       "tags": []
     }
   ],

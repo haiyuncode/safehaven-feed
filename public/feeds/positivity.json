@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-27T09:35:00.209Z",
+  "generatedAt": "2026-07-27T14:13:42.185Z",
   "videos": [
     {
       "id": "yt:video:lOpma22SiXk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/heart-rate-variability-well-being/?utm_source=rss&utm_medium=rss&utm_campaign=heart-rate-variability-well-being",
+      "title": "Heart Rate Variability & Well-Being in Positive Psychology",
+      "url": "https://positivepsychology.com/heart-rate-variability-well-being/?utm_source=rss&utm_medium=rss&utm_campaign=heart-rate-variability-well-being",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-27T09:00:25.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/positive-mindset-heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mindset-heart-health",
       "title": "How a Positive Mindset Can Strengthen Your Heart",
       "url": "https://positivepsychology.com/positive-mindset-heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mindset-heart-health",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/psychological-independence/?utm_source=rss&utm_medium=rss&utm_campaign=psychological-independence",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-08T09:00:08.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/self-actualization-framework/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization-framework",
-      "title": "Self-Actualization Framework: 5 Foundations for Growth",
-      "url": "https://positivepsychology.com/self-actualization-framework/?utm_source=rss&utm_medium=rss&utm_campaign=self-actualization-framework",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-06T09:00:33.000Z",
       "tags": []
     }
   ]

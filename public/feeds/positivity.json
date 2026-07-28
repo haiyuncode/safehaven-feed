@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-28T13:45:04.378Z",
+  "generatedAt": "2026-07-28T19:10:57.904Z",
   "videos": [
     {
       "id": "yt:video:lOpma22SiXk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/ikigai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=ikigai-tools",
+      "title": "How to Use Ikigai Tools in Coaching: A Three-Step Framework",
+      "url": "https://positivepsychology.com/ikigai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=ikigai-tools",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-28T09:00:53.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/heart-rate-variability-well-being/?utm_source=rss&utm_medium=rss&utm_campaign=heart-rate-variability-well-being",
       "title": "Heart Rate Variability & Well-Being in Positive Psychology",
       "url": "https://positivepsychology.com/heart-rate-variability-well-being/?utm_source=rss&utm_medium=rss&utm_campaign=heart-rate-variability-well-being",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/trust-your-own-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=trust-your-own-judgment",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-09T09:00:16.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/psychological-independence/?utm_source=rss&utm_medium=rss&utm_campaign=psychological-independence",
-      "title": "Psychological Independence: What It Is & How to Build It",
-      "url": "https://positivepsychology.com/psychological-independence/?utm_source=rss&utm_medium=rss&utm_campaign=psychological-independence",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-08T09:00:08.000Z",
       "tags": []
     }
   ]

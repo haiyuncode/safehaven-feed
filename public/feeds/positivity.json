@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-29T08:24:55.017Z",
+  "generatedAt": "2026-07-29T13:50:05.046Z",
   "videos": [
     {
       "id": "yt:video:lOpma22SiXk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/how-to-start-journaling/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-start-journaling",
+      "title": "How to Start Journaling: A Beginner’s Guide",
+      "url": "https://positivepsychology.com/how-to-start-journaling/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-start-journaling",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-29T09:00:11.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/ikigai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=ikigai-tools",
       "title": "How to Use Ikigai Tools in Coaching: A Three-Step Framework",
       "url": "https://positivepsychology.com/ikigai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=ikigai-tools",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/assess-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=assess-resilience",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-13T09:00:39.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/trust-your-own-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=trust-your-own-judgment",
-      "title": "How to Trust Your Own Judgment Without Shutting People Out",
-      "url": "https://positivepsychology.com/trust-your-own-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=trust-your-own-judgment",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-09T09:00:16.000Z",
       "tags": []
     }
   ]

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-07-30T08:10:13.121Z",
+  "generatedAt": "2026-07-30T13:40:52.014Z",
   "videos": [
     {
       "id": "yt:video:lOpma22SiXk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/journaling-for-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=journaling-for-anxiety",
+      "title": "Journaling for Anxiety: Prompts, Science, and Techniques",
+      "url": "https://positivepsychology.com/journaling-for-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=journaling-for-anxiety",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-07-30T09:00:56.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/how-to-start-journaling/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-start-journaling",
       "title": "How to Start Journaling: A Beginner’s Guide",
       "url": "https://positivepsychology.com/how-to-start-journaling/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-start-journaling",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/emotion-identification/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-identification",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-14T09:00:12.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/assess-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=assess-resilience",
-      "title": "How to Assess Resilience: The Protective Factors Framework",
-      "url": "https://positivepsychology.com/assess-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=assess-resilience",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-13T09:00:39.000Z",
       "tags": []
     }
   ]

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-08-02T13:03:22.407Z",
+  "generatedAt": "2026-08-02T18:58:02.631Z",
   "videos": [
+    {
+      "id": "yt:video:mwX2RNst85Q",
+      "title": "Don’t do that | Do this to PROTECT yourself in a fight #boxing #fighting",
+      "videoId": "mwX2RNst85Q",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-08-02T17:45:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/mwX2RNst85Q/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Ga7SILwDZKQ",
       "title": "L-STEP Tactics | do this after the step #boxingfootwork",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-06-01T14:30:00.000Z",
       "thumbnail": "https://i.ytimg.com/vi/SpVvG_IxpNI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:pJZ4i72dbSk",
-      "title": "20 MINUTE Heavy BAG HIIT - 5 ROUNDS to Get Shredded Like a PRO Boxer",
-      "videoId": "pJZ4i72dbSk",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-05-28T16:30:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/pJZ4i72dbSk/hqdefault.jpg",
       "tags": []
     }
   ],

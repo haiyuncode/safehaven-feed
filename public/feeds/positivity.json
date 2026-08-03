@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-08-03T14:20:27.212Z",
+  "generatedAt": "2026-08-03T19:21:21.856Z",
   "videos": [
     {
       "id": "yt:video:lOpma22SiXk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/school-wide-sel-implementation-guide/?utm_source=rss&utm_medium=rss&utm_campaign=school-wide-sel-implementation-guide",
+      "title": "School-Wide SEL Implementation: A 3-Phase Framework",
+      "url": "https://positivepsychology.com/school-wide-sel-implementation-guide/?utm_source=rss&utm_medium=rss&utm_campaign=school-wide-sel-implementation-guide",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-08-03T09:00:10.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/journaling-for-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=journaling-for-anxiety",
       "title": "Journaling for Anxiety: Prompts, Science, and Techniques",
       "url": "https://positivepsychology.com/journaling-for-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=journaling-for-anxiety",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-be-more-resilient/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-more-resilient",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-15T09:00:08.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/emotion-identification/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-identification",
-      "title": "Emotion Identification: A Daily Practice for Better Self-Awareness",
-      "url": "https://positivepsychology.com/emotion-identification/?utm_source=rss&utm_medium=rss&utm_campaign=emotion-identification",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-14T09:00:12.000Z",
       "tags": []
     }
   ]

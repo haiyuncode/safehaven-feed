@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-08-04T08:24:23.017Z",
+  "generatedAt": "2026-08-04T13:51:29.699Z",
   "videos": [
     {
       "id": "yt:video:lOpma22SiXk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/gratitude-ted-talks-videos/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-ted-talks-videos",
+      "title": "16 TED Talks On Gratitude That Are Well Worth Watching",
+      "url": "https://positivepsychology.com/gratitude-ted-talks-videos/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-ted-talks-videos",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-08-04T09:00:02.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/school-wide-sel-implementation-guide/?utm_source=rss&utm_medium=rss&utm_campaign=school-wide-sel-implementation-guide",
       "title": "School-Wide SEL Implementation: A 3-Phase Framework",
       "url": "https://positivepsychology.com/school-wide-sel-implementation-guide/?utm_source=rss&utm_medium=rss&utm_campaign=school-wide-sel-implementation-guide",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/signs-of-a-resilient-person/?utm_source=rss&utm_medium=rss&utm_campaign=signs-of-a-resilient-person",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-16T09:00:18.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/how-to-be-more-resilient/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-more-resilient",
-      "title": "How to Be More Resilient in Everyday Life",
-      "url": "https://positivepsychology.com/how-to-be-more-resilient/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-be-more-resilient",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-15T09:00:08.000Z",
       "tags": []
     }
   ]

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-08-05T08:22:06.686Z",
+  "generatedAt": "2026-08-05T13:47:44.904Z",
   "videos": [
     {
       "id": "yt:video:lOpma22SiXk",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/communication-games-for-families-friends/?utm_source=rss&utm_medium=rss&utm_campaign=communication-games-for-families-friends",
+      "title": "10 Fun Communication Games for Families and Friends",
+      "url": "https://positivepsychology.com/communication-games-for-families-friends/?utm_source=rss&utm_medium=rss&utm_campaign=communication-games-for-families-friends",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-08-05T09:00:50.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/gratitude-ted-talks-videos/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-ted-talks-videos",
       "title": "16 TED Talks On Gratitude That Are Well Worth Watching",
       "url": "https://positivepsychology.com/gratitude-ted-talks-videos/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-ted-talks-videos",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/positive-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mental-health",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-20T09:00:39.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/signs-of-a-resilient-person/?utm_source=rss&utm_medium=rss&utm_campaign=signs-of-a-resilient-person",
-      "title": "What Are the Signs of a Resilient Person?",
-      "url": "https://positivepsychology.com/signs-of-a-resilient-person/?utm_source=rss&utm_medium=rss&utm_campaign=signs-of-a-resilient-person",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-16T09:00:18.000Z",
       "tags": []
     }
   ]

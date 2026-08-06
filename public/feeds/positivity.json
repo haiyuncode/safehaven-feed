@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-08-06T08:19:23.034Z",
+  "generatedAt": "2026-08-06T13:45:17.970Z",
   "videos": [
+    {
+      "id": "yt:video:ShZKdJF95P8",
+      "title": "The Massive Impact of Hormones for Women w/ ADHD",
+      "videoId": "ShZKdJF95P8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-08-06T12:17:57.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ShZKdJF95P8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:lOpma22SiXk",
       "title": "This Thinking Pattern Makes Everything Feel Worse - Overgeneralization-  Emotion Regulation 2/30",
@@ -127,18 +136,17 @@
       "publishedAt": "2026-06-13T10:00:03.000Z",
       "thumbnail": "https://i.ytimg.com/vi/XtSppw6nSoE/hqdefault.jpg",
       "tags": []
-    },
-    {
-      "id": "yt:video:0y6ifraB21I",
-      "title": "Reframe Emotional Crisis as an Opportunity to Grow",
-      "videoId": "0y6ifraB21I",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-12T16:00:19.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/0y6ifraB21I/hqdefault.jpg",
-      "tags": []
     }
   ],
   "articles": [
+    {
+      "id": "link:https://positivepsychology.com/communication-games-for-teens-parents/?utm_source=rss&utm_medium=rss&utm_campaign=communication-games-for-teens-parents",
+      "title": "8 Communication Games for Teens and Parents",
+      "url": "https://positivepsychology.com/communication-games-for-teens-parents/?utm_source=rss&utm_medium=rss&utm_campaign=communication-games-for-teens-parents",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-08-06T09:00:21.000Z",
+      "tags": []
+    },
     {
       "id": "link:https://positivepsychology.com/communication-games-for-families-friends/?utm_source=rss&utm_medium=rss&utm_campaign=communication-games-for-families-friends",
       "title": "10 Fun Communication Games for Families and Friends",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=heart-health",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-22T09:00:33.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/positive-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mental-health",
-      "title": "Positive Mental Health: The 19-Dimension Taxonomy",
-      "url": "https://positivepsychology.com/positive-mental-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mental-health",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-20T09:00:39.000Z",
       "tags": []
     }
   ]

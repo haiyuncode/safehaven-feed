@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-08-10T07:15:01.314Z",
+  "generatedAt": "2026-08-10T12:50:30.882Z",
   "videos": [
     {
       "id": "yt:video:ShZKdJF95P8",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/transpersonal-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=transpersonal-therapy",
+      "title": "Transpersonal Therapy: A Psychospiritual Approach",
+      "url": "https://positivepsychology.com/transpersonal-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=transpersonal-therapy",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-08-10T09:00:29.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/communication-games-for-teens-parents/?utm_source=rss&utm_medium=rss&utm_campaign=communication-games-for-teens-parents",
       "title": "8 Communication Games for Teens and Parents",
       "url": "https://positivepsychology.com/communication-games-for-teens-parents/?utm_source=rss&utm_medium=rss&utm_campaign=communication-games-for-teens-parents",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/positive-mindset-heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=positive-mindset-heart-health",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-23T09:00:29.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=heart-health",
-      "title": "Stress and Heart Health: Simple Ways to Protect Your Heart",
-      "url": "https://positivepsychology.com/heart-health/?utm_source=rss&utm_medium=rss&utm_campaign=heart-health",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-22T09:00:33.000Z",
       "tags": []
     }
   ]

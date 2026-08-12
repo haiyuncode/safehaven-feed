@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-08-12T12:50:44.297Z",
+  "generatedAt": "2026-08-12T18:51:22.717Z",
   "videos": [
+    {
+      "id": "yt:video:G9pLcytxTtg",
+      "title": "#1 Bad Habit of Boxing Footwork #boxing",
+      "videoId": "G9pLcytxTtg",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-08-12T15:27:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/G9pLcytxTtg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:mwX2RNst85Q",
       "title": "Don’t do that | Do this to PROTECT yourself in a fight #boxing #fighting",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-06-02T22:47:14.000Z",
       "thumbnail": "https://i.ytimg.com/vi/n72380E0dbg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:SpVvG_IxpNI",
-      "title": "Boxing drill of the cross | Train for distance and PUNCHING Power #boxingtraining",
-      "videoId": "SpVvG_IxpNI",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-06-01T14:30:00.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/SpVvG_IxpNI/hqdefault.jpg",
       "tags": []
     }
   ],

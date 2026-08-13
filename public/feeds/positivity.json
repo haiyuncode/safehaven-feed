@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-08-13T07:14:50.400Z",
+  "generatedAt": "2026-08-13T12:51:43.356Z",
   "videos": [
     {
       "id": "yt:video:ShZKdJF95P8",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/unprocessed-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=unprocessed-emotions",
+      "title": "Unprocessed Emotions: When Feelings Go Unfinished",
+      "url": "https://positivepsychology.com/unprocessed-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=unprocessed-emotions",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-08-13T09:00:37.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/how-to-process-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-process-emotions",
       "title": "How to Process Your Emotions: A Simple Step-By-Step Guide",
       "url": "https://positivepsychology.com/how-to-process-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-process-emotions",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-start-journaling/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-start-journaling",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-07-29T09:00:11.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/ikigai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=ikigai-tools",
-      "title": "How to Use Ikigai Tools in Coaching: A Three-Step Framework",
-      "url": "https://positivepsychology.com/ikigai-tools/?utm_source=rss&utm_medium=rss&utm_campaign=ikigai-tools",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-07-28T09:00:53.000Z",
       "tags": []
     }
   ]

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-08-18T12:28:22.056Z",
+  "generatedAt": "2026-08-18T18:25:04.709Z",
   "videos": [
+    {
+      "id": "yt:video:1qPyYsMxyQ8",
+      "title": "20 Minute Full Body HIIT - Shred Fat Everywhere and Anywhere",
+      "videoId": "1qPyYsMxyQ8",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-08-18T15:45:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/1qPyYsMxyQ8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:G9pLcytxTtg",
       "title": "Agility Ladder TIP for Boxing #boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-06-04T22:50:41.000Z",
       "thumbnail": "https://i.ytimg.com/vi/jyjqb_IXQQ0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:n72380E0dbg",
-      "title": "Inside Boxing drill | How to do a Rear Uppercut #boxing",
-      "videoId": "n72380E0dbg",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-06-02T22:47:14.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/n72380E0dbg/hqdefault.jpg",
       "tags": []
     }
   ],

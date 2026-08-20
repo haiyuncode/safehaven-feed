@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-08-20T12:30:51.048Z",
+  "generatedAt": "2026-08-20T18:26:39.862Z",
   "videos": [
+    {
+      "id": "yt:video:mxrvaHZqi0M",
+      "title": "How I dealt with Performance Anxiety (as an \"Anxiety Expert\")",
+      "videoId": "mxrvaHZqi0M",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-08-20T13:00:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/mxrvaHZqi0M/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:ShZKdJF95P8",
       "title": "ADHD and Hormones - The Massive Impact on Women with ADHD",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-14T10:00:20.000Z",
       "thumbnail": "https://i.ytimg.com/vi/O1h3Tnzlg2Y/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:XtSppw6nSoE",
-      "title": "How am I Getting Out of Overwhelm",
-      "videoId": "XtSppw6nSoE",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-13T10:00:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/XtSppw6nSoE/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-08-22T12:21:48.613Z",
+  "generatedAt": "2026-08-22T18:17:01.629Z",
   "videos": [
+    {
+      "id": "yt:video:jbfXZhWdftM",
+      "title": "What happens when intimacy becomes another way to control you?",
+      "videoId": "jbfXZhWdftM",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-08-22T15:00:15.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/jbfXZhWdftM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:g4UrfikUBU0",
       "title": "The Narcissistic Grief Paradox",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-07-27T15:00:18.000Z",
       "thumbnail": "https://i.ytimg.com/vi/K7-2WvCr1ts/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:NtplOfrZRFI",
-      "title": "Is It the Silent Treatment or Trauma Freezing?",
-      "videoId": "NtplOfrZRFI",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-07-24T15:00:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/NtplOfrZRFI/hqdefault.jpg",
       "tags": []
     },
     {

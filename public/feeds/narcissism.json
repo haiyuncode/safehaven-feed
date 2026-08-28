@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-08-28T08:14:48.241Z",
+  "generatedAt": "2026-08-28T21:36:55.230Z",
   "videos": [
+    {
+      "id": "yt:video:FNWaFhKzLJc",
+      "title": "The moment Denise realized it was over...",
+      "videoId": "FNWaFhKzLJc",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-08-28T16:00:19.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/FNWaFhKzLJc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:LMxZw6Hy0hc",
       "title": "Denise Richards: A Marriage of Control and Isolation",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-08-03T15:00:31.000Z",
       "thumbnail": "https://i.ytimg.com/vi/P9gOUQ7mFsQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:GcAec8FVobQ",
-      "title": "Are you ready to heal from the narcissist? (WATCH THIS)",
-      "videoId": "GcAec8FVobQ",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-07-31T15:00:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/GcAec8FVobQ/hqdefault.jpg",
       "tags": []
     },
     {

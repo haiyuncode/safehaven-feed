@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-08-30T15:47:54.287Z",
+  "generatedAt": "2026-08-30T20:20:25.366Z",
   "videos": [
+    {
+      "id": "yt:video:iTAAwdQRunw",
+      "title": "Shadow Boxing And Heavy Bag Workout Split | Get Shredded with boxing",
+      "videoId": "iTAAwdQRunw",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-08-30T16:30:17.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/iTAAwdQRunw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:1qPyYsMxyQ8",
       "title": "20 Minute Full Body HIIT - Shred Fat Everywhere and Anywhere",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-06-10T15:45:17.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Hg-gKfCNibI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:jyjqb_IXQQ0",
-      "title": "#1 Double hook Mistake | quick FIX shown #boxing",
-      "videoId": "jyjqb_IXQQ0",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-06-04T22:50:41.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/jyjqb_IXQQ0/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-08-31T02:39:59.342Z",
+  "generatedAt": "2026-08-31T12:17:55.773Z",
   "videos": [
     {
       "id": "yt:video:mxrvaHZqi0M",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/autistic-students-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=autistic-students-classroom",
+      "title": "How to Support Autistic Students in the Classroom",
+      "url": "https://positivepsychology.com/autistic-students-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=autistic-students-classroom",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-08-31T09:00:49.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/what-is-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-meditation",
       "title": "What Is Meditation: Its Origins, Benefits, & Practical Tips",
       "url": "https://positivepsychology.com/what-is-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-meditation",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-process-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-process-emotions",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-08-12T09:00:14.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/emotional-skills-lab/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-skills-lab",
-      "title": "5 Reasons to Develop Your Emotional Skills (+ Course)",
-      "url": "https://positivepsychology.com/emotional-skills-lab/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-skills-lab",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-08-11T09:00:07.000Z",
       "tags": []
     }
   ]

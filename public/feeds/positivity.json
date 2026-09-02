@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-02T10:17:45.998Z",
+  "generatedAt": "2026-09-02T15:43:04.791Z",
   "videos": [
     {
       "id": "yt:video:mxrvaHZqi0M",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/building-empathy-in-relationships/?utm_source=rss&utm_medium=rss&utm_campaign=building-empathy-in-relationships",
+      "title": "Building Empathy in Relationships: Strategies and Examples",
+      "url": "https://positivepsychology.com/building-empathy-in-relationships/?utm_source=rss&utm_medium=rss&utm_campaign=building-empathy-in-relationships",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-09-02T09:00:47.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/autistic-students-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=autistic-students-classroom",
       "title": "How to Support Autistic Students in the Classroom",
       "url": "https://positivepsychology.com/autistic-students-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=autistic-students-classroom",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/unprocessed-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=unprocessed-emotions",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-08-13T09:00:37.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/how-to-process-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-process-emotions",
-      "title": "How to Process Your Emotions: A Simple Step-By-Step Guide",
-      "url": "https://positivepsychology.com/how-to-process-emotions/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-process-emotions",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-08-12T09:00:14.000Z",
       "tags": []
     }
   ]

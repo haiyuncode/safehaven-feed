@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-03T10:27:47.869Z",
+  "generatedAt": "2026-09-03T15:33:21.971Z",
   "videos": [
+    {
+      "id": "yt:video:z-OW1AO0oC4",
+      "title": "When you feel completely worthless",
+      "videoId": "z-OW1AO0oC4",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-09-03T13:00:00.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/z-OW1AO0oC4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:mxrvaHZqi0M",
       "title": "How I dealt with Performance Anxiety (as an \"Anxiety Expert\")",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-19T16:00:19.000Z",
       "thumbnail": "https://i.ytimg.com/vi/fSslWl1xajw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:O1h3Tnzlg2Y",
-      "title": "Reframe and Get Curious",
-      "videoId": "O1h3Tnzlg2Y",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-14T10:00:20.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/O1h3Tnzlg2Y/hqdefault.jpg",
       "tags": []
     }
   ],

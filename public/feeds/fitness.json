@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-09-04T10:22:41.282Z",
+  "generatedAt": "2026-09-04T15:31:32.287Z",
   "videos": [
+    {
+      "id": "yt:video:kTGbyR6-wgM",
+      "title": "30 Min Full Boxing Workout - Boxing Conditioning For a LEAN Body",
+      "videoId": "kTGbyR6-wgM",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-09-04T14:45:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/kTGbyR6-wgM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:iTAAwdQRunw",
       "title": "Shadow Boxing And Heavy Bag Workout Split | Get Shredded with boxing",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-06-14T15:45:17.000Z",
       "thumbnail": "https://i.ytimg.com/vi/rvLTYXfGlnk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Hg-gKfCNibI",
-      "title": "Boxing training to burn max calories | Burn 400 Calories Fast With Explosive Boxing HIIT",
-      "videoId": "Hg-gKfCNibI",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-06-10T15:45:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Hg-gKfCNibI/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-09-06T14:42:05.638Z",
+  "generatedAt": "2026-09-06T19:49:15.092Z",
   "videos": [
+    {
+      "id": "yt:video:97UucshaCL8",
+      "title": "30-Min Shadow Boxing Core workout | Intense Calorie burn (  Shredded core and shoulders )",
+      "videoId": "97UucshaCL8",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-09-06T14:45:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/97UucshaCL8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:kTGbyR6-wgM",
       "title": "30 Min Full Boxing Workout - Boxing Conditioning For a LEAN Body",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-06-25T15:30:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/BfiX_mRtl2Y/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:rvLTYXfGlnk",
-      "title": "UNCUT | A Raw, Continuous Follow along Shadow Boxing Workout | No Equipment | High Calorie Burn",
-      "videoId": "rvLTYXfGlnk",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-06-14T15:45:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/rvLTYXfGlnk/hqdefault.jpg",
       "tags": []
     }
   ],

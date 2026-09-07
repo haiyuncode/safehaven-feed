@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-07T11:10:40.648Z",
+  "generatedAt": "2026-09-07T16:57:05.272Z",
   "videos": [
     {
       "id": "yt:video:z-OW1AO0oC4",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/cultural-empathy-in-counseling/?utm_source=rss&utm_medium=rss&utm_campaign=cultural-empathy-in-counseling",
+      "title": "Cultural Empathy in Counseling for Diverse Populations",
+      "url": "https://positivepsychology.com/cultural-empathy-in-counseling/?utm_source=rss&utm_medium=rss&utm_campaign=cultural-empathy-in-counseling",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-09-07T09:00:09.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/empathy-worksheets-everyday-use/?utm_source=rss&utm_medium=rss&utm_campaign=empathy-worksheets-everyday-use",
       "title": "Empathy Worksheets for Everyday Use",
       "url": "https://positivepsychology.com/empathy-worksheets-everyday-use/?utm_source=rss&utm_medium=rss&utm_campaign=empathy-worksheets-everyday-use",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/virtual-communication-games/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-communication-games",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-08-18T09:00:55.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/twice-exceptional-students/?utm_source=rss&utm_medium=rss&utm_campaign=twice-exceptional-students",
-      "title": "Twice-Exceptional Students: How to Support 2e Learners",
-      "url": "https://positivepsychology.com/twice-exceptional-students/?utm_source=rss&utm_medium=rss&utm_campaign=twice-exceptional-students",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-08-17T09:00:54.000Z",
       "tags": []
     }
   ]

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-09T10:30:18.917Z",
+  "generatedAt": "2026-09-09T15:40:14.115Z",
   "videos": [
     {
       "id": "yt:video:z-OW1AO0oC4",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/types-of-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-meditation",
+      "title": "The Many Methods & Types of Meditation",
+      "url": "https://positivepsychology.com/types-of-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-meditation",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-09-09T09:00:29.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/cultural-empathy-in-counseling/?utm_source=rss&utm_medium=rss&utm_campaign=cultural-empathy-in-counseling",
       "title": "Cultural Empathy in Counseling for Diverse Populations",
       "url": "https://positivepsychology.com/cultural-empathy-in-counseling/?utm_source=rss&utm_medium=rss&utm_campaign=cultural-empathy-in-counseling",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/what-is-self-compassion/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-self-compassion",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-08-19T09:00:15.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/virtual-communication-games/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-communication-games",
-      "title": "Virtual Communication Games to Help Remote Teams Connect",
-      "url": "https://positivepsychology.com/virtual-communication-games/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-communication-games",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-08-18T09:00:55.000Z",
       "tags": []
     }
   ]

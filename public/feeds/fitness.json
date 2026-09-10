@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-09-10T10:19:52.221Z",
+  "generatedAt": "2026-09-10T15:35:45.049Z",
   "videos": [
+    {
+      "id": "yt:video:RACYeRf3Nw8",
+      "title": "30-Min Energetic Heavy Bag Workout ( Burn FAT release Tension )",
+      "videoId": "RACYeRf3Nw8",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-09-10T14:45:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/RACYeRf3Nw8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:97UucshaCL8",
       "title": "30-Min Shadow Boxing Core workout | Intense Calorie burn ( Shredded core and shoulders )",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-06-27T15:17:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/QHrDzKN60Ys/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:BfiX_mRtl2Y",
-      "title": "Daily Sweat boxing workout | throw BOXING COMBOS on the bag | One Take",
-      "videoId": "BfiX_mRtl2Y",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-06-25T15:30:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/BfiX_mRtl2Y/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-10T15:35:37.455Z",
+  "generatedAt": "2026-09-10T20:16:11.586Z",
   "videos": [
     {
       "id": "yt:video:z-OW1AO0oC4",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/gratitude-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-meditation",
+      "title": "Gratitude Meditation and What It Can Do for You",
+      "url": "https://positivepsychology.com/gratitude-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-meditation",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-09-10T09:00:03.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/types-of-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-meditation",
       "title": "The Many Methods & Types of Meditation",
       "url": "https://positivepsychology.com/types-of-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-meditation",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/benefits-of-self-compassion/?utm_source=rss&utm_medium=rss&utm_campaign=benefits-of-self-compassion",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-08-20T09:00:18.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/what-is-self-compassion/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-self-compassion",
-      "title": "What Is Self-Compassion? A Guide to Being Kinder to Yourself",
-      "url": "https://positivepsychology.com/what-is-self-compassion/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-self-compassion",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-08-19T09:00:15.000Z",
       "tags": []
     }
   ]

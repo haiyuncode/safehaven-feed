@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-09-11T10:19:48.511Z",
+  "generatedAt": "2026-09-11T15:37:26.067Z",
   "videos": [
+    {
+      "id": "yt:video:q0_h2lZptpQ",
+      "title": "Why Toxic Relationships Can Feel Like Home",
+      "videoId": "q0_h2lZptpQ",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-09-11T15:00:24.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/q0_h2lZptpQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:JbSrebtMrbs",
       "title": "The Scary Truth About What Narcissistic Relationships Do to You",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-08-19T15:00:17.000Z",
       "thumbnail": "https://i.ytimg.com/vi/XAp7MZ2Q4Eg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:KU8nb1QD9ls",
-      "title": "When You Finally See the Narcissist Clearly",
-      "videoId": "KU8nb1QD9ls",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-08-17T15:00:09.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/KU8nb1QD9ls/hqdefault.jpg",
       "tags": []
     },
     {

@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-17T10:43:50.410Z",
+  "generatedAt": "2026-09-17T15:57:39.502Z",
   "videos": [
+    {
+      "id": "yt:video:beyP41amFTg",
+      "title": "How to actually sit with your feelings - Emotional Regulation 1/30",
+      "videoId": "beyP41amFTg",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-09-17T13:00:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/beyP41amFTg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:z-OW1AO0oC4",
       "title": "When you feel completely worthless",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-20T16:00:14.000Z",
       "thumbnail": "https://i.ytimg.com/vi/9Qkw3FoFc_Y/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:fSslWl1xajw",
-      "title": "Medical Treatments for Overthinking",
-      "videoId": "fSslWl1xajw",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-19T16:00:19.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/fSslWl1xajw/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-09-18T10:19:06.679Z",
+  "generatedAt": "2026-09-18T15:32:51.666Z",
   "videos": [
+    {
+      "id": "yt:video:faWeKRwVVK8",
+      "title": "Gray Rocking 101",
+      "videoId": "faWeKRwVVK8",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-09-18T15:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/faWeKRwVVK8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:lGJwhxTPnFI",
       "title": "Narcissists Who Are Hardest to Read",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-08-24T15:00:24.000Z",
       "thumbnail": "https://i.ytimg.com/vi/9G8WQo6DRG8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:jbfXZhWdftM",
-      "title": "What happens when intimacy becomes another way to control you?",
-      "videoId": "jbfXZhWdftM",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-08-22T15:00:15.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/jbfXZhWdftM/hqdefault.jpg",
       "tags": []
     },
     {

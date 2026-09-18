@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-09-18T10:19:07.188Z",
+  "generatedAt": "2026-09-18T15:32:52.184Z",
   "videos": [
+    {
+      "id": "yt:video:ov5bY2bUt5I",
+      "title": "20-Min HIIT Shadow Boxing Workout ( Lean out fast HIIT Training )",
+      "videoId": "ov5bY2bUt5I",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-09-18T14:45:22.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ov5bY2bUt5I/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:RACYeRf3Nw8",
       "title": "30-Min Energetic Heavy Bag Workout ( Burn FAT release Tension )",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-07-07T23:52:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/TRGiPEEI41E/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:QHrDzKN60Ys",
-      "title": "FAST hand inside BOXING DRILL | #boxingtraining",
-      "videoId": "QHrDzKN60Ys",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-06-27T15:17:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/QHrDzKN60Ys/hqdefault.jpg",
       "tags": []
     }
   ],

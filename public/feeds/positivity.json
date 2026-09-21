@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-21T11:35:44.393Z",
+  "generatedAt": "2026-09-21T17:32:57.353Z",
   "videos": [
     {
       "id": "yt:video:beyP41amFTg",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/what-is-neurodiversity/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-neurodiversity",
+      "title": "What Is Neurodiversity & What Is the Neurodiversity Paradigm?",
+      "url": "https://positivepsychology.com/what-is-neurodiversity/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-neurodiversity",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-09-21T09:00:34.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/types-of-counseling/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-counseling",
       "title": "7 Types of Counseling: Specializations, Settings & Career Paths",
       "url": "https://positivepsychology.com/types-of-counseling/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-counseling",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/building-empathy-in-relationships/?utm_source=rss&utm_medium=rss&utm_campaign=building-empathy-in-relationships",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-09-02T09:00:47.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/autistic-students-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=autistic-students-classroom",
-      "title": "How to Support Autistic Students in the Classroom",
-      "url": "https://positivepsychology.com/autistic-students-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=autistic-students-classroom",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-08-31T09:00:49.000Z",
       "tags": []
     }
   ]

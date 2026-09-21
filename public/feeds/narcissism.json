@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-09-21T11:35:46.622Z",
+  "generatedAt": "2026-09-21T17:32:58.276Z",
   "videos": [
+    {
+      "id": "yt:video:Vw9EpyCQW9g",
+      "title": "The Narcissistic Loyalty Bind",
+      "videoId": "Vw9EpyCQW9g",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-09-21T15:00:22.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Vw9EpyCQW9g/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:5ibTOKEiV-U",
       "title": "Gaslighting Without Saying a Word",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-08-28T16:00:19.000Z",
       "thumbnail": "https://i.ytimg.com/vi/FNWaFhKzLJc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:LMxZw6Hy0hc",
-      "title": "Denise Richards: A Marriage of Control and Isolation",
-      "videoId": "LMxZw6Hy0hc",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-08-26T17:16:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/LMxZw6Hy0hc/hqdefault.jpg",
       "tags": []
     },
     {

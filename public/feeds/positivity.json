@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-23T02:39:35.664Z",
+  "generatedAt": "2026-09-23T10:32:34.212Z",
   "videos": [
     {
       "id": "yt:video:beyP41amFTg",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/what-is-behaviorism/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-behaviorism",
+      "title": "What Is Behaviorism in Psychology?",
+      "url": "https://positivepsychology.com/what-is-behaviorism/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-behaviorism",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-09-23T09:00:03.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/what-is-neurodiversity/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-neurodiversity",
       "title": "What Is Neurodiversity & What Is the Neurodiversity Paradigm?",
       "url": "https://positivepsychology.com/what-is-neurodiversity/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-neurodiversity",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/empathy-worksheets-everyday-use/?utm_source=rss&utm_medium=rss&utm_campaign=empathy-worksheets-everyday-use",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-09-03T09:00:06.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/building-empathy-in-relationships/?utm_source=rss&utm_medium=rss&utm_campaign=building-empathy-in-relationships",
-      "title": "Building Empathy in Relationships: Strategies and Examples",
-      "url": "https://positivepsychology.com/building-empathy-in-relationships/?utm_source=rss&utm_medium=rss&utm_campaign=building-empathy-in-relationships",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-09-02T09:00:47.000Z",
       "tags": []
     }
   ]

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-09-23T10:32:35.196Z",
+  "generatedAt": "2026-09-23T15:51:34.391Z",
   "videos": [
+    {
+      "id": "yt:video:RRB6en5FZ9Q",
+      "title": "Why Love Bombing Feels So Addictive",
+      "videoId": "RRB6en5FZ9Q",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-09-23T15:00:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/RRB6en5FZ9Q/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Vw9EpyCQW9g",
       "title": "The Narcissistic Loyalty Bind",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-08-29T15:00:34.000Z",
       "thumbnail": "https://i.ytimg.com/vi/cMLsJKgseHI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:FNWaFhKzLJc",
-      "title": "The moment Denise realized it was over...",
-      "videoId": "FNWaFhKzLJc",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-08-28T16:00:19.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/FNWaFhKzLJc/hqdefault.jpg",
       "tags": []
     },
     {

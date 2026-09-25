@@ -1,10 +1,19 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-09-25T10:54:08.981Z",
+  "generatedAt": "2026-09-25T16:14:19.248Z",
   "videos": [
     {
+      "id": "yt:video:K4zNEMktnSg",
+      "title": "60 Minutes | All punching No Legs | No Equipment Boxing Workout | Nate Bower Fitness | Shred",
+      "videoId": "K4zNEMktnSg",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-09-25T14:45:09.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/K4zNEMktnSg/hqdefault.jpg",
+      "tags": []
+    },
+    {
       "id": "yt:video:ov5bY2bUt5I",
-      "title": "20-Min HIIT Shadow Boxing Workout ( Lean out fast HIIT Training )",
+      "title": "20 Min HIIT Shadow Boxing Workout ( Lean out fast HIIT Training )",
       "videoId": "ov5bY2bUt5I",
       "channel": "NateBowerFitness",
       "publishedAt": "2026-09-18T14:45:22.000Z",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-07-09T15:00:08.000Z",
       "thumbnail": "https://i.ytimg.com/vi/YyoalTtA0Ts/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:TRGiPEEI41E",
-      "title": "TIPS for CLEANER left HOOKS in #Boxing",
-      "videoId": "TRGiPEEI41E",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-07-07T23:52:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/TRGiPEEI41E/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-09-26T10:34:29.140Z",
+  "generatedAt": "2026-09-26T15:27:36.460Z",
   "videos": [
+    {
+      "id": "yt:video:DxbagJ4fyDM",
+      "title": "How Many Times Will a Narcissist Hurt You?",
+      "videoId": "DxbagJ4fyDM",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-09-26T15:00:26.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/DxbagJ4fyDM/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:OCHzg1MaESg",
       "title": "You’re Not Just Healing From the Narcissist...",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-09-01T21:57:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/QnGjreqszso/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:hf1AX-u_UPA",
-      "title": "The No-Win Framework for Dealing With a Narcissist",
-      "videoId": "hf1AX-u_UPA",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-08-31T15:00:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/hf1AX-u_UPA/hqdefault.jpg",
       "tags": []
     },
     {

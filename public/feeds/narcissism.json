@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-09-28T12:30:18.723Z",
+  "generatedAt": "2026-09-28T22:48:45.598Z",
   "videos": [
+    {
+      "id": "yt:video:aR2pZYfKnvg",
+      "title": "The Narcissistic Layaway Plan",
+      "videoId": "aR2pZYfKnvg",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-09-28T15:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/aR2pZYfKnvg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:VL-tDFp8ZII",
       "title": "What Keeps Us Stuck in Narcissistic Relationships?  Live Q&A with Dr. Ramani",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-09-04T15:00:07.000Z",
       "thumbnail": "https://i.ytimg.com/vi/03CnP_FHgx4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:K2KklTNbkFA",
-      "title": "How Narcissists Secretly Sabotage Your Happiness",
-      "videoId": "K2KklTNbkFA",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-09-02T15:00:30.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/K2KklTNbkFA/hqdefault.jpg",
       "tags": []
     },
     {

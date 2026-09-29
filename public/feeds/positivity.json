@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-29T03:31:49.530Z",
+  "generatedAt": "2026-09-29T11:53:03.114Z",
   "videos": [
     {
       "id": "yt:video:beyP41amFTg",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/types-of-emotional-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-emotional-abuse",
+      "title": "Recognizing Types of Emotional Abuse: A Practitioner’s Guide",
+      "url": "https://positivepsychology.com/types-of-emotional-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-emotional-abuse",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-09-29T09:00:07.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/anticipatory-grief/?utm_source=rss&utm_medium=rss&utm_campaign=anticipatory-grief",
       "title": "Anticipatory Grief: Finding Meaning Before Loss Occurs",
       "url": "https://positivepsychology.com/anticipatory-grief/?utm_source=rss&utm_medium=rss&utm_campaign=anticipatory-grief",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/gratitude-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-meditation",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-09-10T09:00:03.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/types-of-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-meditation",
-      "title": "The Many Methods & Types of Meditation",
-      "url": "https://positivepsychology.com/types-of-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-meditation",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-09-09T09:00:29.000Z",
       "tags": []
     }
   ]

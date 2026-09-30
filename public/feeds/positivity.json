@@ -1,6 +1,6 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-09-30T03:16:33.723Z",
+  "generatedAt": "2026-09-30T11:40:18.439Z",
   "videos": [
     {
       "id": "yt:video:beyP41amFTg",
@@ -140,6 +140,14 @@
   ],
   "articles": [
     {
+      "id": "link:https://positivepsychology.com/relationship-red-flags-vs-green-flags/?utm_source=rss&utm_medium=rss&utm_campaign=relationship-red-flags-vs-green-flags",
+      "title": "Relationship Red Flags vs. Green Flags: What to Look For",
+      "url": "https://positivepsychology.com/relationship-red-flags-vs-green-flags/?utm_source=rss&utm_medium=rss&utm_campaign=relationship-red-flags-vs-green-flags",
+      "source": "PositivePsychology.com",
+      "publishedAt": "2026-09-30T09:00:36.000Z",
+      "tags": []
+    },
+    {
       "id": "link:https://positivepsychology.com/types-of-emotional-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-emotional-abuse",
       "title": "Recognizing Types of Emotional Abuse: A Practitioner’s Guide",
       "url": "https://positivepsychology.com/types-of-emotional-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=types-of-emotional-abuse",
@@ -209,14 +217,6 @@
       "url": "https://positivepsychology.com/how-to-become-a-counselor/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-become-a-counselor",
       "source": "PositivePsychology.com",
       "publishedAt": "2026-09-14T09:00:20.000Z",
-      "tags": []
-    },
-    {
-      "id": "link:https://positivepsychology.com/gratitude-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-meditation",
-      "title": "Gratitude Meditation and What It Can Do for You",
-      "url": "https://positivepsychology.com/gratitude-meditation/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-meditation",
-      "source": "PositivePsychology.com",
-      "publishedAt": "2026-09-10T09:00:03.000Z",
       "tags": []
     }
   ]

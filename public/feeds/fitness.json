@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-09-30T11:40:19.592Z",
+  "generatedAt": "2026-09-30T17:20:28.990Z",
   "videos": [
+    {
+      "id": "yt:video:fjBECU6Vtqs",
+      "title": "20 Min All Punching - Heavy Bag Workout for Full Body BURN",
+      "videoId": "fjBECU6Vtqs",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-09-30T14:45:27.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fjBECU6Vtqs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:K4zNEMktnSg",
       "title": "60 Minutes | All punching No Legs | No Equipment Boxing Workout | Nate Bower Fitness | Shred",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-07-11T00:16:27.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Fo1YjCJ8oaw/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:YyoalTtA0Ts",
-      "title": "Summer Fat burning Shred | Boxing workout for Weight management",
-      "videoId": "YyoalTtA0Ts",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-07-09T15:00:08.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/YyoalTtA0Ts/hqdefault.jpg",
       "tags": []
     }
   ],

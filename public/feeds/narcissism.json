@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-01T03:23:16.450Z",
+  "generatedAt": "2026-10-01T12:09:48.460Z",
   "videos": [
+    {
+      "id": "yt:video:TcOoNXoQJkg",
+      "title": "Dr. Ramani on Taylor Shift's “Patient Zero”...",
+      "videoId": "TcOoNXoQJkg",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-09-30T21:56:10.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/TcOoNXoQJkg/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:2bIvC9by5zk",
       "title": "What Your Narcissistic Parent Took From You",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-09-09T15:00:15.000Z",
       "thumbnail": "https://i.ytimg.com/vi/JbSrebtMrbs/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Mx13zdxEvT0",
-      "title": "Things that keep us tethered to the narcissist ",
-      "videoId": "Mx13zdxEvT0",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-09-07T15:00:33.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Mx13zdxEvT0/hqdefault.jpg",
       "tags": []
     },
     {

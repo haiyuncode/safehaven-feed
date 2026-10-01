@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-10-01T12:09:47.541Z",
+  "generatedAt": "2026-10-01T22:11:09.743Z",
   "videos": [
+    {
+      "id": "yt:video:NvUAM3otq1A",
+      "title": "Hypervigilance and Trauma- How to get your brain to quiet down",
+      "videoId": "NvUAM3otq1A",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-10-01T12:00:20.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/NvUAM3otq1A/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:beyP41amFTg",
       "title": "How to actually sit with your feelings - Emotional Regulation 1/30",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-21T10:00:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/7addghpVaJI/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:9Qkw3FoFc_Y",
-      "title": "Move Your Body",
-      "videoId": "9Qkw3FoFc_Y",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-20T16:00:14.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/9Qkw3FoFc_Y/hqdefault.jpg",
       "tags": []
     }
   ],

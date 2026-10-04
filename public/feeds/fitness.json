@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-10-04T11:37:30.052Z",
+  "generatedAt": "2026-10-04T16:14:31.770Z",
   "videos": [
+    {
+      "id": "yt:video:d5yeEbwn1lA",
+      "title": "15 MINUTE Shadow Boxing HIIT (  1 Minute Boxing Combos  )",
+      "videoId": "d5yeEbwn1lA",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-10-04T14:45:30.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/d5yeEbwn1lA/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:fjBECU6Vtqs",
       "title": "20 Min All Punching | Heavy Bag Workout ( Get Fit and SHREDDED with Boxing  )",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-07-16T15:45:33.000Z",
       "thumbnail": "https://i.ytimg.com/vi/A4iPtIARM9Q/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Fo1YjCJ8oaw",
-      "title": "Boxing combos with footwork and conditioning #boxing",
-      "videoId": "Fo1YjCJ8oaw",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-07-11T00:16:27.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Fo1YjCJ8oaw/hqdefault.jpg",
       "tags": []
     }
   ],

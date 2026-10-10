@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-10T11:40:58.920Z",
+  "generatedAt": "2026-10-10T16:42:38.059Z",
   "videos": [
+    {
+      "id": "yt:video:ZaN3XvpUd-s",
+      "title": "The non-charismatic narcissist",
+      "videoId": "ZaN3XvpUd-s",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-10-10T15:00:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZaN3XvpUd-s/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:8aNqtf3wfo4",
       "title": "How to Master Radical Acceptance in a Narcissistic Relationship",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-09-19T15:00:35.000Z",
       "thumbnail": "https://i.ytimg.com/vi/5ibTOKEiV-U/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:faWeKRwVVK8",
-      "title": "Gray Rocking 101",
-      "videoId": "faWeKRwVVK8",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-09-18T15:00:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/faWeKRwVVK8/hqdefault.jpg",
       "tags": []
     },
     {

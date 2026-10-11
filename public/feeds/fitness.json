@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-10-11T11:53:39.963Z",
+  "generatedAt": "2026-10-11T17:08:19.470Z",
   "videos": [
+    {
+      "id": "yt:video:rZ-axTJLgfQ",
+      "title": "Shadow Boxing Full Body Shred - HIIT Combos and Light Lower Body Conditioning",
+      "videoId": "rZ-axTJLgfQ",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-10-11T14:45:33.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/rZ-axTJLgfQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:d5yeEbwn1lA",
       "title": "15 MINUTE Shadow Boxing HIIT (  1 Minute Boxing Combos  )",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-07-20T18:35:53.000Z",
       "thumbnail": "https://i.ytimg.com/vi/01pnoGfU9fA/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:A4iPtIARM9Q",
-      "title": "20 Minute Build up Boxing Flow | Body weight Shadow Boxing Workout | Boxing To Shred Fat",
-      "videoId": "A4iPtIARM9Q",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-07-16T15:45:33.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/A4iPtIARM9Q/hqdefault.jpg",
       "tags": []
     }
   ],

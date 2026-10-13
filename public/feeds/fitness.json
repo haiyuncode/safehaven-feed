@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-10-13T06:09:20.109Z",
+  "generatedAt": "2026-10-13T18:43:24.377Z",
   "videos": [
+    {
+      "id": "yt:video:8B6aUSeBGYE",
+      "title": "10 Minute Boxing Workout Challenge | Amateur | Workout 1",
+      "videoId": "8B6aUSeBGYE",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-10-12T14:45:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/8B6aUSeBGYE/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:rZ-axTJLgfQ",
       "title": "Shadow Boxing Full Body Shred - HIIT Combos and Light Lower Body Conditioning",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-07-21T22:00:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/wpo2AqbyNSM/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:01pnoGfU9fA",
-      "title": "Agility ladder to train  ACCURACY #boxing",
-      "videoId": "01pnoGfU9fA",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-07-20T18:35:53.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/01pnoGfU9fA/hqdefault.jpg",
       "tags": []
     }
   ],

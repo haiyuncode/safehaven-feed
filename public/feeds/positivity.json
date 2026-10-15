@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-10-15T10:38:35.946Z",
+  "generatedAt": "2026-10-15T16:03:33.333Z",
   "videos": [
+    {
+      "id": "yt:video:MD84ct2_2Uo",
+      "title": "Rejection Sensitivity and Social Anxiety w/ADHD Expert Dr. Sharon Saline",
+      "videoId": "MD84ct2_2Uo",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-10-15T12:53:04.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/MD84ct2_2Uo/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:NvUAM3otq1A",
       "title": "Hypervigilance and Trauma- How to get your brain to quiet down",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-22T16:00:29.000Z",
       "thumbnail": "https://i.ytimg.com/vi/1NM3Z3quMn4/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:7addghpVaJI",
-      "title": "How to Stop Feeling Overwhelmed",
-      "videoId": "7addghpVaJI",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-21T10:00:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/7addghpVaJI/hqdefault.jpg",
       "tags": []
     }
   ],

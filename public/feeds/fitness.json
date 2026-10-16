@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-10-16T10:24:56.407Z",
+  "generatedAt": "2026-10-16T15:51:55.969Z",
   "videos": [
+    {
+      "id": "yt:video:eXWYSwmSvYs",
+      "title": "Do 2 rounds of HEAVY BAG with Nate Bower and His Olympic Coach",
+      "videoId": "eXWYSwmSvYs",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-10-16T14:45:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/eXWYSwmSvYs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:8B6aUSeBGYE",
       "title": "10 Minute Boxing Workout Challenge | Amateur | Workout 1",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-07-24T14:52:17.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Ga7SILwDZKQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:wpo2AqbyNSM",
-      "title": "How to Punch the Heavy Bag | Left Hook Fist alignment #Boxing",
-      "videoId": "wpo2AqbyNSM",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-07-21T22:00:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/wpo2AqbyNSM/hqdefault.jpg",
       "tags": []
     }
   ],

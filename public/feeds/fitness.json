@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-10-18T10:10:16.822Z",
+  "generatedAt": "2026-10-18T15:10:57.043Z",
   "videos": [
+    {
+      "id": "yt:video:fq-AH4EfzRs",
+      "title": "Box like your fit | 10 Minute Boxing Heavy Bag Workout",
+      "videoId": "fq-AH4EfzRs",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-10-18T14:00:05.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/fq-AH4EfzRs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:eXWYSwmSvYs",
       "title": "Get Fit faster | Work the  HEAVY BAG like a champ!  ",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-08-02T17:45:46.000Z",
       "thumbnail": "https://i.ytimg.com/vi/mwX2RNst85Q/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Ga7SILwDZKQ",
-      "title": "L-STEP Tactics | do this after the step #boxingfootwork",
-      "videoId": "Ga7SILwDZKQ",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-07-24T14:52:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Ga7SILwDZKQ/hqdefault.jpg",
       "tags": []
     }
   ],

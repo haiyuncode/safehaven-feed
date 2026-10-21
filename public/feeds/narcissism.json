@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-21T10:55:36.205Z",
+  "generatedAt": "2026-10-21T16:23:20.864Z",
   "videos": [
+    {
+      "id": "yt:video:k8KaOIiDHDs",
+      "title": "The Shocking Psychology of the Narcissistic Discard",
+      "videoId": "k8KaOIiDHDs",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-10-21T15:00:13.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/k8KaOIiDHDs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:nv57a6NahWs",
       "title": "Why Narcissistic Families Turn Children into Emotional Spouses",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-09-28T15:00:06.000Z",
       "thumbnail": "https://i.ytimg.com/vi/aR2pZYfKnvg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:VL-tDFp8ZII",
-      "title": "What Keeps Us Stuck in Narcissistic Relationships?  Live Q&A with Dr. Ramani",
-      "videoId": "VL-tDFp8ZII",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-09-28T00:02:36.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/VL-tDFp8ZII/hqdefault.jpg",
       "tags": []
     },
     {

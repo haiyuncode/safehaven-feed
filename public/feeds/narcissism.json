@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-21T21:05:28.348Z",
+  "generatedAt": "2026-10-22T02:48:35.254Z",
   "videos": [
+    {
+      "id": "yt:video:zX0BW3IHx9Y",
+      "title": "Dr. Ramani reacts...",
+      "videoId": "zX0BW3IHx9Y",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-10-21T22:23:58.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/zX0BW3IHx9Y/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:k8KaOIiDHDs",
       "title": "The Shocking Psychology of the Narcissistic Discard",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-09-30T15:00:23.000Z",
       "thumbnail": "https://i.ytimg.com/vi/2bIvC9by5zk/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:aR2pZYfKnvg",
-      "title": "The Narcissistic Layaway Plan",
-      "videoId": "aR2pZYfKnvg",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-09-28T15:00:06.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/aR2pZYfKnvg/hqdefault.jpg",
       "tags": []
     },
     {

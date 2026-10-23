@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-23T10:47:53.750Z",
+  "generatedAt": "2026-10-23T16:12:00.788Z",
   "videos": [
+    {
+      "id": "yt:video:gUVbZ9hlmo8",
+      "title": "Why We Lose Ourselves In Relationships: A Conversation with Sabrina Zohar",
+      "videoId": "gUVbZ9hlmo8",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-10-23T15:00:39.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/gUVbZ9hlmo8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:zX0BW3IHx9Y",
       "title": "Dr. Ramani reacts...",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-09-30T21:56:10.000Z",
       "thumbnail": "https://i.ytimg.com/vi/TcOoNXoQJkg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:2bIvC9by5zk",
-      "title": "What Your Narcissistic Parent Took From You",
-      "videoId": "2bIvC9by5zk",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-09-30T15:00:23.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/2bIvC9by5zk/hqdefault.jpg",
       "tags": []
     },
     {

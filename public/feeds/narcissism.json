@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-24T10:02:49.022Z",
+  "generatedAt": "2026-10-24T15:08:08.051Z",
   "videos": [
+    {
+      "id": "yt:video:CSXKTcoIBIs",
+      "title": "The Elizabeth Holmes Documentary Made Me Question My Own Empathy",
+      "videoId": "CSXKTcoIBIs",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-10-24T15:00:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/CSXKTcoIBIs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:gUVbZ9hlmo8",
       "title": "Why We Lose Ourselves In Relationships: A Conversation with Sabrina Zohar",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-10-02T15:00:32.000Z",
       "thumbnail": "https://i.ytimg.com/vi/Cd9VNzoBR8w/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:TcOoNXoQJkg",
-      "title": "Dr. Ramani on Taylor Shift's “Patient Zero”...",
-      "videoId": "TcOoNXoQJkg",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-09-30T21:56:10.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/TcOoNXoQJkg/hqdefault.jpg",
       "tags": []
     },
     {

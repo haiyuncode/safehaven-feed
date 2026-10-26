@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-26T11:58:50.017Z",
+  "generatedAt": "2026-10-26T18:23:11.628Z",
   "videos": [
+    {
+      "id": "yt:video:kfnkz_up508",
+      "title": "How Narcissists Make You Feel Like a Coward (And How to Find Your Courage Again)",
+      "videoId": "kfnkz_up508",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-10-26T15:00:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/kfnkz_up508/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:CSXKTcoIBIs",
       "title": "The Elizabeth Holmes Documentary Made Me Question My Own Empathy",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-10-03T15:00:28.000Z",
       "thumbnail": "https://i.ytimg.com/vi/G3sf-NbYh7s/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:Cd9VNzoBR8w",
-      "title": "The Best Way to Respond When Someone Is Gaslighting You",
-      "videoId": "Cd9VNzoBR8w",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-10-02T15:00:32.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/Cd9VNzoBR8w/hqdefault.jpg",
       "tags": []
     },
     {

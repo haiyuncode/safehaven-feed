@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-10-27T11:20:05.089Z",
+  "generatedAt": "2026-10-27T17:07:16.490Z",
   "videos": [
+    {
+      "id": "yt:video:goZeKnfk9H4",
+      "title": "Train With YouTube’s #1 Boxing Workout Instructor | Welcome to Nate Bower Fitness",
+      "videoId": "goZeKnfk9H4",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-10-27T15:26:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/goZeKnfk9H4/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:7svLC0rhhj0",
       "title": "10 Min No Equipment BOXING at home | Competitive Workout CHALLENGE | get ripped",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-08-18T15:45:15.000Z",
       "thumbnail": "https://i.ytimg.com/vi/1qPyYsMxyQ8/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:G9pLcytxTtg",
-      "title": "Agility Ladder TIP for Boxing #boxing",
-      "videoId": "G9pLcytxTtg",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-08-12T15:27:24.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/G9pLcytxTtg/hqdefault.jpg",
       "tags": []
     }
   ],

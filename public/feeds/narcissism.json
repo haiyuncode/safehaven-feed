@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-28T11:54:06.292Z",
+  "generatedAt": "2026-10-28T17:43:08.148Z",
   "videos": [
+    {
+      "id": "yt:video:h1PMNSFgunc",
+      "title": "The Psychological Cruelty of Narcissistic Relationships",
+      "videoId": "h1PMNSFgunc",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-10-28T15:00:34.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/h1PMNSFgunc/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:kfnkz_up508",
       "title": "The Hidden Damage Narcissists Do to Your Identity (And How to Reclaim Yourself)",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-10-05T15:00:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/fb0c4A8smGg/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:G3sf-NbYh7s",
-      "title": "Why narcissists pretend their tantrums never happened",
-      "videoId": "G3sf-NbYh7s",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-10-03T15:00:28.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/G3sf-NbYh7s/hqdefault.jpg",
       "tags": []
     },
     {

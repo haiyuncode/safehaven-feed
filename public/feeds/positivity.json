@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-10-29T03:43:54.565Z",
+  "generatedAt": "2026-10-29T12:01:15.036Z",
   "videos": [
+    {
+      "id": "yt:video:Y4l0vH4Akg8",
+      "title": "Does the body actually keep the score? 3 Big Misconceptions about Nervous System Dysregulation",
+      "videoId": "Y4l0vH4Akg8",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-10-29T11:24:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y4l0vH4Akg8/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:MD84ct2_2Uo",
       "title": "Rejection Sensitivity and Social Anxiety w/ADHD Expert Dr. Sharon Saline",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-25T13:00:16.000Z",
       "thumbnail": "https://i.ytimg.com/vi/AyP4wujnb0g/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:1NM3Z3quMn4",
-      "title": "If You’re Stuck in FREEZE",
-      "videoId": "1NM3Z3quMn4",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-22T16:00:29.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/1NM3Z3quMn4/hqdefault.jpg",
       "tags": []
     }
   ],

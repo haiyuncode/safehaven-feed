@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-10-30T11:55:19.421Z",
+  "generatedAt": "2026-10-30T17:31:44.031Z",
   "videos": [
+    {
+      "id": "yt:video:-tkiymvCTXU",
+      "title": "Find Your True North After a Narcissist",
+      "videoId": "-tkiymvCTXU",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-10-30T15:00:03.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/-tkiymvCTXU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:h1PMNSFgunc",
       "title": "The Psychological Cruelty of Narcissistic Relationships",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-10-07T15:00:18.000Z",
       "thumbnail": "https://i.ytimg.com/vi/_qTWF2Dvuo0/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:fb0c4A8smGg",
-      "title": "The Narcissist Isn’t the Only Problem in Your Family",
-      "videoId": "fb0c4A8smGg",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-10-05T15:00:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/fb0c4A8smGg/hqdefault.jpg",
       "tags": []
     },
     {

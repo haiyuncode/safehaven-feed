@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-11-03T00:14:05.218Z",
+  "generatedAt": "2026-11-03T13:21:03.920Z",
   "videos": [
+    {
+      "id": "yt:video:mbC0ZBWDT0M",
+      "title": "Misconceptions about Nervous System Dysregulation",
+      "videoId": "mbC0ZBWDT0M",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-11-02T18:19:46.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/mbC0ZBWDT0M/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:Y4l0vH4Akg8",
       "title": "Does the body actually keep the score? 3 Big Misconceptions about Nervous System Dysregulation",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-27T16:00:10.000Z",
       "thumbnail": "https://i.ytimg.com/vi/LfMDtHORt9M/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:AyP4wujnb0g",
-      "title": "4 Essential Habits for Emotional Regulation",
-      "videoId": "AyP4wujnb0g",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-25T13:00:16.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/AyP4wujnb0g/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-11-04T13:32:31.407Z",
+  "generatedAt": "2026-11-04T23:01:39.108Z",
   "videos": [
+    {
+      "id": "yt:video:9Cdot5fXpZs",
+      "title": "What Narcissists Do When They Realize They've Lost Control of You",
+      "videoId": "9Cdot5fXpZs",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-11-04T16:00:12.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/9Cdot5fXpZs/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:p0yXjMl8Q5Y",
       "title": "The Narcissist's Catch-22",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-10-12T15:00:18.000Z",
       "thumbnail": "https://i.ytimg.com/vi/wM1ib1v7zcE/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:ZaN3XvpUd-s",
-      "title": "The non-charismatic narcissist",
-      "videoId": "ZaN3XvpUd-s",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-10-10T15:00:39.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZaN3XvpUd-s/hqdefault.jpg",
       "tags": []
     },
     {

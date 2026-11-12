@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-11-12T05:07:26.096Z",
+  "generatedAt": "2026-11-12T14:23:02.641Z",
   "videos": [
+    {
+      "id": "yt:video:A3eDe2H4AdU",
+      "title": "How to Stop Worrying and Fall Asleep",
+      "videoId": "A3eDe2H4AdU",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-11-12T14:00:06.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/A3eDe2H4AdU/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:mbC0ZBWDT0M",
       "title": "Misconceptions about Nervous System Dysregulation",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-06-29T16:00:13.000Z",
       "thumbnail": "https://i.ytimg.com/vi/wUZwBSafjsQ/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:LfMDtHORt9M",
-      "title": "How to Get Out of Freeze Response",
-      "videoId": "LfMDtHORt9M",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-27T16:00:10.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/LfMDtHORt9M/hqdefault.jpg",
       "tags": []
     }
   ],

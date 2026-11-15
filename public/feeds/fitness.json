@@ -1,7 +1,16 @@
 {
   "topic": "fitness",
-  "generatedAt": "2026-11-15T13:14:17.748Z",
+  "generatedAt": "2026-11-15T22:19:43.368Z",
   "videos": [
+    {
+      "id": "yt:video:VB3xcNPx6OQ",
+      "title": "60 Min | All Standing Boxing Workout | Follow Along | Nate Bower Fitness",
+      "videoId": "VB3xcNPx6OQ",
+      "channel": "NateBowerFitness",
+      "publishedAt": "2026-11-15T15:45:02.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/VB3xcNPx6OQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:7W68b3Z3YsQ",
       "title": "60 Minute | No Equipment All Boxing and Core | Shadow Boxing Workout | Nate Bower Fitness | Shred",
@@ -126,15 +135,6 @@
       "channel": "NateBowerFitness",
       "publishedAt": "2026-09-04T14:45:30.000Z",
       "thumbnail": "https://i.ytimg.com/vi/kTGbyR6-wgM/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:iTAAwdQRunw",
-      "title": "Shadow Boxing And Heavy Bag Workout Split | Get Shredded with boxing",
-      "videoId": "iTAAwdQRunw",
-      "channel": "NateBowerFitness",
-      "publishedAt": "2026-08-30T16:30:17.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/iTAAwdQRunw/hqdefault.jpg",
       "tags": []
     }
   ],

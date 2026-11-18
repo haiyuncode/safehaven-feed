@@ -1,7 +1,16 @@
 {
   "topic": "positivity",
-  "generatedAt": "2026-11-17T15:16:22.337Z",
+  "generatedAt": "2026-11-18T00:16:52.453Z",
   "videos": [
+    {
+      "id": "yt:video:M70Ndy75xaQ",
+      "title": "What if you can’t sleep and your brain is racing?",
+      "videoId": "M70Ndy75xaQ",
+      "channel": "Therapy in a Nutshell",
+      "publishedAt": "2026-11-17T18:14:11.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/M70Ndy75xaQ/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:A3eDe2H4AdU",
       "title": "How to Stop Worrying and Fall Asleep",
@@ -126,15 +135,6 @@
       "channel": "Therapy in a Nutshell",
       "publishedAt": "2026-07-03T16:00:04.000Z",
       "thumbnail": "https://i.ytimg.com/vi/CTRXVtKLQ30/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:wUZwBSafjsQ",
-      "title": "The Best Kind of Movement for Depression",
-      "videoId": "wUZwBSafjsQ",
-      "channel": "Therapy in a Nutshell",
-      "publishedAt": "2026-06-29T16:00:13.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/wUZwBSafjsQ/hqdefault.jpg",
       "tags": []
     }
   ],

@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-11-20T14:40:56.060Z",
+  "generatedAt": "2026-11-20T23:31:08.165Z",
   "videos": [
+    {
+      "id": "yt:video:qeyTflBhnX0",
+      "title": "Dr. Gabor Maté: How Childhood Trauma Keeps You Trapped in Toxic Relationships",
+      "videoId": "qeyTflBhnX0",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-11-20T16:00:21.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/qeyTflBhnX0/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:GBdY0GLfAP4",
       "title": "Real stories of people standing up to NARCISSISTIC behavior",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-10-26T15:00:02.000Z",
       "thumbnail": "https://i.ytimg.com/vi/kfnkz_up508/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:CSXKTcoIBIs",
-      "title": "The Elizabeth Holmes Documentary Made Me Question My Own Empathy",
-      "videoId": "CSXKTcoIBIs",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-10-24T15:00:03.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/CSXKTcoIBIs/hqdefault.jpg",
       "tags": []
     },
     {

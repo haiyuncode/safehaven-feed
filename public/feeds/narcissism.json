@@ -1,7 +1,16 @@
 {
   "topic": "narcissism",
-  "generatedAt": "2026-11-23T04:58:35.563Z",
+  "generatedAt": "2026-11-23T16:57:54.363Z",
   "videos": [
+    {
+      "id": "yt:video:a33w32t0YGw",
+      "title": "The Illness Hoover: How Narcissists Pull You Back In",
+      "videoId": "a33w32t0YGw",
+      "channel": "DoctorRamani",
+      "publishedAt": "2026-11-23T16:00:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/a33w32t0YGw/hqdefault.jpg",
+      "tags": []
+    },
     {
       "id": "yt:video:qeyTflBhnX0",
       "title": "Dr. Gabor Maté: How Childhood Trauma Keeps You Trapped in Toxic Relationships",
@@ -126,15 +135,6 @@
       "channel": "DoctorRamani",
       "publishedAt": "2026-10-28T15:00:34.000Z",
       "thumbnail": "https://i.ytimg.com/vi/h1PMNSFgunc/hqdefault.jpg",
-      "tags": []
-    },
-    {
-      "id": "yt:video:kfnkz_up508",
-      "title": "The Hidden Damage Narcissists Do to Your Identity (And How to Reclaim Yourself)",
-      "videoId": "kfnkz_up508",
-      "channel": "DoctorRamani",
-      "publishedAt": "2026-10-26T15:00:02.000Z",
-      "thumbnail": "https://i.ytimg.com/vi/kfnkz_up508/hqdefault.jpg",
       "tags": []
     },
     {
